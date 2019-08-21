@@ -1,8 +1,1 @@
-{	
-	"AMSVersion": "1.43"
-	"AMSLink": "https://buy.hpe.com/b2c/us/en/software/server-management-software/server-ilo-management/ilo-management-engine/hpe-agentless-management/p/5219980"
-	"SysInfoVersion": "3"
-	"CHIFVersion": "2" //remove
-	"iLOFW": "1.40"
-	"SystemROMVersion": "1.50"
-}
+{ "AMSVersion": "1.43", "AMSLink": "https://buy.hpe.com/b2c/us/en/software/server-management-software/server-ilo-management/ilo-management-engine/hpe-agentless-management/p/5219980", "SysInfoVersion": "3", "CHIFVersion": "2" //remove, "iLOFW": "1.40", "SystemROMVersion": "1.50"}
