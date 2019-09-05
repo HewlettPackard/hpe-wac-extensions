@@ -1,10 +1,10 @@
 {
     "AMSLink":  "https://buy.hpe.com/b2c/us/en/software/server-management-software/server-ilo-management/ilo-management-engine/hpe-agentless-management/p/5219980",
-    "SysRomLink":  "\u0027https://internal.support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_960bc21d044f4f45b96542b001",
+    "SysRomLink":  "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "SysRomVersion":  "1.20",
     "AMSVersion":  "2.10",
     "SysInfoLink":  "https://www.powershellgallery.com/packages/SysInfo/1.2.0",
-    "iLOFWLink":  "\u0027https://internal.support.hpe.com/hpsc/swd/public/detail?swItemId=MTX_960bc21d044f4f45b96542b001",
+    "iLOFWLink":  "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "iLOFWVersion":  "1.40",
     "SysInfoVersion":  "1.22.0"
 }
