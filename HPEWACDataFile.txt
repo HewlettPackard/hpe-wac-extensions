@@ -6,5 +6,5 @@
     "SysInfoLink":  "https://www.powershellgallery.com/packages/SysInfo/1.2.0",
     "iLOFWLink":  "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "iLOFWVersion":  "1.40",
-    "SysInfoVersion":  "1.2.0"
+    "SysInfoVersion":  "1.22.0"
 }
