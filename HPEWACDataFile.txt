@@ -2,8 +2,8 @@
     "AMSLink":  "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "SysRomLink":  "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "SysRomVersion":  "2.10",
-    "AMSVersion":  "1.44",
-    "SysInfoLink":  "https://www.powershellgallery.com/packages/SysInfo",
+    "AMSVersion":  "1.44.0.0",
+    "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
     "iLOFWLink":  "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "iLOFWVersion":  "1.45",
     "SysInfoVersion":  "1.3.0.0"
