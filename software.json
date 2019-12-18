@@ -1,0 +1,2457 @@
+{
+  "ams": {
+    "Microsoft Windows Server 2016": {
+      "Agentless Management Service for Windows X64": "1.44.0.0"
+    },
+    "Microsoft Windows Server 2012 R2": {
+      "Agentless Management Service for Windows X64": "1.44.0.0"
+    },
+    "Microsoft Windows Server 2019": {
+      "Agentless Management Service for Windows X64": "1.44.0.0"
+    }
+  },
+  "cmdlet": {
+    "sysinfo": "1.3.0.0"
+  },
+  "url": {
+    "SPPLink": "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets"
+  },
+  "driver": {
+    "HP FlexFabric 20Gb 2-port 650FLB Adapter (iSCSI)": {
+      "be2iscsi.w2k12": "12.0.1171.0",
+      "be2iscsi.w2k12r2": "12.0.1171.0",
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2iscsi.w2k16": "12.0.1171.0",
+      "be2iscsi.w2k19": "12.0.1171.0"
+    },
+    "HP FlexFabric 20Gb 2-port 650M Adapter (iSCSI)": {
+      "be2iscsi.w2k12": "12.0.1171.0",
+      "be2iscsi.w2k12r2": "12.0.1171.0",
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2iscsi.w2k16": "12.0.1171.0",
+      "be2iscsi.w2k19": "12.0.1171.0"
+    },
+    "HP StoreFabric CN1200E 10Gb Converged Network Adapter (iSCSI)": {
+      "be2iscsi.w2k12": "12.0.1171.0",
+      "be2iscsi.w2k12r2": "12.0.1171.0",
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2iscsi.w2k16": "12.0.1171.0",
+      "be2iscsi.w2k19": "12.0.1171.0"
+    },
+    "HPE StoreFabric CN1200E-T Adapter (iSCSI)": {
+      "be2iscsi.w2k12": "12.0.1171.0",
+      "be2iscsi.w2k12r2": "12.0.1171.0",
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2iscsi.w2k16": "12.0.1171.0",
+      "be2iscsi.w2k19": "12.0.1171.0"
+    },
+    "HP LPe1205A 8Gb Fibre Channel Host Bus Adapter for BladeSystem c-Class": {
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HP LPe1605 16Gb Fibre Channel Host Bus Adapter for BladeSystem c-Class": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "Emulex Generic 8Gb PCI Express Fibre Channel HBA (F100)": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE StoreFabric 84E 4-port 8Gb Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HP 81E 8Gb 1-port PCIe Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HP 82E 8Gb 2-port PCIe Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HP SN1000E 16Gb 1-port PCIe Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HP SN1000E 16Gb 2-port PCIe Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HP StoreFabric SN1100E 16Gb Dual Port Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HP StoreFabric SN1100E 16Gb Single Port Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE StoreFabric SN1100E 4-port 16Gb Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE Synergy 3530C 16Gb Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE StoreFabric SN1200E 16Gb Dual Port Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE StoreFabric SN1200E 16Gb Single Port Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE StoreFabric SN1600E 32Gb Dual Port Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE StoreFabric SN1600E 32Gb Single Port Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE Synergy 5330C 32Gb Fibre Channel Host Bus Adapter": {
+      "emulex_windows_smartsan_enablement.x64": "1.0.0.1(h)",
+      "emulex_storport_x64.win": "12.0.318.0",
+      "emulex.fc.fw.win.x64": "2019.03.01",
+      "emulex_storport_x64.w2k19": "12.0.318.0"
+    },
+    "HPE D2500sb Storage Blade": {
+      "Sheldon_Gen10_EXP_Win": "2.00(B)"
+    },
+    "HPE Smart Array P408i-sb Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "Sheldon_Gen10_EXP_Win": "2.00(B)"
+    },
+    "NVMe Backplane PIC Firmware": {
+      "Gen10_NVMe_Backplane_PIC.win.x64": "1.20(D)",
+      "NVMe_Backplane_PIC.win.x64": "8.4(E)"
+    },
+    "Intel 562 Virtual function for ESXi6.5": {
+      "vxs.w2k19": "2.1.138.0",
+      "vxs.w2k16": "2.1.133.0",
+      "vxs.w2k12_r2": "1.2.131.0"
+    },
+    "Intel 562 Virtual function for Hyper-V": {
+      "vxs.w2k19": "2.1.138.0",
+      "vxs.w2k16": "2.1.133.0",
+      "vxs.w2k12_r2": "1.2.131.0"
+    },
+    "Intel 562 Virtual function for Linux,ESX6.0": {
+      "vxs.w2k19": "2.1.138.0",
+      "vxs.w2k16": "2.1.133.0",
+      "vxs.w2k12_r2": "1.2.131.0"
+    },
+    "HPE Smart Array P204i-b Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P204i-c Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P408e-m Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P408e-p Controller": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P408i-a Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P408i-c Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P408i-p Controller": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P416ie-m SR Gen10 Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array P816i-a Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array E208e-p Controller": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array E208i-a Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array E208i-c Controller": {
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array E208i-p Controller": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "P408i-p_P408e-p_P408i-a_P408i-c_E208i-p_x64": "1.99",
+      "SmartPqi.win": "106.100.0.1014",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "MB012000JWDFD": {
+      "MB012000JWDFD_x64": "HPD2(B)"
+    },
+    "EO0800JEFPF": {
+      "MO0200JEFNV_MO0400JEFPA_MO0800JEFPB_MO1600JEFP_x64": "HPD3(C)"
+    },
+    "MO1600JEFPC": {
+      "MO0200JEFNV_MO0400JEFPA_MO0800JEFPB_MO1600JEFP_x64": "HPD3(C)"
+    },
+    "EO0200JEFPD": {
+      "MO0200JEFNV_MO0400JEFPA_MO0800JEFPB_MO1600JEFP_x64": "HPD3(C)"
+    },
+    "MO0200JEFNV": {
+      "MO0200JEFNV_MO0400JEFPA_MO0800JEFPB_MO1600JEFP_x64": "HPD3(C)"
+    },
+    "EO0400JEFPE": {
+      "MO0200JEFNV_MO0400JEFPA_MO0800JEFPB_MO1600JEFP_x64": "HPD3(C)"
+    },
+    "MO0400JEFPA": {
+      "MO0200JEFNV_MO0400JEFPA_MO0800JEFPB_MO1600JEFP_x64": "HPD3(C)"
+    },
+    "MO0800JEFPB": {
+      "MO0200JEFNV_MO0400JEFPA_MO0800JEFPB_MO1600JEFP_x64": "HPD3(C)"
+    },
+    "HP FlexFabric 20Gb 2-port 650FLB Adapter (BLOM)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "emulex_fcoe_x64.w2k19": "12.0.1192.0(b)",
+      "emulex_fcoe_x64.win": "12.0.1192.0"
+    },
+    "HP FlexFabric 20Gb 2-port 650M Adapter (Mezz)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "emulex_fcoe_x64.w2k19": "12.0.1192.0(b)",
+      "emulex_fcoe_x64.win": "12.0.1192.0"
+    },
+    "HP StoreFabric CN1200E 10Gb Converged Network Adapter (FCoE)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "emulex_fcoe_x64.w2k19": "12.0.1192.0(b)",
+      "emulex_fcoe_x64.win": "12.0.1192.0"
+    },
+    "HPE StoreFabric CN1200E-T 10GBASE-T Converged Network Adapter (FCoE)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "emulex_fcoe_x64.w2k19": "12.0.1192.0(b)",
+      "emulex_fcoe_x64.win": "12.0.1192.0"
+    },
+    "HPE Ethernet 10Gb 2-port 562FLR-SFP+ Adapter": {
+      "i40ea.w2k16": "1.9.221.0",
+      "i40ea.w2k12_r2": "1.9.221.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40ea.w2k12": "1.9.221.0",
+      "i40ea.w2k19": "1.9.230.0"
+    },
+    "HPE Ethernet 10Gb 2-port 562SFP+ Adapter": {
+      "i40ea.w2k16": "1.9.221.0",
+      "i40ea.w2k12_r2": "1.9.221.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40ea.w2k12": "1.9.221.0",
+      "i40ea.w2k19": "1.9.230.0"
+    },
+    "Intel 562xxx 2nd Port": {
+      "i40ea.w2k16": "1.9.221.0",
+      "i40ea.w2k12_r2": "1.9.221.0",
+      "i40ea.w2k12": "1.9.221.0",
+      "i40ea.w2k19": "1.9.230.0"
+    },
+    "HPE Synergy 4610C 10/25Gb Ethernet Adapter": {
+      "i40ea.w2k16": "1.9.221.0",
+      "i40ea.w2k12_r2": "1.9.221.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40ea.w2k19": "1.9.230.0"
+    },
+    "Intel 4610C 2nd Port": {
+      "i40ea.w2k16": "1.9.221.0",
+      "i40ea.w2k12_r2": "1.9.221.0",
+      "i40ea.w2k19": "1.9.230.0"
+    },
+    "HP InfiniBand FDR/Ethernet 10Gb/40Gb 2-port 544+FLR-QSFP Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "MLNX_VPI_Ethernet_Infiniband_HCA_FW_package.x64": "1.0.0.8",
+      "mlnxcx3.w2k12": "5.35.12978.0",
+      "mlnxcx3.w2k16": "5.35.12978.0(C)"
+    },
+    "HP InfiniBand FDR/Ethernet 10Gb/40Gb 2-port 544+M Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "MLNX_VPI_Ethernet_Infiniband_HCA_FW_package.x64": "1.0.0.8",
+      "mlnxcx3.w2k12": "5.35.12978.0",
+      "mlnxcx3.w2k16": "5.35.12978.0(C)"
+    },
+    "HP InfiniBand FDR/Ethernet 10Gb/40Gb 2-port 544+QSFP Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "MLNX_VPI_Ethernet_Infiniband_HCA_FW_package.x64": "1.0.0.8",
+      "mlnxcx3.w2k12": "5.35.12978.0",
+      "mlnxcx3.w2k16": "5.35.12978.0(C)"
+    },
+    "HP InfiniBand QDR/Ethernet 10Gb 2-port 544+FLR-QSFP Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "MLNX_VPI_Ethernet_Infiniband_HCA_FW_package.x64": "1.0.0.8",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "HP InfiniBand QDR/Ethernet 10Gb 2-port 544+M Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "MLNX_VPI_Ethernet_Infiniband_HCA_FW_package.x64": "1.0.0.8",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "VK003840GWCFK": {
+      "VK000240GWCFD_VK000480GWCFE_VK000960GWCFF_x64": "HPG3(B)"
+    },
+    "VK001920GWCFH": {
+      "VK000240GWCFD_VK000480GWCFE_VK000960GWCFF_x64": "HPG3(B)"
+    },
+    "VK000960GWCFF": {
+      "VK000240GWCFD_VK000480GWCFE_VK000960GWCFF_x64": "HPG3(B)"
+    },
+    "VK000480GWCFE": {
+      "VK000240GWCFD_VK000480GWCFE_VK000960GWCFF_x64": "HPG3(B)"
+    },
+    "VK000240GWCFD": {
+      "VK000240GWCFD_VK000480GWCFE_VK000960GWCFF_x64": "HPG3(B)"
+    },
+    "EG001200JWJNQ": {
+      "EG000600JWJNP_EG001200JWJNQ_x64": "HPD2"
+    },
+    "EG000600JWJNP": {
+      "EG000600JWJNP_EG001200JWJNQ_x64": "HPD2"
+    },
+    "VO007680JWTBP": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "MO006400JWTCD": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "VO003840JWTBN": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "MO003200JWTBU": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "EO003200JWTCC": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "VO001920JWTBL": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "MO001600JWTBT": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "EO001600JWTCB": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "VO000960JWTBK": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "MO000800JWTBR": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "EO000800JWTCA": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "MO000400JWTBQ": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "EO000400JWTBV": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "MO001920JWWWV": {
+      "VO000960JWTBK_VO001920JWTBL_VO003840JWTBN_x64": "HPD5"
+    },
+    "HPE Ethernet 10/25Gb 2-port 621SFP28 Adapter": {
+      "nicfwupg_qlflq.win64": "5.1.4.0",
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE Ethernet 10/25Gb 2-port 622FLR-SFP28 Adapter": {
+      "nicfwupg_qlflq.win64": "5.1.4.0",
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE Ethernet 10Gb 2-port 521T Adapter": {
+      "nicfwupg_qlflq.win64": "5.1.4.0",
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE StoreFabric CN1200R-T Converged Network Adapter": {
+      "nicfwupg_qlflq.win64": "5.1.4.0",
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE StoreFabric CN1300R Converged Network Adapter": {
+      "nicfwupg_qlflq.win64": "5.1.4.0",
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE Synergy 4820C 10/20/25Gb Converged Network Adapter": {
+      "nicfwupg_qlflq.win64": "5.1.4.0",
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE Synergy 6810C 25/50Gb Ethernet Adapter": {
+      "nicfwupg_qlflq.win64": "5.1.4.0",
+      "qevbd.win64": "8.37.37.0"
+    },
+    "VO1920JEUQQ": {
+      "VO1920JEUQQ_x64": "HPD3(C)"
+    },
+    "EH0300JDXBA": {
+      "EH0300JDXBA_EH0450JDXBB_EH0600JDXBC_x64": "HPD5(C)"
+    },
+    "EH0450JDXBB": {
+      "EH0300JDXBA_EH0450JDXBB_EH0600JDXBC_x64": "HPD5(C)"
+    },
+    "EH0600JDXBC": {
+      "EH0300JDXBA_EH0450JDXBB_EH0600JDXBC_x64": "HPD5(C)"
+    },
+    "ILO 4 GLP (Function 0 / CSM)": {
+      "iLO4_fw_Win.x64": "2.70",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "ilo3.win2016.x64": "4.0.0.0(B)",
+      "ilo3.win.x64": "4.0.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "ILO 4 GLP (Function 2 / CHIF)": {
+      "hpqams.win.x64": "10.96.0.0",
+      "hpsmh_x64.win": "7.6.3.3",
+      "iLO4_fw_Win.x64": "2.70",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "ilo3ci.win2016.x64": "4.1.0.0",
+      "isut.windows_64": "2.4.5.0",
+      "ilo3ci.win.x64": "4.1.0.0"
+    },
+    "ILO 3 GXE (Function 0 / CSM)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GXE (Function 2 / CHIF)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GLP (Function 0 / CSM)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GLP (Function 2 / CHIF)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "HP Ethernet 10Gb 2-port 546FLR-SFP+ Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0",
+      "mlnxcx3.w2k16": "5.35.12978.0(C)",
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.10"
+    },
+    "HP Ethernet 10Gb 2-port 546SFP+ Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0",
+      "mlnxcx3.w2k16": "5.35.12978.0(C)",
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.10"
+    },
+    "HPE Ethernet 100Gb 1-port 842QSFP28 Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0",
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.10"
+    },
+    "HPE Ethernet 25Gb 2-port 640 FLR-SFP28 Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0",
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.10"
+    },
+    "HPE Ethernet 25Gb 2-port 640SFP28 Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0",
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.10"
+    },
+    "HPE Synergy 6410C 25/50Gb Ethernet Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0",
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.10"
+    },
+    "iLO 5 (Function 0 / CSM, subsystem 00E41590)": {
+      "iLO5_FW_WIN.X64": "1.45",
+      "ams.win.x64": "1.44.0.0",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "neches.asr.win2016.x64": "4.4.0.0(B)",
+      "isut.windows_64": "2.4.5.0",
+      "neches.asr.win2012.x64": "4.4.0.0"
+    },
+    "iLO 5 (Function 2 / CHIF, subsystem 00E41590)": {
+      "iLO5_FW_WIN.X64": "1.45",
+      "neches.chif.win2012.x64": "4.5.0.0",
+      "ams.win.x64": "1.44.0.0",
+      "neches.chif.win2016.x64": "4.5.0.0",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "MB4000JEXYA": {
+      "MB4000JEXYA_MB6000JEXYB_x64": "HPD9"
+    },
+    "MB6000JEXYB": {
+      "MB4000JEXYA_MB6000JEXYB_x64": "HPD9"
+    },
+    "HP Virtual Connect Flex-10 10Gb Ethernet Module for c-Class BladeSystem": {
+      "virtual_connect_fwsc.all.win": "4.75"
+    },
+    "HP Virtual Connect 8Gb 20-port Fibre Channel Module for c-Class BladeSystem": {
+      "virtual_connect_fwsc.all.win": "4.75"
+    },
+    "HP Virtual Connect FlexFabric 10Gb/24-port Module for c-Class BladeSystem": {
+      "virtual_connect_fwsc.all.win": "4.75"
+    },
+    "HP Virtual Connect 8Gb Fibre Channel Module for c-Class BladeSystem": {
+      "virtual_connect_fwsc.all.win": "4.75"
+    },
+    "HP Virtual Connect Flex-10/10D Module for c-Class BladeSystem": {
+      "virtual_connect_fwsc.all.win": "4.75"
+    },
+    "HP Virtual Connect FlexFabric-20/40 F8 Module for c-Class BladeSystem": {
+      "virtual_connect_fwsc.all.win": "4.75"
+    },
+    "HP Virtual Connect 16Gb 24-port Fibre Channel Module for c-Class BladeSystem": {
+      "virtual_connect_fwsc.all.win": "4.75"
+    },
+    "HPE Smart Array P421 Controller": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE Smart Array P420 Controller": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE Smart Array P420i Controller": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE Smart Array P222 Controller": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE Smart Array P220i Controller": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P822 Controller": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "Smart Array P721m": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP D2220sb Storage Blade": {
+      "P220i_P222_P420i_P421_P721m_P822.win_x64": "8.32(C)",
+      "cissesrv.win.x86_64": "6.46.0.64(E)"
+    },
+    "MM1000GFJTE": {
+      "MM1000GFJTE_x64": "HPG5"
+    },
+    "HP BladeSystem c7000 Enclosure": {
+      "onboard_admin_fwsc.win": "4.90"
+    },
+    "HPE Onboard Administrator": {
+      "onboard_admin_fwsc.win": "4.90"
+    },
+    "HP BladeSystem c3000 Enclosure": {
+      "onboard_admin_fwsc.win": "4.90"
+    },
+    "MB8000GFECR": {
+      "MB8000GFECR_x64": "HPG6"
+    },
+    "EG000300JWEBF": {
+      "EG000600JWEBH_EG000300JWEBF_x64": "HPD4"
+    },
+    "EG000600JWEBH": {
+      "EG000600JWEBH_EG000300JWEBF_x64": "HPD4"
+    },
+    "HPE Ethernet 10Gb 2-port 562FLR-T Adapter": {
+      "ixs.w2k19": "4.1.143.0",
+      "ixs.w2k12_r2": "3.14.132.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "ixs.w2k16": "4.1.131.0"
+    },
+    "HPE Ethernet 10Gb 2-port 562T Adapter": {
+      "ixs.w2k19": "4.1.143.0",
+      "ixs.w2k12_r2": "3.14.132.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "ixs.w2k16": "4.1.131.0"
+    },
+    "MB006000GWBXQ": {
+      "MB006000GWBXQ_MB008000GWBYL_x64": "HPG8"
+    },
+    "MB008000GWBYL": {
+      "MB006000GWBXQ_MB008000GWBYL_x64": "HPG8"
+    },
+    "EG000300JWBHR": {
+      "EG000300JWBHR_x64": "HPD4"
+    },
+    "Intel Xeon Scalable Processor Family (first generation) device 0 fn 0 subsystem 00EA1590": {
+      "nvmenmifix.gen10.win": "1.1.0.0(C)"
+    },
+    "MR001920GWFMB": {
+      "MR000240GWFLU_MR000480GWFLV_VR000480GWFMD_MR00_x64": "HPGB(B)"
+    },
+    "VR001920GWFMC": {
+      "MR000240GWFLU_MR000480GWFLV_VR000480GWFMD_MR00_x64": "HPGB(B)"
+    },
+    "MR000240GWFLU": {
+      "MR000240GWFLU_MR000480GWFLV_VR000480GWFMD_MR00_x64": "HPGB(B)"
+    },
+    "MR000480GWFLV": {
+      "MR000240GWFLU_MR000480GWFLV_VR000480GWFMD_MR00_x64": "HPGB(B)"
+    },
+    "VR000480GWFMD": {
+      "MR000240GWFLU_MR000480GWFLV_VR000480GWFMD_MR00_x64": "HPGB(B)"
+    },
+    "MR000960GWFMA": {
+      "MR000240GWFLU_MR000480GWFLV_VR000480GWFMD_MR00_x64": "HPGB(B)"
+    },
+    "VR000960GWFME": {
+      "MR000240GWFLU_MR000480GWFLV_VR000480GWFMD_MR00_x64": "HPGB(B)"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 1-port 840QSFP28 Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "MLNX_VPI_CX4_CX5_HCA_FW_package.x64": "1.0.0.5",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 2-port 840QSFP28 Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "MLNX_VPI_CX4_CX5_HCA_FW_package.x64": "1.0.0.5",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 2-port 841QSFP28 Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "MLNX_VPI_CX4_CX5_HCA_FW_package.x64": "1.0.0.5",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "HPE InfiniBand FDR/Ethernet 40/50Gb 2-port 547FLR-QSFP Adapter": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "MLNX_VPI_CX4_CX5_HCA_FW_package.x64": "1.0.0.5",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "HP Ethernet 1Gb 2-port 332i Adapter (22E8)": {
+      "b57.win64": "214.0.0.0(B)",
+      "nicfwupg_bcm.win64": "5.1.4.0"
+    },
+    "HP Ethernet 1Gb 2-port 330i Adapter (22BD)": {
+      "b57.win64": "214.0.0.0(B)",
+      "nicfwupg_bcm.win64": "5.1.4.0"
+    },
+    "HP Ethernet 1Gb 2-port 332T Adapter": {
+      "b57.win64": "214.0.0.0(B)",
+      "nicfwupg_bcm.win64": "5.1.4.0"
+    },
+    "HP Ethernet 1Gb 4-port 331FLR Adapter": {
+      "b57.win64": "214.0.0.0(B)",
+      "nicfwupg_bcm.win64": "5.1.4.0"
+    },
+    "HP Ethernet 1Gb 4-port 331T Adapter": {
+      "b57.win64": "214.0.0.0(B)",
+      "nicfwupg_bcm.win64": "5.1.4.0"
+    },
+    "HP Ethernet 1Gb 4-port 331i Adapter (22BE)": {
+      "b57.win64": "214.0.0.0(B)",
+      "nicfwupg_bcm.win64": "5.1.4.0"
+    },
+    "MB010000JWAYK": {
+      "MB010000JWAYK_MB008000JWAYH_x64": "HPD5(B)"
+    },
+    "MB008000JWAYH": {
+      "MB010000JWAYK_MB008000JWAYH_x64": "HPD5(B)"
+    },
+    "HP H221 Host Bus Adapter": {
+      "lsi_sas2.w2012_R2.x64": "2.68.64.1(B)",
+      "lsi_sas2.w2016.x64": "2.68.64.2(C)",
+      "lsi_sas2.w2012.x64": "2.68.64.0(B)",
+      "HBA_H221_Win_x64": "15.10.10.00(E)"
+    },
+    "HP Smart Array P440 Controller": {
+      "Apollo_2000.win": "1.51",
+      "Apollo_4200_Gen10.win": "1.78(A)",
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart HBA H240": {
+      "Apollo_2000.win": "1.51",
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P840 Controller": {
+      "Apollo_2000.win": "1.51",
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "4510 Gen10 SEP": {
+      "Apollo_Gen10_45xx.Win": "1.56(C)"
+    },
+    "MK001920GWJPQ": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "VK001920GWJPH": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "MK000240GWKVK": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "VK000240GWJPD": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "VK003840GWJPK": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "MK000480GWJPN": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "VK000480GWJPE": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "MK000960GWJPP": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "VK000960GWJPF": {
+      "MK000240GWKVK_MK000480GWJPN_MK000960GWJPP_MK00_x64": "HPG5"
+    },
+    "EG1800JEMDB": {
+      "EG1800JEMDB_x64": "HPD5(C)"
+    },
+    "MB4000GVYZA": {
+      "MB6000GVYZB_MB4000GVYZA_x64": "HPG4"
+    },
+    "MB6000GVYZB": {
+      "MB6000GVYZB_MB4000GVYZA_x64": "HPG4"
+    },
+    "EH0600JDYTN": {
+      "EH0600JDYTN_x64": "HPD7(B)"
+    },
+    "Intel&reg; 82599 Virtual Function": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k19": "2.1.138.0",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel® 82599 Virtual Function for 560FLB VMware": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k19": "2.1.138.0",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel® 82599 Virtual Function for 560FLR-SFP+ VMware": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k19": "2.1.138.0",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel® 82599 Virtual Function for 560M VMware": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k19": "2.1.138.0",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel&reg; 82599 Virtual Function for 560SFP+ VMware": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k19": "2.1.138.0",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel® 82599 Virtual Function for P560SFP+ VMware": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k19": "2.1.138.0",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel&reg; X540 Virtual Function": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k19": "2.1.138.0",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel&reg; X540 Virtual Function for 561FLR-T VMware": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "Intel® X540 Virtual Function for 561T VMware": {
+      "vxn.w2k12_r2": "1.0.16.1",
+      "vxn.w2k12": "1.0.15.4",
+      "vxn.w2k16": "2.0.210.0(C)"
+    },
+    "VK0240GEPQN": {
+      "VK0240GEPQN_VK0480GEPQP_VK0960GEPQQ_x64": "HPG1(D)"
+    },
+    "VK0480GEPQP": {
+      "VK0240GEPQN_VK0480GEPQP_VK0960GEPQQ_x64": "HPG1(D)"
+    },
+    "VK0960GEPQQ": {
+      "VK0240GEPQN_VK0480GEPQP_VK0960GEPQQ_x64": "HPG1(D)"
+    },
+    "HPE StoreFabric SN1000Q 16GB 2-port PCIe Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE StoreFabric SN1000Q 16GB 1-port PCIe Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HP 82Q 8Gb 2-port PCIe Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HP 81Q 8Gb 1-port PCIe Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HP QMH2572 8Gb Fibre Channel Host Bus Adapter for c-Class BladeSystem": {
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HP QMH2672 16GB FC HBA for c-Class BladeSystem": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE Synergy 3830C 16G Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE StoreFabric SN1100Q 16Gb Dual Port Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE StoreFabric SN1100Q 16Gb Single Port Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE StoreFabric 84Q 4-port 8Gb Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE StoreFabric SN1600Q 32Gb Dual Port Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE StoreFabric SN1600Q 32Gb Single Port Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HPE Synergy 5830C 32Gb Fibre Channel Host Bus Adapter": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic.online.fw.win.x64": "2019.03.02",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "EK001600GWEPH": {
+      "EK000200GWEPD_EK000400GWEPE_EK000800GWEPF_EK00_x64": "HPG3(B)"
+    },
+    "EK000800GWEPF": {
+      "EK000200GWEPD_EK000400GWEPE_EK000800GWEPF_EK00_x64": "HPG3(B)"
+    },
+    "EK000400GWEPE": {
+      "EK000200GWEPD_EK000400GWEPE_EK000800GWEPF_EK00_x64": "HPG3(B)"
+    },
+    "EK000200GWEPD": {
+      "EK000200GWEPD_EK000400GWEPE_EK000800GWEPF_EK00_x64": "HPG3(B)"
+    },
+    "MB2000GCWLT": {
+      "MB2000GCWLT_MB3000GCWLU_MB4000GCWLV_x64": "HPG4(E)"
+    },
+    "MB3000GCWLU": {
+      "MB2000GCWLT_MB3000GCWLU_MB4000GCWLV_x64": "HPG4(E)"
+    },
+    "MB4000GCWLV": {
+      "MB2000GCWLT_MB3000GCWLU_MB4000GCWLV_x64": "HPG4(E)"
+    },
+    "MB008000JWJRQ": {
+      "MB008000JWJRQ_MB006000JWJRP_x64": "HPD4"
+    },
+    "MB006000JWJRP": {
+      "MB008000JWJRQ_MB006000JWJRP_x64": "HPD4"
+    },
+    "MB2000JFEPA": {
+      "MB2000JFEPA_MB4000JFEPB_x64": "HPD5(C)"
+    },
+    "MB4000JFEPB": {
+      "MB2000JFEPA_MB4000JFEPB_x64": "HPD5(C)"
+    },
+    "MB4000JEFNC": {
+      "MB4000JEFNC_MB6000JEFND_x64": "HPD9(C)"
+    },
+    "MB6000JEFND": {
+      "MB4000JEFNC_MB6000JEFND_x64": "HPD9(C)"
+    },
+    "EG0300FCSPH": {
+      "EG0300FCSPH_EG0450FCSPK_EG0600FCSPL_EG0900FCSP_x64": "HPD2(C)"
+    },
+    "EG0450FCSPK": {
+      "EG0300FCSPH_EG0450FCSPK_EG0600FCSPL_EG0900FCSP_x64": "HPD2(C)"
+    },
+    "EG0600FCSPL": {
+      "EG0300FCSPH_EG0450FCSPK_EG0600FCSPL_EG0900FCSP_x64": "HPD2(C)"
+    },
+    "EG0900FCSPN": {
+      "EG0300FCSPH_EG0450FCSPK_EG0600FCSPL_EG0900FCSP_x64": "HPD2(C)"
+    },
+    "HP Dynamic Smart Array B140i Controller (009C)": {
+      "hpsa3.w2012.x64": "62.12.0.64(B)",
+      "cissesrv.win.x86_64": "6.46.0.64(E)"
+    },
+    "HP Dynamic Smart Array B140i Controller (009D)": {
+      "hpsa3.w2012.x64": "62.12.0.64(B)",
+      "cissesrv.win.x86_64": "6.46.0.64(E)"
+    },
+    "HP Dynamic Smart Array B140i Controller (A106)": {
+      "hpsa3.w2012.x64": "62.12.0.64(B)",
+      "cissesrv.win.x86_64": "6.46.0.64(E)"
+    },
+    "HP Dynamic Smart Array B140i Controller (A107)": {
+      "hpsa3.w2012.x64": "62.12.0.64(B)",
+      "cissesrv.win.x86_64": "6.46.0.64(E)"
+    },
+    "HPE Ethernet 10/25Gb 2-port 631FLR-SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE Ethernet 10/25Gb 2-port 631SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE Ethernet 10Gb 2-port 535FLR-T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE Ethernet 10Gb 2-port 535T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR 535FLR-T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR 535T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR 631FLR-SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR 631SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR RoCE 535FLR-T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR RoCE 535T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR RoCE 631FLR-SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE NPAR RoCE 631SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "nicfwupg_bcme.win64": "5.1.4.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF 535FLR-T and 535T Adapters": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF 631FLR-SFP28 and 631SFP28 Adapters": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF Hyper-V 535FLR-T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF Hyper-V 535T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF Hyper-V 631FLR-SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF Hyper-V 631SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF RoCE 535FLR-T and 535T Adapters": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF RoCE 631FLR-SFP28 and 631SFP28 Adapters": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF RoCE Hyper-V 535FLR-T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF RoCE Hyper-V 535T Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF RoCE Hyper-V 631FLR-SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HPE VF RoCE Hyper-V 631SFP28 Adapter": {
+      "bnxtnd.w2k16": "214.0.177.0",
+      "bnxtnd.w2k19": "214.0.177.0",
+      "bnxtnd.w2k12_r2": "214.0.177.0"
+    },
+    "HP Express Bay 6-port Bridge Card": {
+      "Express_Bay.win": "1.78(C)"
+    },
+    "HP D3600 Enclosure": {
+      "D3000.fwsc.win_x64": "4.12"
+    },
+    "HP D3700 Enclosure": {
+      "D3000.fwsc.win_x64": "4.12"
+    },
+    "HPE D3610 Enclosure": {
+      "D3000.fwsc.win_x64": "4.12"
+    },
+    "HPE D3710 Enclosure": {
+      "D3000.fwsc.win_x64": "4.12"
+    },
+    "HP FlexFabric 20Gb 2-port 650FLB Adapter (NIC)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "HP FlexFabric 20Gb 2-port 650M Adapter (NIC)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "HP StoreFabric CN1200E 10Gb Converged Network Adapter (NIC)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "HPE StoreFabric CN1200E 10GBASE-T Dual Port Converged Network Adapter (NIC)": {
+      "emulex.cna.fw.win.x64": "2019.03.01",
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "VK007680GWSXN": {
+      "VK007680GWSXN_x64": "HPG2"
+    },
+    "HP Ethernet 1Gb 2-port 363i Adapter": {
+      "e1r.w2k19": "12.15.184.1",
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "e1r.w2k16": "12.15.184.0(C)"
+    },
+    "HPE Ethernet 1Gb 4-port 366i Communication Board": {
+      "e1r.w2k19": "12.15.184.1",
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "e1r.w2k16": "12.15.184.0(C)"
+    },
+    "HP Ethernet 1Gb 2-port 361i Adapter": {
+      "e1r.w2k19": "12.15.184.1",
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "e1r.w2k16": "12.15.184.0(C)"
+    },
+    "HP Ethernet 1Gb 4-port 366i Adapter": {
+      "e1r.w2k19": "12.15.184.1",
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "e1r.w2k16": "12.15.184.0(C)"
+    },
+    "HP Ethernet 1Gb 2-port 361T Adapter": {
+      "e1r.w2k19": "12.15.184.1",
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "e1r.w2k16": "12.15.184.0(C)"
+    },
+    "HP Ethernet 1Gb 4-port 366FLR Adapter": {
+      "e1r.w2k19": "12.15.184.1",
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "e1r.w2k16": "12.15.184.0(C)"
+    },
+    "HP Ethernet 1Gb 4-port 366T Adapter": {
+      "e1r.w2k19": "12.15.184.1",
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "e1r.w2k16": "12.15.184.0(C)"
+    },
+    "HPE Ethernet 1Gb 2-port 368i Adapter": {
+      "i40eb.w2k19": "1.9.230.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40eb.w2k12_r2": "1.9.221.0",
+      "i40eb.w2k16": "1.9.221.0"
+    },
+    "HPE Ethernet 1Gb 4-port 369i Adapter": {
+      "i40eb.w2k19": "1.9.230.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40eb.w2k12_r2": "1.9.221.0",
+      "i40eb.w2k16": "1.9.221.0"
+    },
+    "HPE Ethernet 10Gb 2-port 568FLR-MMSFP+ Adapter": {
+      "i40eb.w2k19": "1.9.230.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40eb.w2k12_r2": "1.9.221.0",
+      "i40eb.w2k16": "1.9.221.0"
+    },
+    "HPE Ethernet 10Gb 2-port 568FLR-MMT Adapter": {
+      "i40eb.w2k19": "1.9.230.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40eb.w2k12_r2": "1.9.221.0",
+      "i40eb.w2k16": "1.9.221.0"
+    },
+    "HPE Ethernet 1Gb 2-port 368FLR-MMT Adapter": {
+      "i40eb.w2k19": "1.9.230.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40eb.w2k12_r2": "1.9.221.0",
+      "i40eb.w2k16": "1.9.221.0"
+    },
+    "HP 12Gb SAS Expander Card for DL380 Gen9": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "Gen9_EXP.win": "4.22"
+    },
+    "HPE Smart Array S100i SR Gen10 SW RAID (193F_00E4)": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "SmartDQ.win": "106.12.4.0",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array S100i SR Gen10 SW RAID (A186_00E5)": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "SmartDQ.win": "106.12.4.0"
+    },
+    "HPE Smart Array S100i SR Gen10 SW RAID (A1D6_00E6)": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "SmartDQ.win": "106.12.4.0"
+    },
+    "HPE Smart Array S100i SR Gen10 SW RAID (A206_00E5)": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "SmartDQ.win": "106.12.4.0",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HPE Smart Array S100i SR Gen10 SW RAID (A256_00E6)": {
+      "Apollo_2000_Gen10.Win": "1.00(B)",
+      "SmartDQ.win": "106.12.4.0",
+      "hpepqiesrv.win": "1.2.1.64(A)"
+    },
+    "HP Smart Array P441 Controller": {
+      "Apollo_4200_Gen10.win": "1.78(A)",
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P840ar Controller": {
+      "Apollo_4200_Gen10.win": "1.78(A)",
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P841 Controller": {
+      "Apollo_4200_Gen10.win": "1.78(A)",
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE H241 Smart Host Bus Adapter": {
+      "Apollo_4200_Gen10.win": "1.78(A)",
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "Apollo 4200 SEP": {
+      "Apollo_4200_Gen10.win": "1.78(A)"
+    },
+    "MB2000JFDSL": {
+      "MB2000JFDSL_MB4000JFDSN_x64": "HPD4(C)"
+    },
+    "MB4000JFDSN": {
+      "MB2000JFDSL_MB4000JFDSN_x64": "HPD4(C)"
+    },
+    "EG000300JWFVB": {
+      "EG000300JWFVB_x64": "HPD2(B)"
+    },
+    "QLogic Generic 8Gb PCI Express Dual Channel Fibre Channel HBA (015D)": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "QLogic Generic 8Gb PCI Express Single Channel Fibre Channel HBA (015C)": {
+      "qlogic_windows_smartsan_enablement.x64": "1.0.0.1(g)",
+      "qlogic_storport_x64.w2k19": "9.2.9.22",
+      "qlogic_storport_x64.w2k12R2": "9.2.9.22",
+      "qlogic_storport_x64.w2k16": "9.2.9.22"
+    },
+    "HP Ethernet 10Gb 2-port 560FLB Adapter": {
+      "ixn.w2k19": "4.1.143.0",
+      "ixn.w2k12_r2": "3.14.132.0",
+      "ixn.w2k12": "3.14.78.0",
+      "ixn.w2k16": "4.1.131.0",
+      "nicfwupg_intel.win64": "5.1.4.0"
+    },
+    "HP Ethernet 10Gb 2-port 560FLR-SFP+ Adapter": {
+      "ixn.w2k19": "4.1.143.0",
+      "ixn.w2k12_r2": "3.14.132.0",
+      "ixn.w2k12": "3.14.78.0",
+      "ixn.w2k16": "4.1.131.0",
+      "nicfwupg_intel.win64": "5.1.4.0"
+    },
+    "HP Ethernet 10Gb 2-port 560M Adapter": {
+      "ixn.w2k19": "4.1.143.0",
+      "ixn.w2k12_r2": "3.14.132.0",
+      "ixn.w2k12": "3.14.78.0",
+      "ixn.w2k16": "4.1.131.0",
+      "nicfwupg_intel.win64": "5.1.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 560SFP+ Adapter": {
+      "ixn.w2k19": "4.1.143.0",
+      "ixn.w2k12_r2": "3.14.132.0",
+      "ixn.w2k12": "3.14.78.0",
+      "ixn.w2k16": "4.1.131.0",
+      "nicfwupg_intel.win64": "5.1.4.0"
+    },
+    "MB8000JFECQ": {
+      "MB8000JFECQ_x64": "HPD7(B)"
+    },
+    "MM1000JEFRB": {
+      "MM1000JEFRB_MM2000JEFRC_x64": "HPD8(B)"
+    },
+    "MM2000JEFRC": {
+      "MM1000JEFRB_MM2000JEFRC_x64": "HPD8(B)"
+    },
+    "VK0120GFDKE": {
+      "VK0120GFDKE_VK0240GFDKF_VK0480GFDKH_VK0960GFDK_x64": "HPG1(D)"
+    },
+    "VK1920GFDKL": {
+      "VK0120GFDKE_VK0240GFDKF_VK0480GFDKH_VK0960GFDK_x64": "HPG1(D)"
+    },
+    "VK0240GFDKF": {
+      "VK0120GFDKE_VK0240GFDKF_VK0480GFDKH_VK0960GFDK_x64": "HPG1(D)"
+    },
+    "VK3840GFDKN": {
+      "VK0120GFDKE_VK0240GFDKF_VK0480GFDKH_VK0960GFDK_x64": "HPG1(D)"
+    },
+    "VK0480GFDKH": {
+      "VK0120GFDKE_VK0240GFDKF_VK0480GFDKH_VK0960GFDK_x64": "HPG1(D)"
+    },
+    "VK0960GFDKK": {
+      "VK0120GFDKE_VK0240GFDKF_VK0480GFDKH_VK0960GFDK_x64": "HPG1(D)"
+    },
+    "EG001200JWFVA": {
+      "EG000600JWFUV_EG001200JWFVA_x64": "HPD3(B)"
+    },
+    "EG000600JWFUV": {
+      "EG000600JWFUV_EG001200JWFVA_x64": "HPD3(B)"
+    },
+    "MB2000GFEMH": {
+      "MB2000GFEMH_MB4000GFEMK_x64": "HPG6(D)"
+    },
+    "MB4000GFEMK": {
+      "MB2000GFEMH_MB4000GFEMK_x64": "HPG6(D)"
+    },
+    "EH000600JWCPF": {
+      "EH000900JWCPH_EH000600JWCPF_x64": "HPD7"
+    },
+    "EH000900JWCPH": {
+      "EH000900JWCPH_EH000600JWCPF_x64": "HPD7"
+    },
+    "MK001920GWHRU": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "VK001920GWEZE": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "MK000240GWEZF": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "VK000240GWEZB": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "MK000480GWEZH": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "VK000480GWEZC": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "MK000960GWEZK": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "VK000960GWEZD": {
+      "VK000240GWEZB_VK000480GWEZC_VK000960GWEZD_VK00_x64": "HPGB(B)"
+    },
+    "MB012000GWDFE": {
+      "MB012000GWDFE_x64": "HPG2(B)"
+    },
+    "Broadcom BCM57810 Virtual Function for 530SFP": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57810 Virtual Function for 530T": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57810 Virtual Function for 533FLR-T": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57810 Virtual Function for 534FLR-SFP+": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57810 Virtual Function for 534M": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57810 Virtual Function for CN1100R": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57840 Virtual Function for 630FLB": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57840 Virtual Function for 630M": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57840S Virtual Function for 536FLB": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP Ethernet 10Gb 2-port 530SFP+ Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP Ethernet 10Gb 2-port 530T Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP FlexFabric 10Gb 2-port 534FLR-SFP+ Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP FlexFabric 10Gb 2-port 534M Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP FlexFabric 10Gb 2-port 536FLB Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP FlexFabric 20Gb 2-port 630M Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 10Gb 2-port 530SFP+ Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 10Gb 2-port 530T Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 10Gb 2-port 533FLR-T Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 10Gb 2-port 534FLR-SFP+ Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 10Gb 2-port 534M Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 10Gb 2-port 536FLB Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 20Gb 2-port 630FLB Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR 20Gb 2-port 630M Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE 536FLR-T QP Virtual Function": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE FlexFabric 10Gb 2-port 533FLR-T Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE FlexFabric 10Gb 4-port 536FLR-T Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE FlexFabric 20Gb 2-port 630FLB Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE NPAR 10Gb QP 536FLR-T": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HP NPAR CN1100R Dual Port Converged Network Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE CN1100R-T DP Virtual Function": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE NPAR 10Gb DP CN1100R-T": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE StoreFabric CN1100R 10GBASE-T Dual Port Converged Network Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE StoreFabric CN1100R Dual Port Converged Network Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "Broadcom BCM57840 Virtual Function for 3820C": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE NPAR 10Gb 2-port 2820C Converged Network Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE NPAR 3820C 10/20Gb Converged Network Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE Synergy 2820C 10Gb Converged Network Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "HPE Synergy 3820C 10/20Gb Converged Network Adapter": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0",
+      "evbd.win64": "7.13.161.0"
+    },
+    "QLogic 57840S Virtual Function for 2820C": {
+      "evbd.win64": "7.13.161.0"
+    },
+    "MB6000GEBTP": {
+      "MB6000GEBTP_x64": "HPG4(D)"
+    },
+    "HP Integrated Lights-Out 4 (iLO 4)": {
+      "iLO4_fw_Win.x64": "2.70",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "snmpagents.win64": "11.0.0.0"
+    },
+    "ILO 4 GLP (Function 4 / UHCI)": {
+      "iLO4_fw_Win.x64": "2.70",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "ILO 4 GLP (Function 6 / IPMI)": {
+      "iLO4_fw_Win.x64": "2.70",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "ilo3.win2016.x64": "4.0.0.0(B)",
+      "ilo3.win.x64": "4.0.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "HPE Smart Array P824i-p Controller": {
+      "Mesa_Verde_P824i-p_Win": "24.23.0",
+      "MegaSAS2.win2016.x64": "6.714.18.0",
+      "StorCLI.win": "1.25.12.0",
+      "MegaSAS2.win2012_R2.x64": "6.714.18.0",
+      "hpemrsa.win.x64": "3.113.0.0",
+      "EG001800JWJNR_EG002400JWJNT_x64": "HPD4"
+    },
+    "HPE 16GB NVDIMM Single Rank x4 DDR4-2666 Module Kit": {
+      "Trumpkin.16gb.win": "1.04(A)"
+    },
+    "MB004000JWFVK": {
+      "MB004000JWFVK_MB006000JWFVL_x64": "HPD2"
+    },
+    "MB006000JWFVL": {
+      "MB004000JWFVK_MB006000JWFVL_x64": "HPD2"
+    },
+    "Emulex BE3 Virtual Function for 650FLB": {
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "Emulex BE3 Virtual Function for 650M": {
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "Emulex BE3 Virtual Function for CN1200E": {
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "Emulex Skyhawk Virtual Function for CN1200E-T": {
+      "be2.w2k19": "12.0.1195.0",
+      "be2.w2k12r2": "12.0.1195.0",
+      "be2.w2k12": "12.0.1195.0",
+      "be2.w2k16": "12.0.1195.0"
+    },
+    "MK0960GECQK": {
+      "MK0960GECQK_x64": "HPG3(G)"
+    },
+    "MB4000GEQNH": {
+      "MB4000GEQNH_MB6000GEQNK_x64": "HPGB(D)"
+    },
+    "MB6000GEQNK": {
+      "MB4000GEQNH_MB6000GEQNK_x64": "HPGB(D)"
+    },
+    "MB1000JVYZL": {
+      "MB1000JVYZL_MB2000JVYZN_MB3000JVYZP_x64": "HPD3"
+    },
+    "MB2000JVYZN": {
+      "MB1000JVYZL_MB2000JVYZN_MB3000JVYZP_x64": "HPD3"
+    },
+    "MB3000JVYZP": {
+      "MB1000JVYZL_MB2000JVYZN_MB3000JVYZP_x64": "HPD3"
+    },
+    "MB4000JVYZQ": {
+      "MB1000JVYZL_MB2000JVYZN_MB3000JVYZP_x64": "HPD3"
+    },
+    "HPE Ethernet 10Gb 2-port 568i Adapter": {
+      "i40eb.w2k19": "1.9.230.0",
+      "nicfwupg_intel.win64": "5.1.4.0",
+      "i40eb.w2k12_r2": "1.9.221.0",
+      "i40eb.w2k16": "1.9.221.0"
+    },
+    "MB002000JWFVN": {
+      "MB002000JWFVN_MB004000JWFVP_x64": "HPD2"
+    },
+    "MB004000JWFVP": {
+      "MB002000JWFVN_MB004000JWFVP_x64": "HPD2"
+    },
+    "MB1000GVYZE": {
+      "MB1000GVYZE_MB2000GVYZF_MB3000GVYZH_x64": "HPG4(E)"
+    },
+    "MB2000GVYZF": {
+      "MB1000GVYZE_MB2000GVYZF_MB3000GVYZH_x64": "HPG4(E)"
+    },
+    "MB3000GVYZH": {
+      "MB1000GVYZE_MB2000GVYZF_MB3000GVYZH_x64": "HPG4(E)"
+    },
+    "MB4000GVYZK": {
+      "MB1000GVYZE_MB2000GVYZF_MB3000GVYZH_x64": "HPG4(E)"
+    },
+    "MB2000JFEML": {
+      "MB2000JFEML_MB4000JFEMN_x64": "HPD6(C)"
+    },
+    "MB4000JFEMN": {
+      "MB2000JFEML_MB4000JFEMN_x64": "HPD6(C)"
+    },
+    "MB002000GWFGH": {
+      "MB002000GWFGH_MB001000GWFGF_x64": "HPG3(C)"
+    },
+    "MB001000GWFGF": {
+      "MB002000GWFGH_MB001000GWFGF_x64": "HPG3(C)"
+    },
+    "EG1800JEHMD": {
+      "EG1800JEHMD_x64": "HPD6(D)"
+    },
+    "HP Dynamic Smart Array B140i Controller (3381)": {
+      "cissesrv.win.x86_64": "6.46.0.64(E)"
+    },
+    "EG1200JEMDA": {
+      "EG0300JFCKA_EG0600JEMCV_EG0900JFCKB_EG1200JEMD_x64": "HPD6(C)"
+    },
+    "EG0300JFCKA": {
+      "EG0300JFCKA_EG0600JEMCV_EG0900JFCKB_EG1200JEMD_x64": "HPD6(C)"
+    },
+    "EG0600JEMCV": {
+      "EG0300JFCKA_EG0600JEMCV_EG0900JFCKB_EG1200JEMD_x64": "HPD6(C)"
+    },
+    "EG0900JFCKB": {
+      "EG0300JFCKA_EG0600JEMCV_EG0900JFCKB_EG1200JEMD_x64": "HPD6(C)"
+    },
+    "HP Smart Array P230i Controller": {
+      "P230i_P430_P431_P731m_P830i_P830.win_x64": "5.02",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P244br Controller": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P246br Controller": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P430 Controller": {
+      "P230i_P430_P431_P731m_P830i_P830.win_x64": "5.02",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P431 Controller": {
+      "P230i_P430_P431_P731m_P830i_P830.win_x64": "5.02",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P440ar Controller": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P731m Controller": {
+      "P230i_P430_P431_P731m_P830i_P830.win_x64": "5.02",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P741m Controller": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P830 Controller": {
+      "P230i_P430_P431_P731m_P830i_P830.win_x64": "5.02",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P830i Controller": {
+      "P230i_P430_P431_P731m_P830i_P830.win_x64": "5.02",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE Smart Array P240nr Controller": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE Smart Array P542D Controller": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart HBA H240ar": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart HBA H244br": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HPE H240nr Smart Host Bus Adapter": {
+      "H240ar_H240_H244br_P244br_P440ar_P440_P441_x64": "7.00",
+      "cissesrv.win.x86_64": "6.46.0.64(E)",
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "MK001920GWCFB": {
+      "MK000480GWCEV_MK000960GWCFA_MK001920GWCFB_x64": "HPG3(B)"
+    },
+    "MK000240GWCEU": {
+      "MK000480GWCEV_MK000960GWCFA_MK001920GWCFB_x64": "HPG3(B)"
+    },
+    "MK000480GWCEV": {
+      "MK000480GWCEV_MK000960GWCFA_MK001920GWCFB_x64": "HPG3(B)"
+    },
+    "MK000960GWCFA": {
+      "MK000480GWCEV_MK000960GWCFA_MK001920GWCFB_x64": "HPG3(B)"
+    },
+    "MB6000GVYYU": {
+      "MB6000GVYYU_x64": "HPG2(D)"
+    },
+    "XP0120GFJSL": {
+      "XP0120GFJSL_XP0240GFJSN_x64": "HPS4(D)"
+    },
+    "XP0240GFJSN": {
+      "XP0120GFJSL_XP0240GFJSN_x64": "HPS4(D)"
+    },
+    "Intel C230 PCH SMBus controller subsystem ID 8165103C": {
+      "hpgen9.win": "10.1.17809.8096"
+    },
+    "Intel C230 PCH SMBus controller subsystem ID 72708086": {
+      "hpgen9.win": "10.1.17809.8096"
+    },
+    "Intel C610 PCH SMBus controller subsystem ID 8030103C": {
+      "hpgen9.win": "10.1.17809.8096"
+    },
+    "Intel C610 PCH SMBus controller subsystem ID 21EB103C": {
+      "hpgen9.win": "10.1.17809.8096"
+    },
+    "Intel Xeon v4 device 4 fn 0 subsystem 21EA103C": {
+      "hpgen9.win": "10.1.17809.8096",
+      "nvmenmifix.gen9.win": "1.0.5.0(C)"
+    },
+    "Intel Xeon v4 device 4 fn 0 subsystem 18A8103C": {
+      "hpgen9.win": "10.1.17809.8096",
+      "nvmenmifix.gen9.win": "1.0.5.0(C)"
+    },
+    "Intel Xeon v3 device 4 fn 0 default subsystem": {
+      "hpgen9.win": "10.1.17809.8096",
+      "nvmenmifix.gen9.win": "1.0.5.0(C)"
+    },
+    "Intel Xeon v3 device 4 fn 0 HP subsystem": {
+      "hpgen9.win": "10.1.17809.8096",
+      "nvmenmifix.gen9.win": "1.0.5.0(C)"
+    },
+    "Intel Xeon v3 device 4 fn 0 subsystem 18A8103C": {
+      "hpgen9.win": "10.1.17809.8096",
+      "nvmenmifix.gen9.win": "1.0.5.0(C)"
+    },
+    "Intel Xeon v4 device 5 fn 0 subsystem 21EA103C": {
+      "hpgen9.win": "10.1.17809.8096"
+    },
+    "Matrox G200eH (GLP / iLO 3)": {
+      "matrox.G200eH.win2016.x64": "9.15.1.224",
+      "matrox.G200eH.win2012.x64": "9.15.1.224"
+    },
+    "Matrox G200eH (GLP / iLO 4)": {
+      "matrox.G200eH.win2016.x64": "9.15.1.224",
+      "matrox.G200eH.win2012.x64": "9.15.1.224"
+    },
+    "EO001600JWDKR": {
+      "EO000400JWDKP_EO000800JWDKQ_EO001600JWDKR_x64": "HPD2"
+    },
+    "MO001600JWDLA": {
+      "EO000400JWDKP_EO000800JWDKQ_EO001600JWDKR_x64": "HPD2"
+    },
+    "MO003200JWDLB": {
+      "EO000400JWDKP_EO000800JWDKQ_EO001600JWDKR_x64": "HPD2"
+    },
+    "EO000400JWDKP": {
+      "EO000400JWDKP_EO000800JWDKQ_EO001600JWDKR_x64": "HPD2"
+    },
+    "MO000400JWDKU": {
+      "EO000400JWDKP_EO000800JWDKQ_EO001600JWDKR_x64": "HPD2"
+    },
+    "EO000800JWDKQ": {
+      "EO000400JWDKP_EO000800JWDKQ_EO001600JWDKR_x64": "HPD2"
+    },
+    "MO000800JWDKV": {
+      "EO000400JWDKP_EO000800JWDKQ_EO001600JWDKR_x64": "HPD2"
+    },
+    "VR000480GWEPR": {
+      "VR000150GWEPP_VR000480GWEPR_x64": "HPG1(B)"
+    },
+    "VR000150GWEPP": {
+      "VR000150GWEPP_VR000480GWEPR_x64": "HPG1(B)"
+    },
+    "MB6000JEQUV": {
+      "MB6000JEQUV_MB8000JEQVA_x64": "HPDB(C)"
+    },
+    "MB8000JEQVA": {
+      "MB6000JEQUV_MB8000JEQVA_x64": "HPDB(C)"
+    },
+    "VK003840GWSXL": {
+      "VK003840GWSXL_x64": "HPG2"
+    },
+    "ILO 4 GLP (Function 3 / Watchdog)": {
+      "iLO4_fw_Win.x64": "2.70",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "ILO 4 GLP (Function 5 / Serial)": {
+      "iLO4_fw_Win.x64": "2.70",
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "MO1600JFFCK": {
+      "MO0400JFFCF_MO0800JFFCH_MO1600JFFCK_x64": "HPD6(D)"
+    },
+    "MO3200JFFCL": {
+      "MO0400JFFCF_MO0800JFFCH_MO1600JFFCK_x64": "HPD6(D)"
+    },
+    "MO0400JFFCF": {
+      "MO0400JFFCF_MO0800JFFCH_MO1600JFFCK_x64": "HPD6(D)"
+    },
+    "MO0800JFFCH": {
+      "MO0400JFFCF_MO0800JFFCH_MO1600JFFCK_x64": "HPD6(D)"
+    },
+    "ASM #4 (B204/B206) iLO RIB": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "HP Integrated Lights-Out 3 (iLO 3)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GLP (Function 3 / Watchdog)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GLP (Function 4 / UHCI)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GLP (Function 5 / Serial)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GLP (Function 6 / IPMI)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GXE (Function 3 / Watchdog)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GXE (Function 4 / UHCI)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GXE (Function 5 / Serial)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "ILO 3 GXE (Function 6 / IPMI)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "HP Integrated Lights-Out 5 (iLO 5)": {
+      "hponcfg.w2k3_64": "5.3.0.0"
+    },
+    "iLO 5 (Function 2 / CHIF, subsystem 00000000)": {
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "iLO 5 (Function 0 / CSM, subsystem 00000000)": {
+      "hponcfg.w2k3_64": "5.3.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "EG1200JEHMC": {
+      "EG0300JEHLV_EG0600JEHMA_EG0900JEHMB_x64": "HPD5(D)"
+    },
+    "EG0300JEHLV": {
+      "EG0300JEHLV_EG0600JEHMA_EG0900JEHMB_x64": "HPD5(D)"
+    },
+    "EG0600JEHMA": {
+      "EG0300JEHLV_EG0600JEHMA_EG0900JEHMB_x64": "HPD5(D)"
+    },
+    "EG0900JEHMB": {
+      "EG0300JEHLV_EG0600JEHMA_EG0900JEHMB_x64": "HPD5(D)"
+    },
+    "HP Ethernet 10Gb 2-port 561FLR-T Adapter": {
+      "ixt.w2k16": "4.1.76.0(B)",
+      "ixt.w2k12_r2": "3.14.78.0",
+      "ixt.w2k12": "3.14.78.0"
+    },
+    "HP Ethernet 10Gb 2-port 561T Adapter": {
+      "ixt.w2k16": "4.1.76.0(B)",
+      "ixt.w2k12_r2": "3.14.78.0",
+      "ixt.w2k12": "3.14.78.0"
+    },
+    "HP Ethernet 1Gb 4-port 366M Adapter": {
+      "e1r.w2k12": "12.14.8.0"
+    },
+    "MB001000GWCBC": {
+      "MB001000GWCBC_MB002000GWCBD_x64": "HPG6"
+    },
+    "MB002000GWCBD": {
+      "MB001000GWCBC_MB002000GWCBD_x64": "HPG6"
+    },
+    "MB010000GWAYN": {
+      "MB010000GWAYN_MB008000GWAYL_x64": "HPG5(B)"
+    },
+    "MB008000GWAYL": {
+      "MB010000GWAYN_MB008000GWAYL_x64": "HPG5(B)"
+    },
+    "HPE LOM 2p 10GbE BCM57810 for CI Manager": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0"
+    },
+    "HPE NPAR 2p 10GbE BCM57810 for CI Manager": {
+      "nicfwupg_qlnx2.win64": "5.1.4.0"
+    },
+    "VK003840GWSRV": {
+      "VK000240GWSRQ_VK000480GWSRR_VK000960GWSRT_x64": "HPG1"
+    },
+    "VK001920GWSRU": {
+      "VK000240GWSRQ_VK000480GWSRR_VK000960GWSRT_x64": "HPG1"
+    },
+    "VK000960GWSRT": {
+      "VK000240GWSRQ_VK000480GWSRR_VK000960GWSRT_x64": "HPG1"
+    },
+    "VK000480GWSRR": {
+      "VK000240GWSRQ_VK000480GWSRR_VK000960GWSRT_x64": "HPG1"
+    },
+    "VK000240GWSRQ": {
+      "VK000240GWSRQ_VK000480GWSRR_VK000960GWSRT_x64": "HPG1"
+    },
+    "HP D2600 Disk Enclosure": {
+      "D2x00.fwsc.win_x64": "0150(B)"
+    },
+    "HP D2700 Disk Enclosure": {
+      "D2x00.fwsc.win_x64": "0150(B)"
+    },
+    "QLogic Virtual Function for 521T Adapter": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "QLogic Virtual Function for 621SFP28": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "QLogic Virtual Function for 622FLR-SFP28": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "QLogic Virtual Function for 6810C": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "MB4000JVYZC": {
+      "MB6000JVYZD_MB4000JVYZC_x64": "HPD4"
+    },
+    "MB6000JVYZD": {
+      "MB6000JVYZD_MB4000JVYZC_x64": "HPD4"
+    },
+    "MB001000GWFWK": {
+      "MB001000GWFWK_MB002000GWFWL_x64": "HPG5"
+    },
+    "MB002000GWFWL": {
+      "MB001000GWFWK_MB002000GWFWL_x64": "HPG5"
+    },
+    "Matrox G200eH3 (iLO 5) subsystem ID 00E41590": {
+      "matrox.G200eH3.win2012.x64": "9.15.1.224",
+      "matrox.G200eH3.win2016.x64": "9.15.1.224"
+    },
+    "EH0300JEDHC": {
+      "EH0300JEDHC_EH0450JEDHD_EH0600JEDHE_x64": "HPD4(E)"
+    },
+    "EH0450JEDHD": {
+      "EH0300JEDHC_EH0450JEDHD_EH0600JEDHE_x64": "HPD4(E)"
+    },
+    "EH0600JEDHE": {
+      "EH0300JEDHC_EH0450JEDHD_EH0600JEDHE_x64": "HPD4(E)"
+    },
+    "MO006400JWUGB": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "MO003200JWUGA": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "MO001600JWUFV": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "EO001600JWUGE": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "MO000800JWUFU": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "EO000800JWUGD": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "MO000400JWUFT": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "EO000400JWUGC": {
+      "MO000400JWUFT_MO000800JWUFU_MO001600JWUFV_x64": "HPD1"
+    },
+    "ILO 4 GLP (Function 0 / CSM) [Auxiliary]": {
+      "ilo3.win2016.x64": "4.0.0.0(B)",
+      "ilo3.win.x64": "4.0.0.0",
+      "isut.windows_64": "2.4.5.0"
+    },
+    "HPE Apollo InfiniBand EDR 100Gb 2-port 840z Mezzanine FIO Adapter": {
+      "MLNX_IB_Only_CX4_CX5_HCA_FW_package.x64": "1.0.0.3"
+    },
+    "HPE Apollo InfiniBand EDR 100Gb 2-port 841z Mezzanine Adapter": {
+      "MLNX_IB_Only_CX4_CX5_HCA_FW_package.x64": "1.0.0.3"
+    },
+    "HPE InfiniBand EDR 100Gb 1-port 841QSFP28 Adapter": {
+      "MLNX_IB_Only_CX4_CX5_HCA_FW_package.x64": "1.0.0.3"
+    },
+    "MB6000JVYYV": {
+      "MB6000JVYYV_x64": "HPD2(C)"
+    },
+    "VK001600GWCNT": {
+      "VK000150GWCNN_VK000240GWCNP_VK000480GWCNQ_x64": "HPG1"
+    },
+    "VK000960GWCNR": {
+      "VK000150GWCNN_VK000240GWCNP_VK000480GWCNQ_x64": "HPG1"
+    },
+    "VK000480GWCNQ": {
+      "VK000150GWCNN_VK000240GWCNP_VK000480GWCNQ_x64": "HPG1"
+    },
+    "VK000240GWCNP": {
+      "VK000150GWCNN_VK000240GWCNP_VK000480GWCNQ_x64": "HPG1"
+    },
+    "VK000150GWCNN": {
+      "VK000150GWCNN_VK000240GWCNP_VK000480GWCNQ_x64": "HPG1"
+    },
+    "EH000300JWCPK": {
+      "EH000900JWCPN_EH000600JWCPL_EH000300JWCPK_x64": "HPD5"
+    },
+    "EH000600JWCPL": {
+      "EH000900JWCPN_EH000600JWCPL_EH000300JWCPK_x64": "HPD5"
+    },
+    "EH000900JWCPN": {
+      "EH000900JWCPN_EH000600JWCPL_EH000300JWCPK_x64": "HPD5"
+    },
+    "EH000300JWHPL": {
+      "EH000900JWHPP_EH000600JWHPN_EH000300JWHPL_x64": "HPD3"
+    },
+    "EH000600JWHPN": {
+      "EH000900JWHPP_EH000600JWHPN_EH000300JWHPL_x64": "HPD3"
+    },
+    "EH000900JWHPP": {
+      "EH000900JWHPP_EH000600JWHPN_EH000300JWHPL_x64": "HPD3"
+    },
+    "EH000600JWHPH": {
+      "EH000900JWHPK_EH000600JWHPH_x64": "HPD3"
+    },
+    "EH000900JWHPK": {
+      "EH000900JWHPK_EH000600JWHPH_x64": "HPD3"
+    },
+    "HPE D6020 Disk Enclosure": {
+      "D6020.fwsc.win_x64": "2.74(C)"
+    },
+    "EG001800JWJNR": {
+      "EG001800JWJNR_EG002400JWJNT_x64": "HPD4"
+    },
+    "EG002400JWJNT": {
+      "EG001800JWJNR_EG002400JWJNT_x64": "HPD4"
+    },
+    "MM1000JFJTH": {
+      "MM1000JFJTH_x64": "HPD3(B)"
+    },
+    "HP Ethernet 1Gb 2-port 367i Adapter": {
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0"
+    },
+    "HP Ethernet 1Gb 2-port 361FLB Adapter": {
+      "e1r.w2k12_r2": "12.14.8.0(B)",
+      "e1r.w2k12": "12.14.8.0"
+    },
+    "XP0032GDZME": {
+      "XP0032GEFEN_XP0032GDZME_XP0064GEFEP_XP0064GDZM_x64": "HPS8(D)"
+    },
+    "XP0032GEFEN": {
+      "XP0032GEFEN_XP0032GDZME_XP0064GEFEP_XP0064GDZM_x64": "HPS8(D)"
+    },
+    "XP0064GDZMF": {
+      "XP0032GEFEN_XP0032GDZME_XP0064GEFEP_XP0064GDZM_x64": "HPS8(D)"
+    },
+    "XP0064GEFEP": {
+      "XP0032GEFEN_XP0032GDZME_XP0064GEFEP_XP0064GDZM_x64": "HPS8(D)"
+    },
+    "EG001800JWFVC": {
+      "EG001800JWFVC_x64": "HPD3"
+    },
+    "ILO 4 GLP (Function 2 / CHIF) [Auxiliary]": {
+      "ilo3ci.win2016.x64": "4.1.0.0",
+      "isut.windows_64": "2.4.5.0",
+      "ilo3ci.win.x64": "4.1.0.0"
+    },
+    "MB4000GEFNA": {
+      "MB4000GEFNA_MB6000GEFNB_x64": "HPG6(E)"
+    },
+    "MB6000GEFNB": {
+      "MB4000GEFNA_MB6000GEFNB_x64": "HPG6(E)"
+    },
+    "VK003840GWTTD": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "MK003840GWTTN": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "VK001920GWTTC": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "MK001920GWTTL": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "VK000960GWTTB": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "MK000960GWTTK": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "VK000480GWTTA": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "MK000480GWTTH": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "VK000240GWTSV": {
+      "VK000240GWTSV_VK000480GWTTA_VK000960GWTTB_x64": "HPG3"
+    },
+    "MM1000GEFQV": {
+      "MM1000GEFQV_MM2000GEFRA_x64": "HPG8(C)"
+    },
+    "MM2000GEFRA": {
+      "MM1000GEFQV_MM2000GEFRA_x64": "HPG8(C)"
+    },
+    "EG1800JFHMH": {
+      "EG1800JFHMH_x64": "HPD7(C)"
+    },
+    "MB8000GEQUU": {
+      "MB6000GEQUT_MB8000GEQUU_x64": "HPGB(D)"
+    },
+    "MB6000GEQUT": {
+      "MB6000GEQUT_MB8000GEQUU_x64": "HPGB(D)"
+    },
+    "Intel 568i Virtual Function for VMware": {
+      "v40e.w2k16": "1.5.86.2",
+      "v40e.w2k19": "1.6.215.0",
+      "v40e.w2k12_r2": "1.5.86.2"
+    },
+    "Intel 568i Virtual Function for Windows": {
+      "v40e.w2k16": "1.5.86.2",
+      "v40e.w2k19": "1.6.215.0",
+      "v40e.w2k12_r2": "1.5.86.2"
+    },
+    "Intel 4610C Virtual Function for VMware": {
+      "v40e.w2k16": "1.5.86.2",
+      "v40e.w2k19": "1.6.215.0",
+      "v40e.w2k12_r2": "1.5.86.2"
+    },
+    "Intel 562 Virtual function for Windows": {
+      "v40e.w2k16": "1.5.86.2",
+      "v40e.w2k12": "1.5.86.1",
+      "v40e.w2k19": "1.6.215.0",
+      "v40e.w2k12_r2": "1.5.86.2"
+    },
+    "Intel Virtual function for Hyper-V": {
+      "v40e.w2k16": "1.5.86.2",
+      "v40e.w2k12": "1.5.86.1",
+      "v40e.w2k19": "1.6.215.0",
+      "v40e.w2k12_r2": "1.5.86.2"
+    },
+    "Intel Virtual function for VMWare": {
+      "v40e.w2k16": "1.5.86.2",
+      "v40e.w2k12": "1.5.86.1",
+      "v40e.w2k19": "1.6.215.0",
+      "v40e.w2k12_r2": "1.5.86.2"
+    },
+    "ACPI - Compliant NVDIMM Root Device": {
+      "nvm.win.x64": "3.0.1.2"
+    },
+    "Mellanox Virtual Function for 546FLR-SFP+": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0",
+      "mlnxcx3.w2k16": "5.35.12978.0(C)"
+    },
+    "Mellanox Virtual Function for 546SFP+": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0",
+      "mlnxcx3.w2k16": "5.35.12978.0(C)"
+    },
+    "HP InfiniBand FDR/EN 10/40Gb Dual Port 544M Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "HP InfiniBand QDR/EN 10Gb Dual Port 544M Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "HP InfiniBand FDR/EN 10/40Gb Dual Port 544FLR-QSFP Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "HP InfiniBand FDR/EN 10/40Gb Dual Port 544QSFP Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "HP InfiniBand QDR/EN 10Gb Dual Port 544FLR-QSFP Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "HP Infiniband QDR/Ethernet 10Gb 2P 544i Adapter": {
+      "mlnxcx3.w2k12r2": "5.35.12978.0",
+      "mlnxcx3.w2k12": "5.35.12978.0"
+    },
+    "Mellanox CX4LX Virtual Function for 6410C": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 1-port 840QSFP28 Adapter VF": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 2-port 840QSFP28 Adapter VF": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "Mellanox CX4LX Virtual Function for 640FLR-SFP+": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "Mellanox CX4LX Virtual Function for 640SFP": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "Mellanox CX5 Virtual Function for 842SFP28": {
+      "mlnxcx4.w2k12r2": "2.0.19824.0",
+      "mlnxcx4.w2k16": "2.0.19824.0",
+      "mlnxcx4.w2k19": "2.0.19824.0",
+      "mlnxcx4.w2k12": "2.0.19824.0"
+    },
+    "HP Ethernet 1Gb 1-port 364i Adapter": {
+      "e1r.w2k12": "12.14.8.0"
+    },
+    "MB1000GDUNU": {
+      "MB1000GDUNU_MB2000GDUNV_MB3000GDUPA_MB4000GDUP_x64": "HPG4(E)"
+    },
+    "MB2000GDUNV": {
+      "MB1000GDUNU_MB2000GDUNV_MB3000GDUPA_MB4000GDUP_x64": "HPG4(E)"
+    },
+    "MB3000GDUPA": {
+      "MB1000GDUNU_MB2000GDUNV_MB3000GDUPA_MB4000GDUP_x64": "HPG4(E)"
+    },
+    "MB4000GDUPB": {
+      "MB1000GDUNU_MB2000GDUNV_MB3000GDUPA_MB4000GDUP_x64": "HPG4(E)"
+    },
+    "HP 6Gb SAS Switch for HP BladeSystem c-Class": {
+      "vsm.fwsc.win": "4.3.6.0(C)"
+    },
+    "VO1920JFDGV": {
+      "VO0480JFDGT_VO0960JFDGU_VO1920JFDGV_x64": "HPD6"
+    },
+    "VO0480JFDGT": {
+      "VO0480JFDGT_VO0960JFDGU_VO1920JFDGV_x64": "HPD6"
+    },
+    "VO0960JFDGU": {
+      "VO0480JFDGT_VO0960JFDGU_VO1920JFDGV_x64": "HPD6"
+    },
+    "VO3840JFDHA": {
+      "VO0480JFDGT_VO0960JFDGU_VO1920JFDGV_x64": "HPD6"
+    },
+    "MB004000GWFWB": {
+      "MB001000GWJAN_MB002000GWFWA_MB004000GWFWB_x64": "HPG1"
+    },
+    "MB002000GWFWA": {
+      "MB001000GWJAN_MB002000GWFWA_MB004000GWFWB_x64": "HPG1"
+    },
+    "MB001000GWJAN": {
+      "MB001000GWJAN_MB002000GWFWA_MB004000GWFWB_x64": "HPG1"
+    },
+    "MB4000JEQNL": {
+      "MB4000JEQNL_MB6000JEQNN_x64": "HPDB(C)"
+    },
+    "MB6000JEQNN": {
+      "MB4000JEQNL_MB6000JEQNN_x64": "HPDB(C)"
+    },
+    "VK001920GWSXK": {
+      "VK000480GWSXF_VK000960GWSXH_VK001920GWSXK_x64": "HPG2"
+    },
+    "MK001920GWUGK": {
+      "VK000480GWSXF_VK000960GWSXH_VK001920GWSXK_x64": "HPG2"
+    },
+    "VK000960GWSXH": {
+      "VK000480GWSXF_VK000960GWSXH_VK001920GWSXK_x64": "HPG2"
+    },
+    "MK000960GWUGH": {
+      "VK000480GWSXF_VK000960GWSXH_VK001920GWSXK_x64": "HPG2"
+    },
+    "VK000480GWSXF": {
+      "VK000480GWSXF_VK000960GWSXH_VK001920GWSXK_x64": "HPG2"
+    },
+    "MK000480GWUGF": {
+      "VK000480GWSXF_VK000960GWSXH_VK001920GWSXK_x64": "HPG2"
+    },
+    "HPE FCoE Function for 622FLR": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE iSCSI Function for 622FLR": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE FCoE Function for CN1200R-T": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE FCoE Function for CN1300R": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE iSCSI Function for CN1200R-T": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE iSCSI Function for CN1300R": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE Virtual Function for CN1200R-T": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE Virtual Function for CN1300R": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "QLogic Virtual Function for CN1300R": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE FCoE Function for 4820C": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE iSCSI Function for 4820C": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE Virtual Function for 4820C": {
+      "qevbd.win64": "8.37.37.0"
+    },
+    "HPE D8000 Disk Enclosures": {
+      "D8000.fwsc.win_x64": "0102"
+    },
+    "HPE D8000 I/O Modules": {
+      "D8000.fwsc.win_x64": "0102"
+    },
+    "EH0300JDYTH": {
+      "EH0300JDYTH_EH0450JDYTK_EH0600JDYTL_x64": "HPD6(D)"
+    },
+    "EH0450JDYTK": {
+      "EH0300JDYTH_EH0450JDYTK_EH0600JDYTL_x64": "HPD6(D)"
+    },
+    "EH0600JDYTL": {
+      "EH0300JDYTH_EH0450JDYTK_EH0600JDYTL_x64": "HPD6(D)"
+    },
+    "MB6000GEXXV": {
+      "MB6000GEXXV_x64": "HPG2(E)"
+    },
+    "HP StorageWorks 1210m Scalable Storage Controller": {
+      "cissesrv.win.x86_64": "6.46.0.64(E)"
+    },
+    "EG1200JETKC": {
+      "EG0600JETKA_EG0900JETKB_EG1200JETKC_x64": "HPD7"
+    },
+    "EG0600JETKA": {
+      "EG0600JETKA_EG0900JETKB_EG1200JETKC_x64": "HPD7"
+    },
+    "EG0900JETKB": {
+      "EG0600JETKA_EG0900JETKB_EG1200JETKC_x64": "HPD7"
+    },
+    "HP Smart Array P430i Controller": {
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    },
+    "HP Smart Array P831 Controller": {
+      "cisss3.w2012.x86_64": "106.26.0.64"
+    }
+  }
+}
