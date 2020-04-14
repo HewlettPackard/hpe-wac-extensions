@@ -1,11 +1,11 @@
 {
     "AMSLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx ",
     "SysRomLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx ",
-    "SysRomVersion":  "2.22",
-    "AMSVersion":  "2.10.0.0",
+    "SysRomVersion":  "2.32",
+    "AMSVersion":  "2.12.0.0",
     "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
     "iLOFWLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx ",
-    "iLOFWVersion":  "2.10",
+    "iLOFWVersion":  "2.14",
     "SysInfoVersion":  "1.4.0.0",
     "NVDIMMLink": "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
     "NVDIMMVersion": "2.2.0.0"
