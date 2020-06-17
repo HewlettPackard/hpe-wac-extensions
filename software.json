@@ -16,7 +16,8 @@
   },
   "url": {
     "SPPLink": "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
-    "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets"
+    "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
+    "NVDIMMLink": "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets"
   },
   "driver": {
     "HP Ethernet 10Gb 2-port 560FLB Adapter": {
