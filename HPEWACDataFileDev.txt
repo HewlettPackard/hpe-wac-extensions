@@ -12,66 +12,130 @@
     "OSList":  [
                    {
                        "OS":  "Microsoft Windows 10 (64bit, version 1803 \u0026 older)",
-                       "BIOSList":  "(System BIOS - I41, v2.32 (03/09/2020))"
+                       "BIOSList":  [
+                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}"
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows 10 (64bit, version 1809 \u0026 later)",
-                       "BIOSList":  "(System BIOS - I41, v2.32 (03/09/2020))"
+                       "BIOSList":  [
+                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}"
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows 7 (64-bit) - All Editions",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows 8.1 (64-bit)",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows Server 2012",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows Server 2012 Essentials",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows Server 2012 R2",
-                       "BIOSList":  "(System BIOS - A40, v2.36 (03/09/2020)) (System BIOS - A41, v2.36 (03/09/2020)) (System BIOS - A42, v1.18 (01/22/2020)) (System BIOS - A43, v1.1
-6 (01/10/2020)) (System BIOS - I41, v2.32 (03/09/2020)) (System BIOS - U30, v2.32 (03/09/2020)) (System BIOS - U31, v2.32 (03/09/2020)) (System BIOS - U32, v2.32 (03/09/2020)) (Syst
-em BIOS - U33, v2.32 (03/09/2020)) (System BIOS - U34, v2.32 (03/09/2020)) (System BIOS - U37, v2.32 (03/09/2020)) (System BIOS - U38, v2.32 (03/09/2020)) (System BIOS - U40, v2.32 
-(03/09/2020)) (System BIOS - U41, v2.32 (03/09/2020))"
+                       "BIOSList":  [
+                                        "@{Name=System BIOS - A40; Version=v2.36 (03/09/2020)}",
+                                        "@{Name=System BIOS - A41; Version=v2.36 (03/09/2020)}",
+                                        "@{Name=System BIOS - A42; Version=v1.18 (01/22/2020)}",
+                                        "@{Name=System BIOS - A43; Version=v1.16 (01/10/2020)}",
+                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U30; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U31; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U32; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U33; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U34; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U37; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U38; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U40; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U41; Version=v2.32 (03/09/2020)}"
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows Server 2016",
-                       "BIOSList":  "(System BIOS - A40, v2.36 (03/09/2020)) (System BIOS - A41, v2.36 (03/09/2020)) (System BIOS - A42, v1.18 (01/22/2020)) (System BIOS - A43, v1.1
-6 (01/10/2020)) (System BIOS - I41, v2.32 (03/09/2020)) (System BIOS - U30, v2.32 (03/09/2020)) (System BIOS - U31, v2.32 (03/09/2020)) (System BIOS - U32, v2.32 (03/09/2020)) (Syst
-em BIOS - U33, v2.32 (03/09/2020)) (System BIOS - U34, v2.32 (03/09/2020)) (System BIOS - U37, v2.32 (03/09/2020)) (System BIOS - U38, v2.32 (03/09/2020)) (System BIOS - U39, v2.32 
-(03/09/2020)) (System BIOS - U40, v2.32 (03/09/2020)) (System BIOS - U41, v2.32 (03/09/2020)) (System BIOS - U43, v2.14 (03/09/2020)) (System BIOS - U44, v2.14 (03/09/2020)) (System
- BIOS - U45, v2.32 (03/09/2020)) (System BIOS - U48, v2.10 (03/09/2020))"
+                       "BIOSList":  [
+                                        "@{Name=System BIOS - A40; Version=v2.36 (03/09/2020)}",
+                                        "@{Name=System BIOS - A41; Version=v2.36 (03/09/2020)}",
+                                        "@{Name=System BIOS - A42; Version=v1.18 (01/22/2020)}",
+                                        "@{Name=System BIOS - A43; Version=v1.16 (01/10/2020)}",
+                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U30; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U31; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U32; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U33; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U34; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U37; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U38; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U39; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U40; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U41; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U43; Version=v2.14 (03/09/2020)}",
+                                        "@{Name=System BIOS - U44; Version=v2.14 (03/09/2020)}",
+                                        "@{Name=System BIOS - U45; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U48; Version=v2.10 (03/09/2020)}"
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows Server 2019",
-                       "BIOSList":  "(System BIOS - A40, v2.36 (03/09/2020)) (System BIOS - A41, v2.36 (03/09/2020)) (System BIOS - A42, v1.18 (01/22/2020)) (System BIOS - A43, v1.1
-6 (01/10/2020)) (System BIOS - I41, v2.32 (03/09/2020)) (System BIOS - U30, v2.32 (03/09/2020)) (System BIOS - U31, v2.32 (03/09/2020)) (System BIOS - U32, v2.32 (03/09/2020)) (Syst
-em BIOS - U33, v2.32 (03/09/2020)) (System BIOS - U34, v2.32 (03/09/2020)) (System BIOS - U37, v2.32 (03/09/2020)) (System BIOS - U38, v2.32 (03/09/2020)) (System BIOS - U39, v2.32 
-(03/09/2020)) (System BIOS - U40, v2.32 (03/09/2020)) (System BIOS - U41, v2.32 (03/09/2020)) (System BIOS - U43, v2.14 (03/09/2020)) (System BIOS - U44, v2.14 (03/09/2020)) (System
- BIOS - U45, v2.32 (03/09/2020)) (System BIOS - U48, v2.10 (03/09/2020))"
+                       "BIOSList":  [
+                                        "@{Name=System BIOS - A40; Version=v2.36 (03/09/2020)}",
+                                        "@{Name=System BIOS - A41; Version=v2.36 (03/09/2020)}",
+                                        "@{Name=System BIOS - A42; Version=v1.18 (01/22/2020)}",
+                                        "@{Name=System BIOS - A43; Version=v1.16 (01/10/2020)}",
+                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U30; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U31; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U32; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U33; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U34; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U37; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U38; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U39; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U40; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U41; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U43; Version=v2.14 (03/09/2020)}",
+                                        "@{Name=System BIOS - U44; Version=v2.14 (03/09/2020)}",
+                                        "@{Name=System BIOS - U45; Version=v2.32 (03/09/2020)}",
+                                        "@{Name=System BIOS - U48; Version=v2.10 (03/09/2020)}"
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows Vista (64-bit)",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows Vista Enterprise (64-bit)",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows XP 64-Bit Edition",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    },
                    {
                        "OS":  "Microsoft Windows XP Professional x64 Edition",
-                       "BIOSList":  ""
+                       "BIOSList":  [
+
+                                    ]
                    }
                ]
 }
