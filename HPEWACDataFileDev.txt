@@ -1,0 +1,66 @@
+{
+    "AMSLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysRomLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysRomVersion":  "2.32",
+    "AMSVersion":  "2.12.0.0",
+    "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
+    "iLOFWLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "iLOFWVersion":  "2.14",
+    "SysInfoVersion":  "1.4.0.0",
+    "NVDIMMLink":  "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
+    "NVDIMMVersion":  "2.2.0.0",
+    "OSList":  [
+                   {
+                       "OS":  "Microsoft Windows 10 (64bit, version 1803 \u0026 older)",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows 10 (64bit, version 1809 \u0026 later)",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows 7 (64-bit) - All Editions",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows 8.1 (64-bit)",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012 Essentials",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012 R2",
+                       "BIOSList":  "             "
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2016",
+                       "BIOSList":  "                  "
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2019",
+                       "BIOSList":  "                  "
+                   },
+                   {
+                       "OS":  "Microsoft Windows Vista (64-bit)",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows Vista Enterprise (64-bit)",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows XP 64-Bit Edition",
+                       "BIOSList":  ""
+                   },
+                   {
+                       "OS":  "Microsoft Windows XP Professional x64 Edition",
+                       "BIOSList":  ""
+                   }
+               ]
+}
