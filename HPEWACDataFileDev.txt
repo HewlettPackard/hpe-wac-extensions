@@ -13,13 +13,19 @@
                    {
                        "OS":  "Microsoft Windows 10 (64bit, version 1803 \u0026 older)",
                        "BIOSList":  [
-                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}"
+                                        {
+                                            "Name":  "System BIOS - I41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        }
                                     ]
                    },
                    {
                        "OS":  "Microsoft Windows 10 (64bit, version 1809 \u0026 later)",
                        "BIOSList":  [
-                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}"
+                                        {
+                                            "Name":  "System BIOS - I41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        }
                                     ]
                    },
                    {
@@ -49,68 +55,224 @@
                    {
                        "OS":  "Microsoft Windows Server 2012 R2",
                        "BIOSList":  [
-                                        "@{Name=System BIOS - A40; Version=v2.36 (03/09/2020)}",
-                                        "@{Name=System BIOS - A41; Version=v2.36 (03/09/2020)}",
-                                        "@{Name=System BIOS - A42; Version=v1.18 (01/22/2020)}",
-                                        "@{Name=System BIOS - A43; Version=v1.16 (01/10/2020)}",
-                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U30; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U31; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U32; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U33; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U34; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U37; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U38; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U40; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U41; Version=v2.32 (03/09/2020)}"
+                                        {
+                                            "Name":  "System BIOS - A40",
+                                            "Version":  "v2.36 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A41",
+                                            "Version":  "v2.36 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A42",
+                                            "Version":  "v1.18 (01/22/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A43",
+                                            "Version":  "v1.16 (01/10/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - I41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U30",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U31",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U32",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U33",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U34",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U37",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U38",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U40",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        }
                                     ]
                    },
                    {
                        "OS":  "Microsoft Windows Server 2016",
                        "BIOSList":  [
-                                        "@{Name=System BIOS - A40; Version=v2.36 (03/09/2020)}",
-                                        "@{Name=System BIOS - A41; Version=v2.36 (03/09/2020)}",
-                                        "@{Name=System BIOS - A42; Version=v1.18 (01/22/2020)}",
-                                        "@{Name=System BIOS - A43; Version=v1.16 (01/10/2020)}",
-                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U30; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U31; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U32; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U33; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U34; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U37; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U38; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U39; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U40; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U41; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U43; Version=v2.14 (03/09/2020)}",
-                                        "@{Name=System BIOS - U44; Version=v2.14 (03/09/2020)}",
-                                        "@{Name=System BIOS - U45; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U48; Version=v2.10 (03/09/2020)}"
+                                        {
+                                            "Name":  "System BIOS - A40",
+                                            "Version":  "v2.36 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A41",
+                                            "Version":  "v2.36 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A42",
+                                            "Version":  "v1.18 (01/22/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A43",
+                                            "Version":  "v1.16 (01/10/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - I41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U30",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U31",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U32",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U33",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U34",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U37",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U38",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U39",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U40",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U43",
+                                            "Version":  "v2.14 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U44",
+                                            "Version":  "v2.14 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U45",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U48",
+                                            "Version":  "v2.10 (03/09/2020)"
+                                        }
                                     ]
                    },
                    {
                        "OS":  "Microsoft Windows Server 2019",
                        "BIOSList":  [
-                                        "@{Name=System BIOS - A40; Version=v2.36 (03/09/2020)}",
-                                        "@{Name=System BIOS - A41; Version=v2.36 (03/09/2020)}",
-                                        "@{Name=System BIOS - A42; Version=v1.18 (01/22/2020)}",
-                                        "@{Name=System BIOS - A43; Version=v1.16 (01/10/2020)}",
-                                        "@{Name=System BIOS - I41; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U30; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U31; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U32; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U33; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U34; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U37; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U38; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U39; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U40; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U41; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U43; Version=v2.14 (03/09/2020)}",
-                                        "@{Name=System BIOS - U44; Version=v2.14 (03/09/2020)}",
-                                        "@{Name=System BIOS - U45; Version=v2.32 (03/09/2020)}",
-                                        "@{Name=System BIOS - U48; Version=v2.10 (03/09/2020)}"
+                                        {
+                                            "Name":  "System BIOS - A40",
+                                            "Version":  "v2.36 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A41",
+                                            "Version":  "v2.36 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A42",
+                                            "Version":  "v1.18 (01/22/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A43",
+                                            "Version":  "v1.16 (01/10/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - I41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U30",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U31",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U32",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U33",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U34",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U37",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U38",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U39",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U40",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U41",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U43",
+                                            "Version":  "v2.14 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U44",
+                                            "Version":  "v2.14 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U45",
+                                            "Version":  "v2.32 (03/09/2020)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - U48",
+                                            "Version":  "v2.10 (03/09/2020)"
+                                        }
                                     ]
                    },
                    {
