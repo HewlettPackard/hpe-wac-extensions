@@ -4082,6 +4082,12 @@
                                                                      "w2k19_rt",
                                                                      "w2k19_bl",
                                                                      "win2019"
+                                                                 ],
+                               "Microsoft Azure Stack HCI":  [
+                                                                     "w2k19",
+                                                                     "w2k19_rt",
+                                                                     "w2k19_bl",
+                                                                     "win2019"
                                                                  ]
                            },
     "OSAbbreviations":  [
