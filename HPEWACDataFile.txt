@@ -6,9 +6,9 @@
     "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
     "iLOFWLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx ",
     "iLOFWVersion":  "2.14",
-    "SysInfoVersion":  "1.4.0.0",
+    "SysInfoVersion":  "1.5.0.1",
     "NVDIMMLink": "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
-    "NVDIMMVersion": "2.2.0.0",
+    "NVDIMMVersion": "2.3.0.0",
     "OSList":  [
                    {
                        "OS":  "Microsoft Windows 10 (64bit, version 1803 \u0026 older)",
