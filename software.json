@@ -11,8 +11,8 @@
                                                   }
             },
     "cmdlet":  {
-                   "sysinfo":  "1.4.0.0",
-                   "nvdimm":  "2.2.0.0"
+                   "sysinfo":  "1.5.0.1",
+                   "nvdimm":  "2.3.0.0"
                },
     "url":  {
                 "SPPLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
