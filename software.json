@@ -12,7 +12,7 @@
             },
     "cmdlet":  {
                    "sysinfo":  "1.5.0.2",
-                   "nvdimm":  "2.3.0.0"
+                   "nvdimm":  "2.2.0.0"
                },
     "url":  {
                 "SPPLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
@@ -32,16 +32,16 @@
                                                                 "ixn_bl.w2k19":  "4.1.143.0",
                                                                 "ixn_bl.w2k12r2":  "3.14.132.0"
                                                             },
-                   "Intel® 82599 Virtual Function for 560FLB VMware":  {
-                                                                           "vxn_bl.w2k19":  "2.1.138.0",
-                                                                           "vxn_bl.w2k16":  "2.0.210.0",
-                                                                           "vxn_bl.w2k12r2":  "1.0.16.1"
-                                                                       },
-                   "Intel® 82599 Virtual Function for 560M VMware":  {
-                                                                         "vxn_bl.w2k19":  "2.1.138.0",
-                                                                         "vxn_bl.w2k16":  "2.0.210.0",
-                                                                         "vxn_bl.w2k12r2":  "1.0.16.1"
-                                                                     },
+                   "IntelÂ® 82599 Virtual Function for 560FLB VMware":  {
+                                                                            "vxn_bl.w2k19":  "2.1.138.0",
+                                                                            "vxn_bl.w2k16":  "2.0.210.0",
+                                                                            "vxn_bl.w2k12r2":  "1.0.16.1"
+                                                                        },
+                   "IntelÂ® 82599 Virtual Function for 560M VMware":  {
+                                                                          "vxn_bl.w2k19":  "2.1.138.0",
+                                                                          "vxn_bl.w2k16":  "2.0.210.0",
+                                                                          "vxn_bl.w2k12r2":  "1.0.16.1"
+                                                                      },
                    "HP Express Bay 6-port Bridge Card":  {
                                                              "Express_Bay.win":  "1.78(C)"
                                                          },
@@ -1400,11 +1400,11 @@
                                                                   "vxn.w2k12_r2":  "1.0.16.1(B)",
                                                                   "vxn.w2k19":  "2.1.138.0(B)"
                                                               },
-                   "Intel® 82599 Virtual Function for 560FLR-SFP+ VMware":  {
-                                                                                "vxn.w2k16":  "2.0.210.0(D)",
-                                                                                "vxn.w2k12_r2":  "1.0.16.1(B)",
-                                                                                "vxn.w2k19":  "2.1.138.0(B)"
-                                                                            },
+                   "IntelÂ® 82599 Virtual Function for 560FLR-SFP+ VMware":  {
+                                                                                 "vxn.w2k16":  "2.0.210.0(D)",
+                                                                                 "vxn.w2k12_r2":  "1.0.16.1(B)",
+                                                                                 "vxn.w2k19":  "2.1.138.0(B)"
+                                                                             },
                    "Intel\u0026reg; 82599 Virtual Function for 560SFP+ VMware":  {
                                                                                      "vxn.w2k16":  "2.0.210.0(D)",
                                                                                      "vxn.w2k12_r2":  "1.0.16.1(B)",
@@ -1733,11 +1733,11 @@
                    "EG0900FCSPN":  {
                                        "EG0300FCSPH_EG0450FCSPK_EG0600FCSPL_EG0900FCSP_x64":  "HPD2(D)"
                                    },
-                   "Intel® 82599 Virtual Function for P560SFP+ VMware":  {
-                                                                             "vxn.w2k16":  "2.0.210.0(D)",
-                                                                             "vxn.w2k12_r2":  "1.0.16.1(B)",
-                                                                             "vxn.w2k19":  "2.1.138.0(B)"
-                                                                         },
+                   "IntelÂ® 82599 Virtual Function for P560SFP+ VMware":  {
+                                                                              "vxn.w2k16":  "2.0.210.0(D)",
+                                                                              "vxn.w2k12_r2":  "1.0.16.1(B)",
+                                                                              "vxn.w2k19":  "2.1.138.0(B)"
+                                                                          },
                    "MB001000GWCBC":  {
                                          "MB001000GWCBC_MB002000GWCBD_x64":  "HPG6(B)"
                                      },
@@ -4052,5 +4052,59 @@
                         {
                             "U26":  "2.64_04-04-2019"
                         }
-                    ]
+                    ],
+    "OSTranslationTable":  {
+                               "Microsoft Windows Server 2012":  [
+                                                                     "w2012",
+                                                                     "win2012"
+                                                                 ],
+                               "Microsoft Windows Server 2012 Essentials":  [
+                                                                                "w2012",
+                                                                                "win2012"
+                                                                            ],
+                               "Microsoft Windows Server 2012 R2":  [
+                                                                        "w2k12r2",
+                                                                        "w2012",
+                                                                        "w2k12_r2",
+                                                                        "w2012_R2",
+                                                                        "w2k12R2_rt",
+                                                                        "w2k12R2_bl",
+                                                                        "win2012_R2"
+                                                                    ],
+                               "Microsoft Windows Server 2016":  [
+                                                                     "w2k16",
+                                                                     "w2016",
+                                                                     "w2k16_rt",
+                                                                     "win2016"
+                                                                 ],
+                               "Microsoft Windows Server 2019":  [
+                                                                     "w2k19",
+                                                                     "w2k19_rt",
+                                                                     "w2k19_bl",
+                                                                     "win2019"
+                                                                 ],
+                               "Microsoft Azure Stack HCI":  [
+                                                                     "w2k19",
+                                                                     "w2k19_rt",
+                                                                     "w2k19_bl",
+                                                                     "win2019"
+                                                                 ]
+                           },
+    "OSAbbreviations":  [
+                            "w2012",
+                            "win2012",
+                            "w2k12_r2",
+                            "w2012_R2",
+                            "w2k12R2_rt",
+                            "w2k12R2_bl",
+                            "win2012_R2",
+                            "w2k16",
+                            "w2016",
+                            "w2k16_rt",
+                            "win2016",
+                            "w2k19",
+                            "w2k19_rt",
+                            "w2k19_bl",
+                            "win2019"
+                        ]
 }
