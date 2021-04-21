@@ -1,15 +1,15 @@
 {
-    "ams":  {
-                "Microsoft Windows Server 2016":  {
-                                                      "Agentless Management Service for Windows x64":  "2.41.0.0"
-                                                  },
-                "Microsoft Windows Server 2012 R2":  {
-                                                         "Agentless Management Service for Windows x64":  "2.41.0.0"
-                                                     },
-                "Microsoft Windows Server 2019":  {
-                                                      "Agentless Management Service for Windows x64":  "2.41.0.0"
-                                                  }
-            },
+   "ams": {
+    "Microsoft Windows Server 2016": {
+      "Agentless Management Service for Windows x64": "2.30.1.0"
+    },
+    "Microsoft Windows Server 2012 R2": {
+      "Agentless Management Service for Windows x64": "2.30.1.0"
+    },
+    "Microsoft Windows Server 2019": {
+      "Agentless Management Service for Windows x64": "2.30.1.0"
+    }
+  },
     "cmdlet":  {
                    "sysinfo":  "1.5.0.2",
                    "nvdimm":  "2.3.0.0"
