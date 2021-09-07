@@ -1,0 +1,38 @@
+{
+    "AMSLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysRomLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysRomVersion":  null,
+    "AMSVersion":  "2.50.0.0",
+    "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
+    "iLOFWLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "iLOFWVersion":  "2.44",
+    "SysInfoVersion":  "1.5.0.2",
+    "NVDIMMLink":  "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
+    "NVDIMMVersion":  "2.3.0.0",
+    "OSList":  [
+                   {
+                       "OS":  "Microsoft Windows Server 2012",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012 R2",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2016",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2019",
+                       "BIOSList":  [
+
+                                    ]
+                   }
+               ]
+}
