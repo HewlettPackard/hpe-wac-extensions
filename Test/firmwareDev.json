@@ -145,7 +145,7 @@
       "EH0450JDYTK": "HPD6",
       "EH0600JDYTL": "HPD6",
       "Server Platform Services (SPS) Firmware": "04.01.04.423",
-	  "Server Platform Services (SPS) Descriptor": "N/A",
+	    "Server Platform Services (SPS) Descriptor": "N/A",
       "Gen10Plus_UBM2_Backplane_PIC": "1.16",
       "EG1800JFHMH": "HPD7",
       "Intel E810-CQDA2 Ethernet 100Gb 2-port QSFP28 OCP3 Adapter for HPE": "2.24",
@@ -789,7 +789,7 @@
       "EH0450JDYTK": "HPD6",
       "EH0600JDYTL": "HPD6",
       "Server Platform Services (SPS) Firmware": "04.01.04.423",
-	  "Server Platform Services (SPS) Descriptor": "N/A",
+	    "Server Platform Services (SPS) Descriptor": "N/A",
       "Gen10Plus_UBM2_Backplane_PIC": "1.16",
       "EG1800JFHMH": "HPD7",
       "Intel E810-CQDA2 Ethernet 100Gb 2-port QSFP28 OCP3 Adapter for HPE": "2.24",
@@ -1308,7 +1308,7 @@
       "HPE LPe1605 16Gb Fibre Channel Host Bus Adapter for BladeSystem c-Class": "12.8.352.12",
       "Innovation Engine (IE) Fimware": "0.2.2.0",
       "Server Platform Services (SPS) Firmware": "04.01.04.423",
-	  "Server Platform Services (SPS) Descriptor": "N/A",
+	    "Server Platform Services (SPS) Descriptor": "N/A",
       "HPE IB HDR/EN 200Gb 2p QSFP56 OCP3 Adptr": "20.29.1016",
       "System ROM - U38": "v2.42 (01/23/2021)",
       "HPE Ethernet 10Gb 2-port 548SFP+ Adapter": "14.29.1016",
@@ -1537,8 +1537,8 @@
       "System ROM - I41": "v2.42 (01/23/2021)",
       "iLO 5": "2.42",
       "Power Management Controller Firmware": "1.0.7",
-      "Server Platform Services (SPS) Firmware": "04.01.04.423"
-	  "Server Platform Services (SPS) Descriptor": "N/A",
+      "Server Platform Services (SPS) Firmware": "04.01.04.423",
+	    "Server Platform Services (SPS) Descriptor": "N/A"
     },
     "Microsoft Windows 10 (64bit, version 1803 & older)": {
       "Innovation Engine (IE) Fimware": "0.2.2.0",
@@ -1581,8 +1581,8 @@
       "System ROM - I41": "v2.42 (01/23/2021)",
       "iLO 5": "2.42",
       "Power Management Controller Firmware": "1.0.7",
-      "Server Platform Services (SPS) Firmware": "04.01.04.423"
-	  "Server Platform Services (SPS) Descriptor": "N/A",
+      "Server Platform Services (SPS) Firmware": "04.01.04.423",
+	    "Server Platform Services (SPS) Descriptor": "N/A"
     },
     "Microsoft Windows 10 (64-bit)": {
       "System ROM - I41": "v2.42 (01/23/2021)"
