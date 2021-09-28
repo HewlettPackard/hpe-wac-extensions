@@ -1,362 +1,422 @@
 {
-    "ams":  {
-
-            },
-    "cmdlet":  {
-                   "sysinfo":  null
-               },
-    "url":  {
-                "SPPLink":  "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
-                "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets"
-            },
-    "driver":  {
-                   "HPE Ethernet i210-T1 GbE NIC":  {
-                                                        "Intel_i210_NIC":  "1.2877"
-                                                    },
-                   "HPE Ethernet i210-T1 Gigabit Backplane Connection":  {
-                                                                             "Intel_i210_NIC":  "1.2877"
-                                                                         },
-                   "iLO 5 (Function 2 / CHIF, subsystem 00E41590)":  {
-                                                                         "ams.win.X64":  "2.50.0.0",
-                                                                         "isut.windows_64":  "2.8.0.0",
-                                                                         "iLO5_FW_WIN.X64":  "2.44"
-                                                                     },
-                   "iLO 5 (Function 0 / CSM, subsystem 00E41590)":  {
-                                                                        "ams.win.X64":  "2.50.0.0",
-                                                                        "isut.windows_64":  "2.8.0.0",
-                                                                        "iLO5_FW_WIN.X64":  "2.44"
-                                                                    },
-                   "iLO 5 (Function 2 / CHIF, subsystem 00000000)":  {
-                                                                         "isut.windows_64":  "2.8.0.0"
-                                                                     },
-                   "iLO 5 (Function 0 / CSM, subsystem 00000000)":  {
-                                                                        "isut.windows_64":  "2.8.0.0"
-                                                                    },
-                   "KXG50ZNV1T":  {
-                                      "KXG50ZNV256G_KXG50ZNV512G_KXG50ZNV1T":  "4103"
-                                  },
-                   "KXG50ZNV512G":  {
-                                        "KXG50ZNV256G_KXG50ZNV512G_KXG50ZNV1T":  "4103"
-                                    },
-                   "KXG50ZNV256G":  {
-                                        "KXG50ZNV256G_KXG50ZNV512G_KXG50ZNV1T":  "4103"
-                                    },
-                   "HPE SmartNIC 10/25Gb 2-port Adapter":  {
-                                                               "nicfwupg_naples.win64":  "1.14.2.0"
-                                                           },
-                   "HPE SmartNIC Management Port":  {
-                                                        "nicfwupg_naples.win64":  "1.14.2.0"
-                                                    },
-                   "Pensando Distributed Services Platform DSC-25 10/25Gb 2-port SFP28 Card":  {
-                                                                                                   "nicfwupg_naples.win64":  "1.14.2.0"
-                                                                                               },
-                   "Pensando DSC-25 Management Port":  {
-                                                           "nicfwupg_naples.win64":  "1.14.2.0"
-                                                       },
-                   "HPE Edgeline e910 2-port 10GbE SFP+ module":  {
-                                                                      "e910_Intel_X722_Quad_port_10GbE":  "4.30(A)"
-                                                                  },
-                   "HPE Edgeline e910 2-port 1GbE RJ45 module":  {
-                                                                     "e910_Intel_X722_Quad_port_10GbE":  "4.30(A)"
-                                                                 },
-                   "HPE Edgeline e910 4x10GbE QSFP+ module":  {
-                                                                  "e910_Intel_X722_Quad_port_10GbE":  "4.30(A)"
-                                                              },
-                   "MZ1LB1T9HALS-00007":  {
-                                              "MZ1LB9600_MZ1LB1T90":  "7602"
-                                          },
-                   "MZ1LB960HAJQ-00007":  {
-                                              "MZ1LB9600_MZ1LB1T90":  "7602"
-                                          },
-                   "HPE Ethernet 10Gb 2-port 546FLR-SFP+ Adapter":  {
-                                                                        "MLNX_Ethernet_Only_NIC_FW_package.x64":  "1.0.0.13"
-                                                                    },
-                   "HPE Ethernet 10Gb 2-port 546SFP+ Adapter":  {
-                                                                    "MLNX_Ethernet_Only_NIC_FW_package.x64":  "1.0.0.13"
-                                                                },
-                   "HPE Ethernet 100Gb 1-port 842QSFP28 Adapter":  {
-                                                                       "MLNX_Ethernet_Only_NIC_FW_package.x64":  "1.0.0.13"
-                                                                   },
-                   "HPE Ethernet 25Gb 2-port 640 FLR-SFP28 Adapter":  {
-                                                                          "MLNX_Ethernet_Only_NIC_FW_package.x64":  "1.0.0.13"
-                                                                      },
-                   "HPE Ethernet 25Gb 2-port 640SFP28 Adapter":  {
-                                                                     "MLNX_Ethernet_Only_NIC_FW_package.x64":  "1.0.0.13"
-                                                                 },
-                   "Pensando DSC-25 OCP Management Port":  {
-                                                               "nicfwupg_naples.win64":  "1.14.2.0"
-                                                           },
-                   "Pensando Distributed Services Platform DSC-100 Cloud-Service Providers 100Gb 2-port QSFP28 Card":  {
-                                                                                                                           "nicfwupg_naples.win64":  "1.14.2.0"
-                                                                                                                       },
-                   "Pensando Distributed Services Platform DSC-100 Enterprise 100Gb 2-port QSFP28 Card":  {
-                                                                                                              "nicfwupg_naples.win64":  "1.14.2.0"
-                                                                                                          },
-                   "Pensando Distributed Services Platform DSC-25 Cloud-Service Providers 10/25Gb 2-port SFP28 Card":  {
-                                                                                                                           "nicfwupg_naples.win64":  "1.14.2.0"
-                                                                                                                       },
-                   "Pensando Distributed Services Platform DSC-25 Enterprise 10/25Gb 2-port OCP3 Card":  {
-                                                                                                             "nicfwupg_naples.win64":  "1.14.2.0"
-                                                                                                         },
-                   "Pensando DSC-100 Management Port":  {
-                                                            "nicfwupg_naples.win64":  "1.14.2.0"
-                                                        },
-                   "MZ1LB3T8HMLA-00007":  {
-                                              "MZ1LB3T80":  "7602"
-                                          },
-                   "ILO 4 GLP (Function 0 / CSM)":  {
-                                                        "isut.windows_64":  "2.8.0.0"
-                                                    },
-                   "ILO 4 GLP (Function 2 / CHIF)":  {
-                                                         "isut.windows_64":  "2.8.0.0"
-                                                     },
-                   "ILO 4 GLP (Function 4 / UHCI)":  {
-                                                         "isut.windows_64":  "2.8.0.0"
-                                                     },
-                   "ILO 4 GLP (Function 6 / IPMI)":  {
-                                                         "isut.windows_64":  "2.8.0.0"
-                                                     },
-                   "iLO 5 (Function 0 / CSM, subsystem 027F1590)":  {
-                                                                        "ams.win.X64":  "2.50.0.0",
-                                                                        "isut.windows_64":  "2.8.0.0"
-                                                                    },
-                   "iLO 5 (Function 2 / CHIF, subsystem 027F1590)":  {
-                                                                         "ams.win.X64":  "2.50.0.0",
-                                                                         "isut.windows_64":  "2.8.0.0"
-                                                                     },
-                   "ILO 4 GLP (Function 3 / Watchdog)":  {
-                                                             "isut.windows_64":  "2.8.0.0"
-                                                         },
-                   "ILO 4 GLP (Function 5 / Serial)":  {
-                                                           "isut.windows_64":  "2.8.0.0"
-                                                       },
-                   "ILO 4 GLP (Function 0 / CSM) [Auxiliary]":  {
-                                                                    "isut.windows_64":  "2.8.0.0"
-                                                                },
-                   "ILO 4 GLP (Function 2 / CHIF) [Auxiliary]":  {
-                                                                     "isut.windows_64":  "2.8.0.0"
-                                                                 },
-                   "HPE Ethernet 1Gb 2-port 363i Adapter":  {
-                                                                "nicfwupg_intel.win64":  "5.2.4.0"
-                                                            },
-                   "HPE Ethernet 10Gb 2-port 568i Adapter":  {
-                                                                 "nicfwupg_intel.win64":  "5.2.4.0"
-                                                             },
-                   "HPE Ethernet 1Gb 2-port 368i Adapter":  {
-                                                                "nicfwupg_intel.win64":  "5.2.4.0"
-                                                            },
-                   "HPE Ethernet 1Gb 4-port 366i Communication Board":  {
-                                                                            "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                        },
-                   "HPE Ethernet 1Gb 4-port 369i Adapter":  {
-                                                                "nicfwupg_intel.win64":  "5.2.4.0"
-                                                            },
-                   "HPE Ethernet 1Gb 2-port 361i Adapter":  {
-                                                                "nicfwupg_intel.win64":  "5.2.4.0"
-                                                            },
-                   "HPE Ethernet 1Gb 4-port 366i Adapter":  {
-                                                                "nicfwupg_intel.win64":  "5.2.4.0"
-                                                            },
-                   "HPE Ethernet 10Gb 2-port 560FLR-SFP+ Adapter":  {
-                                                                        "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                    },
-                   "HPE Ethernet 1Gb 2-port 361T Adapter":  {
-                                                                "nicfwupg_intel.win64":  "5.2.4.0"
-                                                            },
-                   "HPE Ethernet 1Gb 4-port 366FLR Adapter":  {
-                                                                  "nicfwupg_intel.win64":  "5.2.4.0"
-                                                              },
-                   "HPE Ethernet 1Gb 4-port 366T Adapter":  {
-                                                                "nicfwupg_intel.win64":  "5.2.4.0"
-                                                            },
-                   "HPE Ethernet 10Gb 2-port 560SFP+ Adapter":  {
-                                                                    "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                },
-                   "HPE Ethernet 10Gb 2-port 562FLR-SFP+ Adapter":  {
-                                                                        "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                    },
-                   "HPE Ethernet 10Gb 2-port 562FLR-T Adapter":  {
-                                                                     "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                 },
-                   "HPE Ethernet 10Gb 2-port 562SFP+ Adapter":  {
-                                                                    "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                },
-                   "HPE Ethernet 10Gb 2-port 562T Adapter":  {
-                                                                 "nicfwupg_intel.win64":  "5.2.4.0"
-                                                             },
-                   "HPE Ethernet 10Gb 2-port 568FLR-MMSFP+ Adapter":  {
-                                                                          "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                      },
-                   "HPE Ethernet 1Gb 2-port 368FLR-MMT Adapter":  {
-                                                                      "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                  },
-                   "HPE Ethernet 10Gb 2-port 568FLR-MMT Adapter":  {
-                                                                       "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                   },
-                   "HPE Ethernet 10Gb 2-port 561T Adapter":  {
-                                                                 "nicfwupg_intel.win64":  "5.2.4.0"
-                                                             },
-                   "HPE Ethernet 10Gb 2-port 561FLR-T Adapter":  {
-                                                                     "nicfwupg_intel.win64":  "5.2.4.0"
-                                                                 },
-                   "KXG50PNV2T04":  {
-                                        "KXG50PNV2T04":  "4103"
-                                    }
-               },
-    "Application":  [
-                        {
-                            "IE-Gen10Plus":  "1.0.0.20"
-                        },
-                        {
-                            "SPS_Gen10Plus":  "04.04.04.053"
-                        },
-                        {
-                            "Mellanox_NIC":  "1.0.0.13"
-                        },
-                        {
-                            "hpsut.exe":  "2.8.0.0"
-                        },
-                        {
-                            "sut.exe":  "2.8.0.0"
-                        },
-                        {
-                            "HPNVMUpdate.exe":  "5.2.4.0"
-                        },
-                        {
-                            "SPS_Gen10":  "04.01.04.381"
-                        },
-                        {
-                            "penutil_win.exe":  "1.14.1.0"
-                        },
-                        {
-                            "penutil_win.exe":  "1.14.2.0"
-                        },
-                        {
-                            "H10":  "1.40_04-20-2021"
-                        },
-                        {
-                            "installer.dll":  "10.1.18612.8252"
-                        },
-                        {
-                            "H08":  "1.86_02-10-2021"
-                        },
-                        {
-                            "i210_NIC":  "1.2877"
-                        },
-                        {
-                            "RI11":  "2.44"
-                        },
-                        {
-                            "ams.exe":  "2.50.0.0"
-                        },
-                        {
-                            "ACCE":  "1.5.6"
-                        },
-                        {
-                            "IE-Gen10":  "0.2.2.2"
-                        },
-                        {
-                            "MZ1LB960HAJQ-00007":  "7602"
-                        },
-                        {
-                            "MZ1LB1T9HALS-00007":  "7602"
-                        },
-                        {
-                            "KXG50ZNV256G":  "4103"
-                        },
-                        {
-                            "KXG50ZNV512G":  "4103"
-                        },
-                        {
-                            "KXG50ZNV1T":  "4103"
-                        },
-                        {
-                            "x722":  "4.30"
-                        },
-                        {
-                            "KXG50PNV2T04":  "4103"
-                        },
-                        {
-                            "MZ1LB3T8HMLA-00007":  "7602"
-                        },
-                        {
-                            "IE-Gen10Plus":  "1.0.0.20"
-                        },
-                        {
-                            "SPS_Gen10Plus":  "04.04.04.053"
-                        },
-                        {
-                            "Mellanox_NIC":  "1.0.0.13"
-                        },
-                        {
-                            "hpsut.exe":  "2.8.0.0"
-                        },
-                        {
-                            "sut.exe":  "2.8.0.0"
-                        },
-                        {
-                            "HPNVMUpdate.exe":  "5.2.4.0"
-                        },
-                        {
-                            "SPS_Gen10":  "04.01.04.381"
-                        },
-                        {
-                            "penutil_win.exe":  "1.14.1.0"
-                        },
-                        {
-                            "penutil_win.exe":  "1.14.2.0"
-                        },
-                        {
-                            "H10":  "1.40_04-20-2021"
-                        },
-                        {
-                            "installer.dll":  "10.1.18612.8252"
-                        },
-                        {
-                            "H08":  "1.86_02-10-2021"
-                        },
-                        {
-                            "i210_NIC":  "1.2877"
-                        },
-                        {
-                            "RI11":  "2.44"
-                        },
-                        {
-                            "ams.exe":  "2.50.0.0"
-                        },
-                        {
-                            "ACCE":  "1.5.6"
-                        },
-                        {
-                            "IE-Gen10":  "0.2.2.2"
-                        },
-                        {
-                            "MZ1LB960HAJQ-00007":  "7602"
-                        },
-                        {
-                            "MZ1LB1T9HALS-00007":  "7602"
-                        },
-                        {
-                            "KXG50ZNV256G":  "4103"
-                        },
-                        {
-                            "KXG50ZNV512G":  "4103"
-                        },
-                        {
-                            "KXG50ZNV1T":  "4103"
-                        },
-                        {
-                            "x722":  "4.30"
-                        },
-                        {
-                            "KXG50PNV2T04":  "4103"
-                        },
-                        {
-                            "MZ1LB3T8HMLA-00007":  "7602"
-                        }
-                    ],
-                    "OSTranslationTable":  {
-                    
-                    }
-                    
+  "ams": {
+    "Microsoft Windows Server 2016": {
+      "Agentless Management Service for Windows X64": "2.41.0.0"
+    },
+    "Microsoft Windows Server 2012 R2": {
+      "Agentless Management Service for Windows X64": "2.41.0.0"
+    },
+    "Microsoft Windows Server 2019": {
+      "Agentless Management Service for Windows X64": "2.41.0.0"
+    }
+  },
+  "cmdlet": {
+    "sysinfo": "1.5.0.2",
+    "nvdimm": "2.3.0.0"
+  },
+  "url": {
+    "SPPLink": "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets"
+  },
+  "driver": {
+    "iLO 5 (Function 2 / CHIF, subsystem 00E41590)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0",
+      "iLO5_FW_WIN.X64": "2.44"
+    },
+    "iLO 5 (Function 2 / CHIF, subsystem 00000000)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "iLO 5 (Function 0 / CSM, subsystem 00E41590)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0",
+      "iLO5_FW_WIN.X64": "2.44"
+    },
+    "iLO 5 (Function 0 / CSM, subsystem 00000000)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "HPE Ethernet 1Gb 2-port 363i Adapter": {
+      "e1r.w2k16": "12.16.3.1",
+      "e1r.w2k19": "12.18.11.1",
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 4-port 366i Communication Board": {
+      "e1r.w2k16": "12.16.3.1",
+      "e1r.w2k19": "12.18.11.1",
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 2-port 361i Adapter": {
+      "e1r.w2k16": "12.16.3.1",
+      "e1r.w2k19": "12.18.11.1",
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 4-port 366i Adapter": {
+      "e1r.w2k16": "12.16.3.1",
+      "e1r.w2k19": "12.18.11.1",
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 2-port 361T Adapter": {
+      "e1r.w2k16": "12.16.3.1",
+      "e1r.w2k19": "12.18.11.1",
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 4-port 366FLR Adapter": {
+      "e1r.w2k16": "12.16.3.1",
+      "e1r.w2k19": "12.18.11.1",
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 4-port 366T Adapter": {
+      "e1r.w2k16": "12.16.3.1",
+      "e1r.w2k19": "12.18.11.1",
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 546FLR-SFP+ Adapter": {
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.13"
+    },
+    "HPE Ethernet 10Gb 2-port 546SFP+ Adapter": {
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.13"
+    },
+    "HPE Ethernet 100Gb 1-port 842QSFP28 Adapter": {
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.13",
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE Ethernet 25Gb 2-port 640 FLR-SFP28 Adapter": {
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.13",
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE Ethernet 25Gb 2-port 640SFP28 Adapter": {
+      "MLNX_Ethernet_Only_NIC_FW_package.x64": "1.0.0.13",
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "MZ1LB3T8HMLA-00007": {
+      "MZ1LB3T80": "EDB7602Q"
+    },
+    "HPE Ethernet i210-T1 GbE NIC": {
+      "Intel_i210_NIC": "1.2877"
+    },
+    "HPE Ethernet i210-T1 Gigabit Backplane Connection": {
+      "Intel_i210_NIC": "1.2877"
+    },
+    "HPE Ethernet 10Gb 2-port 568i Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 2-port 368i Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 4-port 369i Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 562FLR-SFP+ Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0",
+      "i40ea.w2k19": "1.13.104.0",
+      "i40ea.w2k16": "1.13.104.0"
+    },
+    "HPE Ethernet 10Gb 2-port 562SFP+ Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0",
+      "i40ea.w2k19": "1.13.104.0",
+      "i40ea.w2k16": "1.13.104.0"
+    },
+    "HPE Ethernet 10Gb 2-port 568FLR-MMSFP+ Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 1Gb 2-port 368FLR-MMT Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 568FLR-MMT Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "Pensando Distributed Services Platform DSC-25 10/25Gb 2-port SFP28 Card": {
+      "ionic.win64": "1.14.1.191(D)",
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "HPE SmartNIC 10/25Gb 2-port Adapter": {
+      "ionic.win64": "1.14.1.191(D)",
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "ASM #4 (B204/B206) iLO RIB": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "HP Integrated Lights-Out 3 (iLO 3)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GLP (Function 0 / CSM)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GLP (Function 2 / CHIF)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GLP (Function 3 / Watchdog)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GLP (Function 4 / UHCI)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GLP (Function 5 / Serial)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GLP (Function 6 / IPMI)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GXE (Function 0 / CSM)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GXE (Function 2 / CHIF)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GXE (Function 3 / Watchdog)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GXE (Function 4 / UHCI)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GXE (Function 5 / Serial)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 3 GXE (Function 6 / IPMI)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "HPE Integrated Lights-Out 4 (iLO 4)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "ILO 4 GLP (Function 0 / CSM)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "ILO 4 GLP (Function 2 / CHIF)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "ILO 4 GLP (Function 3 / Watchdog)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "ILO 4 GLP (Function 4 / UHCI)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "ILO 4 GLP (Function 5 / Serial)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "ILO 4 GLP (Function 6 / IPMI)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "HPE Integrated Lights-Out 5 (iLO 5)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)"
+    },
+    "iLO 5 (Function 0 / CSM, subsystem 027F1590)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "iLO 5 (Function 2 / CHIF, subsystem 027F1590)": {
+      "hponcfg.w2k3_64": "5.5.0.0(A)",
+      "isut.windows_64": "2.8.0.0"
+    },
+    "MZ1LB1T9HALS-00007": {
+      "MZ1LB9600_MZ1LB1T90": "EDA7602Q"
+    },
+    "MZ1LB960HAJQ-00007": {
+      "MZ1LB9600_MZ1LB1T90": "EDA7602Q"
+    },
+    "Pensando Distributed Services Platform DSC-100 Cloud-Service Providers 100Gb 2-port QSFP28 Card": {
+      "ionic.win64": "1.14.1.191(D)",
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "Pensando Distributed Services Platform DSC-100 Enterprise 100Gb 2-port QSFP28 Card": {
+      "ionic.win64": "1.14.1.191(D)",
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "Pensando Distributed Services Platform DSC-25 Cloud-Service Providers 10/25Gb 2-port SFP28 Card": {
+      "ionic.win64": "1.14.1.191(D)",
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "Pensando Distributed Services Platform DSC-25 Enterprise 10/25Gb 2-port OCP3 Card": {
+      "ionic.win64": "1.14.1.191(D)",
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "HPE InfiniBand FDR/Ethernet 40/50Gb 2-port 547FLR-QSFP Adapter VF": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE Ethernet 10Gb 2-port 548SFP+ Adapter": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 1-port 840QSFP28 Adapter": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 1-port 840QSFP28 Adapter VF": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 2-port 840QSFP28 Adapter": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 2-port 840QSFP28 Adapter VF": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE InfiniBand EDR/Ethernet 100Gb 2-port 841QSFP28 Adapter": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE InfiniBand FDR/Ethernet 40/50Gb 2-port 547FLR-QSFP Adapter": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE Virtual Function for 548SFP+": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "HPE Virtual Function for 548SFP+ OCP3": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "Mellanox CX4LX Virtual Function for 640FLR-SFP+": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "Mellanox CX4LX Virtual Function for 640SFP": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "Mellanox CX5 Virtual Function for 842SFP28": {
+      "mlnxcx4.w2k16": "2.60.23957.0",
+      "mlnxcx4.w2k19": "2.60.23957.0"
+    },
+    "KXG50PNV2T04": {
+      "KXG50PNV2T04": "AFGA4103"
+    },
+    "HPE Edgeline e910 2-port 10GbE SFP+ module": {
+      "e910_Intel_X722_Quad_port_10GbE": "4.30"
+    },
+    "HPE Edgeline e910 2-port 1GbE RJ45 module": {
+      "e910_Intel_X722_Quad_port_10GbE": "4.30"
+    },
+    "HPE Edgeline e910 4x10GbE QSFP+ module": {
+      "e910_Intel_X722_Quad_port_10GbE": "4.30"
+    },
+    "ILO 4 GLP (Function 0 / CSM) [Auxiliary]": {
+      "isut.windows_64": "2.8.0.0"
+    },
+    "ILO 4 GLP (Function 2 / CHIF) [Auxiliary]": {
+      "isut.windows_64": "2.8.0.0"
+    },
+    "KXG50ZNV256G": {
+      "KXG50ZNV256G_KXG50ZNV512G_KXG50ZNV1T": "AAGA4103"
+    },
+    "KXG50ZNV512G": {
+      "KXG50ZNV256G_KXG50ZNV512G_KXG50ZNV1T": "AAGA4103"
+    },
+    "KXG50ZNV1T": {
+      "KXG50ZNV256G_KXG50ZNV512G_KXG50ZNV1T": "AAGA4103"
+    },
+    "HPE Ethernet 10Gb 2-port 560FLR-SFP+ Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 560SFP+ Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 562FLR-T Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 562T Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 561T Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "HPE Ethernet 10Gb 2-port 561FLR-T Adapter": {
+      "nicfwupg_intel.win64": "5.2.4.0"
+    },
+    "Intel 562xxx 2nd Port": {
+      "i40ea.w2k19": "1.13.104.0",
+      "i40ea.w2k16": "1.13.104.0"
+    },
+    "Intel 4610C 2nd Port": {
+      "i40ea.w2k19": "1.13.104.0",
+      "i40ea.w2k16": "1.13.104.0"
+    },
+    "Pensando DSC-25 OCP Management Port": {
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "HPE SmartNIC Management Port": {
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "Pensando DSC-100 Management Port": {
+      "nicfwupg_naples.win64": "1.14.2.0"
+    },
+    "Pensando DSC-25 Management Port": {
+      "nicfwupg_naples.win64": "1.14.2.0"
+    }
+  },
+  "OSTranslationTable": {
+    "Microsoft Windows Server 2012": [
+      "w2k12r2",
+      "w2012",
+      "win2012"
+    ],
+    "Microsoft Windows Server 2012 Essentials": [
+      "w2k12r2",
+      "w2012",
+      "win2012"
+    ],
+    "Microsoft Windows Server 2012 R2": [
+      "w2k12r2",
+      "win_2012R2_rt",
+      "w2012",
+      "w2012_R2",
+      "w2k12R2_rt",
+      "x64_win2k12R2_r",
+      "w2k12_r2",
+      "w2k12R2_bl",
+      "win2012_R2",
+      "win2012"
+    ],
+    "Microsoft Windows Server 2016": [
+      "w2k16",
+      "win_2016_rt",
+      "w2016",
+      "w2k16_rt",
+      "w2k16_bl",
+      "win2016"
+    ],
+    "Microsoft Windows Server 2019": [
+      "w2k19",
+      "w2k19_rt",
+      "w2k19_bl",
+      "win2019"
+    ]
+  },
+  "OSAbbreviations": [
+    "w2k3_64",
+    "w2k12r2",
+    "w2k16",
+    "w2k19",
+    "w2k19_rt",
+    "win_2012R2_rt",
+    "win_2016_rt",
+    "w2012",
+    "w2k19_bl",
+    "w2012_R2",
+    "w2016",
+    "w2k12R2_rt",
+    "w2k16_rt",
+    "x64_win2k12R2_r",
+    "w2k12_r2",
+    "w2k12R2_bl",
+    "w2k16_bl",
+    "win2016",
+    "win2019",
+    "win2012_R2",
+    "win2012"
+  ]
 }
