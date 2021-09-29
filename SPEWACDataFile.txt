@@ -1,10 +1,10 @@
 {
     "AMSLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
-    "SysRomLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SysRomLink":  "https://buy.hpe.com/us/en/software/infrastructure-management-software/system-server-management-software/system-server-software-management-software/service-pack-for-edgeline/p/1013624651",
     "SysRomVersion":  null,
     "AMSVersion":  "2.41.0.0",
     "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
-    "iLOFWLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "iLOFWLink":  "https://buy.hpe.com/us/en/software/infrastructure-management-software/system-server-management-software/system-server-software-management-software/service-pack-for-edgeline/p/1013624651",
     "iLOFWVersion":  "2.42",
     "SysInfoVersion":  "1.5.0.2",
     "NVDIMMLink":  "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
