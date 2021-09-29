@@ -15,7 +15,7 @@
     "nvdimm": "2.3.0.0"
   },
   "url": {
-    "SPPLink": "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SPPLink": "https://buy.hpe.com/us/en/software/infrastructure-management-software/system-server-management-software/system-server-software-management-software/service-pack-for-edgeline/p/1013624651",
     "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets"
   },
   "driver": {
