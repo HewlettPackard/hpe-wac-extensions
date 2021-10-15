@@ -1,13 +1,13 @@
 {
   "ams": {
     "Microsoft Windows Server 2016": {
-      "Agentless Management Service for Windows X64": "2.41.0.0"
+      "Agentless Management Service for Windows X64": "2.50.0.0"
     },
     "Microsoft Windows Server 2012 R2": {
-      "Agentless Management Service for Windows X64": "2.41.0.0"
+      "Agentless Management Service for Windows X64": "2.50.0.0"
     },
     "Microsoft Windows Server 2019": {
-      "Agentless Management Service for Windows X64": "2.41.0.0"
+      "Agentless Management Service for Windows X64": "2.50.0.0"
     }
   },
   "cmdlet": {
