@@ -6,7 +6,7 @@
     "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
     "iLOFWLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "iLOFWVersion":  "2.42",
-    "SysInfoVersion":  "1.5.0.2",
+    "SysInfoVersion":  "1.5.0.3",
     "NVDIMMLink":  "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
     "NVDIMMVersion":  "2.3.0.0",
     "OSList":  [
