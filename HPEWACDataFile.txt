@@ -1,8 +1,8 @@
 {
-    "AMSLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "AMSLink":  "https://support.hpe.com/hpesc/public/swd/detail?swItemId=MTX_971885ce6e0546fe9658386d3b",
     "SysRomLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "SysRomVersion":  null,
-    "AMSVersion":  "2.50.0.0",
+    "AMSVersion":  "2.51.0.0",
     "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
     "iLOFWLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
     "iLOFWVersion":  "2.55",
