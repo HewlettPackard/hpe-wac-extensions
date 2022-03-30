@@ -1,17 +1,18 @@
 {
   "ams": {
     "Microsoft Windows Server 2016": {
-      "Agentless Management Service for Windows X64": "2.50.0.0"
+      "Agentless Management Service for Windows X64": "2.51.0.0"
     },
     "Microsoft Windows Server 2012 R2": {
-      "Agentless Management Service for Windows X64": "2.50.0.0"
+      "Agentless Management Service for Windows X64": "2.51.0.0"
     },
     "Microsoft Windows Server 2019": {
-      "Agentless Management Service for Windows X64": "2.50.0.0"
+      "Agentless Management Service for Windows X64": "2.51.0.0"
     }
   },
   "cmdlet": {
-    "sysinfo": "1.5.0.3"
+    "sysinfo": "1.5.0.3",
+    "nvdimm": "2.3.0.0"
   },
   "url": {
     "SPPLink": "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
