@@ -3,10 +3,10 @@
                 "Microsoft Windows Server 2016": {
                     "Agentless Management Service for Windows X64": "2.51.0.0"
                 },
-                "Microsoft Windows Server 2012 R2": {
+                "Microsoft Windows Server 2019": {
                     "Agentless Management Service for Windows X64": "2.51.0.0"
                 },
-                "Microsoft Windows Server 2019": {
+                "Microsoft Windows Server 2022": {
                     "Agentless Management Service for Windows X64": "2.51.0.0"
                 }
             },
