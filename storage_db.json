@@ -1,0 +1,1714 @@
+{
+  "ProLiant DL180 Gen10": {
+    "Front": {
+      "8LFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL180_Gen10/front/8LFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_disk_img": [1, 0, 0],
+        "box_capacity": [2, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+
+          {"x": 38, "z": 11 },
+          {"x": 111, "z": 11 },
+
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+
+      "12LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL180_Gen10/front/12LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+
+          {"x": 29, "z": 3 },
+          {"x": 128, "z": 3 },
+          {"x": 227, "z": 3 },
+          {"x": 326, "z": 3 },
+
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "24SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL180_Gen10/front/24SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [8, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 6 },
+          {"x": 45.5, "z": 6 },
+          {"x": 61, "z": 6 },
+          {"x": 76.5, "z": 6 },
+          {"x": 92, "z": 6 },
+          {"x": 107.5, "z": 6 },
+          {"x": 123, "z": 6 },
+          {"x": 138.5, "z": 6 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      },
+  
+      "16SFF_2NVME": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL180_Gen10/front/16SFF_2NVMe.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_disk_img": [1, 0, 0],
+        "box_capacity": [2, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 55, "z": 40 },
+          {"x": 55, "z": 55 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      }
+    },
+    "Rear": {
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL180_Gen10/rear/2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [2],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 262, "z": 20 },
+          {"x": 337, "z": 20 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant DL325 Gen10 Plus v2": {
+    "Front": {
+      "4LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/front/4LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_LFF_LED.png"],
+        "box_capacity": [4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 42, "z": 22 },
+          {"x": 184, "z": 22 },
+          {"x": 326, "z": 22 },
+          {"x": 468, "z": 22 }
+        ]
+      },
+  
+      "8SFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/front/8SFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [8, 2],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 44, "z": 11 },
+          {"x": 44, "z": 35 },
+          {"x": 150, "z": 11 },
+          {"x": 150, "z": 35 },
+          {"x": 256, "z": 11 },
+          {"x": 256, "z": 35 },
+          {"x": 362, "z": 35 },
+          {"x": 468, "z": 35 },
+          
+          { "x": 362, "z": 11 },
+          {"x": 468, "z": 11 }
+        ]
+      }
+    },
+    "Rear": {},
+    "External": {}
+  },
+  "ProLiant DL325 Gen10 Plus": {
+    "Front": {
+      "4LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/front/4LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_LFF_LED.png"],
+        "box_capacity": [4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 42, "z": 22 },
+          {"x": 184, "z": 22 },
+          {"x": 326, "z": 22 },
+          {"x": 468, "z": 22 }
+        ]
+      },
+  
+      "8SFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/front/8SFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [8, 2],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 44, "z": 11 },
+          {"x": 44, "z": 35 },
+          {"x": 150, "z": 11 },
+          {"x": 150, "z": 35 },
+          {"x": 256, "z": 11 },
+          {"x": 256, "z": 35 },
+          {"x": 362, "z": 35 },
+          {"x": 468, "z": 35 },
+          
+          { "x": 362, "z": 11 },
+          {"x": 468, "z": 11 }
+        ]
+      }
+    },
+    "Rear": {},
+    "External": {}
+  },
+  "ProLiant DL325 Gen10": {
+    "Front": {
+      "4LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/front/4LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_LFF_LED.png"],
+        "box_capacity": [4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 42, "z": 22 },
+          {"x": 184, "z": 22 },
+          {"x": 326, "z": 22 },
+          {"x": 468, "z": 22 }
+        ]
+      },
+  
+      "8SFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/front/8SFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [8, 2],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 44, "z": 11 },
+          {"x": 44, "z": 35 },
+          {"x": 150, "z": 11 },
+          {"x": 150, "z": 35 },
+          {"x": 256, "z": 11 },
+          {"x": 256, "z": 35 },
+          {"x": 362, "z": 35 },
+          {"x": 468, "z": 35 },
+          
+          { "x": 362, "z": 11 },
+          {"x": 468, "z": 11 }
+        ]
+      }
+    },
+    "Rear": {},
+    "External": {}
+  },
+  "ProLiant DL360 Gen10 Plus": {
+    "Front": {
+      "4LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/4LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 14 },
+          {"x": 129, "z": 14 },
+          {"x": 228, "z": 14 },
+          {"x": 327, "z": 14 }
+        ]
+      },
+  
+      "8SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/8.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"],
+        "box_capacity": [8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 32, "z": 7 },
+          {"x": 32, "z": 24 },
+          {"x": 107, "z": 7 },
+          {"x": 107, "z": 24 },
+          {"x": 182, "z": 7 },
+          {"x": 182, "z": 24 },
+          {"x": 257, "z": 24 },
+          {"x": 332, "z": 24 }
+        ]
+      },
+  
+      "8SFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/8+2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"],
+        "box_capacity": [8, 2],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 32, "z": 7 },
+          {"x": 32, "z": 24 },
+          {"x": 107, "z": 7 },
+          {"x": 107, "z": 24 },
+          {"x": 182, "z": 7 },
+          {"x": 182, "z": 24 },
+          {"x": 257, "z": 24 },
+          {"x": 332, "z": 24 },
+          
+          {"x": 257, "z": 7 },
+          {"x": 332, "z": 7 }
+        ]
+      },
+  
+      "10SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/10SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/NVMe.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/NVMe_LED.png"],
+        "box_capacity": [10],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 32, "z": 7 },
+          {"x": 32, "z": 24 },
+          {"x": 107, "z": 7 },
+          {"x": 107, "z": 24 },
+          {"x": 182, "z": 7 },
+          {"x": 182, "z": 24 },
+          {"x": 257, "z": 7 },
+          {"x": 257, "z": 24 },
+          {"x": 332, "z": 7 },
+          {"x": 332, "z": 24 }
+        ]
+      }
+    },
+    "Rear": {
+      "1SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/rear/1SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_rear.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_rear_LED.png"],
+        "box_capacity": [1],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+  
+          
+          {"x": 18, "z": 3 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant DL360 Gen10": {
+    "Front": {
+      "4LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/4LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 14 },
+          {"x": 129, "z": 14 },
+          {"x": 228, "z": 14 },
+          {"x": 327, "z": 14 }
+        ]
+      },
+  
+      "8SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/8.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"],
+        "box_capacity": [8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 32, "z": 7 },
+          {"x": 32, "z": 24 },
+          {"x": 107, "z": 7 },
+          {"x": 107, "z": 24 },
+          {"x": 182, "z": 7 },
+          {"x": 182, "z": 24 },
+          {"x": 257, "z": 24 },
+          {"x": 332, "z": 24 }
+        ]
+      },
+  
+      "8SFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/8+2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"],
+        "box_capacity": [8, 2],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 32, "z": 7 },
+          {"x": 32, "z": 24 },
+          {"x": 107, "z": 7 },
+          {"x": 107, "z": 24 },
+          {"x": 182, "z": 7 },
+          {"x": 182, "z": 24 },
+          {"x": 257, "z": 24 },
+          {"x": 332, "z": 24 },
+          
+          {"x": 257, "z": 7 },
+          {"x": 332, "z": 7 }
+        ]
+      },
+  
+      "10SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/front/10SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/NVMe.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/NVMe_LED.png"],
+        "box_capacity": [10],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 32, "z": 7 },
+          {"x": 32, "z": 24 },
+          {"x": 107, "z": 7 },
+          {"x": 107, "z": 24 },
+          {"x": 182, "z": 7 },
+          {"x": 182, "z": 24 },
+          {"x": 257, "z": 7 },
+          {"x": 257, "z": 24 },
+          {"x": 332, "z": 7 },
+          {"x": 332, "z": 24 }
+        ]
+      }
+    },
+    "Rear": {
+      "1SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/rear/1SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_rear.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL360_Gen10/SAS_rear_LED.png"],
+        "box_capacity": [1],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 18, "z": 3 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant DL380 Gen10 Plus": {
+    "Front": {
+      "8LFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/8LFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [2, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 11 },
+          {"x": 111, "z": 11 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "12LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/12LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+  
+          
+          {"x": 29, "z": 3 },
+          {"x": 128, "z": 3 },
+          {"x": 227, "z": 3 },
+          {"x": 326, "z": 3 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "24SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/24SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [8, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 6 },
+          {"x": 45.5, "z": 6 },
+          {"x": 61, "z": 6 },
+          {"x": 76.5, "z": 6 },
+          {"x": 92, "z": 6 },
+          {"x": 107.5, "z": 6 },
+          {"x": 123, "z": 6 },
+          {"x": 138.5, "z": 6 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      },
+  
+      "16SFF_2NVME": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/16SFF_2NVMe.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_disk_img": [1, 0, 0],
+        "box_capacity": [2, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 55, "z": 40 },
+          {"x": 55, "z": 55 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      }
+    },
+    "Rear": {
+      "2SFF_3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF_3LFF.png",
+        "disk_imgs": [],
+        "disk_led_imgs": [],
+        "box_capacity": [2, 0, 3],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 8 },
+          {"x": 36, "z": 25 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [0, 0, 2],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      },
+  
+      "3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/3LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [0, 0, 3], 
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "6SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/6SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [2, 2, 2],
+        "expander_bay_number": {
+          "12LFF": [-1, 17, 19, 21, 23, 25, 27],
+          "24SFF": [-1, 25, 26, 27, 28, 29, 30]
+        },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 37, "z": 9 },
+          {"x": 37, "z": 25 },
+          
+          {"x": 179, "z": 9 },
+          {"x": 179, "z": 25 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant DL380 Gen10": {
+    "Front": {
+      "8LFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/8LFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [2, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 11 },
+          {"x": 111, "z": 11 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "12LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/12LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 29, "z": 3 },
+          {"x": 128, "z": 3 },
+          {"x": 227, "z": 3 },
+          {"x": 326, "z": 3 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "24SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/24SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [8, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 6 },
+          {"x": 45.5, "z": 6 },
+          {"x": 61, "z": 6 },
+          {"x": 76.5, "z": 6 },
+          {"x": 92, "z": 6 },
+          {"x": 107.5, "z": 6 },
+          {"x": 123, "z": 6 },
+          {"x": 138.5, "z": 6 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      },
+  
+      "16SFF_2NVME": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/16SFF_2NVMe.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_disk_img": [1, 0, 0],
+        "box_capacity": [2, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 55, "z": 40 },
+          {"x": 55, "z": 55 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      }
+    },
+    "Rear": {
+      "2SFF_3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF_3LFF.png",
+        "disk_imgs": [],
+        "disk_led_imgs": [],
+        "box_capacity": [2, 0, 3],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 8 },
+          {"x": 36, "z": 25 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [0, 0, 2],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      },
+  
+      "3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/3LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [0, 0, 3], 
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "6SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/6SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [2, 2, 2],
+        "expander_bay_number": {
+          "12LFF": [-1, 17, 19, 21, 23, 25, 27],
+          "24SFF": [-1, 25, 26, 27, 28, 29, 30]
+        },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 37, "z": 9 },
+          {"x": 37, "z": 25 },
+          
+          {"x": 179, "z": 9 },
+          {"x": 179, "z": 25 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant DL385 Gen10 Plus v2": {
+    "Front": {
+      "8LFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/8LFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [2, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 11 },
+          {"x": 111, "z": 11 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "12LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/12LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 29, "z": 3 },
+          {"x": 128, "z": 3 },
+          {"x": 227, "z": 3 },
+          {"x": 326, "z": 3 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "24SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/24SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [8, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 6 },
+          {"x": 45.5, "z": 6 },
+          {"x": 61, "z": 6 },
+          {"x": 76.5, "z": 6 },
+          {"x": 92, "z": 6 },
+          {"x": 107.5, "z": 6 },
+          {"x": 123, "z": 6 },
+          {"x": 138.5, "z": 6 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      },
+  
+      "16SFF_2NVME": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/16SFF_2NVMe.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_disk_img": [1, 0, 0],
+        "box_capacity": [2, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 55, "z": 40 },
+          {"x": 55, "z": 55 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      }
+    },
+    "Rear": {
+      "2SFF_3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF_3LFF.png",
+        "disk_imgs": [],
+        "disk_led_imgs": [],
+        "box_capacity": [2, 0, 3],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 8 },
+          {"x": 36, "z": 25 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [0, 0, 2],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      },
+  
+      "3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/3LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [0, 0, 3], 
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "6SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/6SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [2, 2, 2],
+        "expander_bay_number": {
+          "12LFF": [-1, 17, 19, 21, 23, 25, 27],
+          "24SFF": [-1, 25, 26, 27, 28, 29, 30]
+        },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 37, "z": 9 },
+          {"x": 37, "z": 25 },
+          
+          {"x": 179, "z": 9 },
+          {"x": 179, "z": 25 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant DL385 Gen10 Plus": {
+    "Front": {
+      "8LFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/8LFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [2, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 11 },
+          {"x": 111, "z": 11 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "12LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/12LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 29, "z": 3 },
+          {"x": 128, "z": 3 },
+          {"x": 227, "z": 3 },
+          {"x": 326, "z": 3 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "24SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/24SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [8, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 6 },
+          {"x": 45.5, "z": 6 },
+          {"x": 61, "z": 6 },
+          {"x": 76.5, "z": 6 },
+          {"x": 92, "z": 6 },
+          {"x": 107.5, "z": 6 },
+          {"x": 123, "z": 6 },
+          {"x": 138.5, "z": 6 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      },
+  
+      "16SFF_2NVME": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/16SFF_2NVMe.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_disk_img": [1, 0, 0],
+        "box_capacity": [2, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 55, "z": 40 },
+          {"x": 55, "z": 55 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      }
+    },
+    "Rear": {
+      "2SFF_3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF_3LFF.png",
+        "disk_imgs": [],
+        "disk_led_imgs": [],
+        "box_capacity": [2, 0, 3],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 8 },
+          {"x": 36, "z": 25 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [0, 0, 2],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      },
+  
+      "3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/3LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [0, 0, 3], 
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "6SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/6SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [2, 2, 2],
+        "expander_bay_number": {
+          "12LFF": [-1, 17, 19, 21, 23, 25, 27],
+          "24SFF": [-1, 25, 26, 27, 28, 29, 30]
+        },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 37, "z": 9 },
+          {"x": 37, "z": 25 },
+          
+          {"x": 179, "z": 9 },
+          {"x": 179, "z": 25 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant DL385 Gen10": {
+    "Front": {
+      "8LFF_2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/8LFF_2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [2, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 11 },
+          {"x": 111, "z": 11 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "12LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/12LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [4, 4, 4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 29, "z": 3 },
+          {"x": 128, "z": 3 },
+          {"x": 227, "z": 3 },
+          {"x": 326, "z": 3 },
+          
+          {"x": 29, "z": 29 },
+          {"x": 128, "z": 29 },
+          {"x": 227, "z": 29 },
+          {"x": 326, "z": 29 },
+          
+          {"x": 29, "z": 54 },
+          {"x": 128, "z": 54 },
+          {"x": 227, "z": 54 },
+          {"x": 326, "z": 54 }
+        ]
+      },
+  
+      "24SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/24SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [8, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 30, "z": 6 },
+          {"x": 45.5, "z": 6 },
+          {"x": 61, "z": 6 },
+          {"x": 76.5, "z": 6 },
+          {"x": 92, "z": 6 },
+          {"x": 107.5, "z": 6 },
+          {"x": 123, "z": 6 },
+          {"x": 138.5, "z": 6 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      },
+  
+      "16SFF_2NVME": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/front/16SFF_2NVMe.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png", "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_disk_img": [1, 0, 0],
+        "box_capacity": [2, 8, 8],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 55, "z": 40 },
+          {"x": 55, "z": 55 },
+          
+          {"x": 156, "z": 6 },
+          {"x": 171.5, "z": 6 },
+          {"x": 187, "z": 6 },
+          {"x": 202.5, "z": 6 },
+          {"x": 218, "z": 6 },
+          {"x": 233.5, "z": 6 },
+          {"x": 249, "z": 6 },
+          {"x": 264.5, "z": 6 },
+          
+          {"x": 278, "z": 6 },
+          {"x": 293.5, "z": 6 },
+          {"x": 309, "z": 6 },
+          {"x": 324.5, "z": 6 },
+          {"x": 340, "z": 6 },
+          {"x": 355.5, "z": 6 },
+          {"x": 371, "z": 6 },
+          {"x": 386.5, "z": 6 }
+        ]
+      }
+    },
+    "Rear": {
+      "2SFF_3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF_3LFF.png",
+        "disk_imgs": [],
+        "disk_led_imgs": [],
+        "box_capacity": [2, 0, 3],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 36, "z": 8 },
+          {"x": 36, "z": 25 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [0, 0, 2],
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      },
+  
+      "3LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/3LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_LFF_LED.png"],
+        "box_capacity": [0, 0, 3], 
+        "expander_bay_number": { },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 166, "z": 9 },
+          {"x": 166, "z": 37 },
+          {"x": 291, "z": 9 }
+        ]
+      },
+  
+      "6SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_DL380_Gen10/rear/6SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [2, 2, 2],
+        "expander_bay_number": {
+          "12LFF": [-1, 17, 19, 21, 23, 25, 27],
+          "24SFF": [-1, 25, 26, 27, 28, 29, 30]
+        },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 37, "z": 9 },
+          {"x": 37, "z": 25 },
+          
+          {"x": 179, "z": 9 },
+          {"x": 179, "z": 25 },
+          
+          {"x": 359, "z": 7 },
+          {"x": 359, "z": 24 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "ProLiant ML350 Gen10": {
+    "Front": {
+        "12LFF": {
+            "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_ML350_Gen10/front/12LFF.png",
+            "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_ML350_Gen10/Disk_LFF.png"],
+            "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_ML350_Gen10/Disk_LFF_LED.png"],
+            "box_capacity": [4, 4, 4],
+            "coordinate": [
+                {"x": 0, "z": 0 },
+                
+                {"x": 347, "z": 23 },
+                {"x": 347, "z": 64 },
+                {"x": 347, "z": 103 },
+                {"x": 347, "z": 145 },
+                
+                {"x": 177, "z": 23 },
+                {"x": 177, "z": 64 },
+                {"x": 177, "z": 103 },
+                {"x": 177, "z": 145 },
+                
+                {"x": 25, "z": 23 },
+                {"x": 25, "z": 64 },
+                {"x": 25, "z": 103 },
+                {"x": 25, "z": 145 }
+            ]
+        },
+
+        "24SFF": {
+            "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_ML350_Gen10/front/24SFF.png",
+            "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_ML350_Gen10/Disk_horizontal_SFF.png"],
+            "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_ML350_Gen10/Disk_horizontal_SFF_LED.png"],
+            "box_capacity": [8, 8, 8],
+            "coordinate": [
+                {"x": 0, "z": 0 },
+                
+                {"x": 366, "z": 15 },
+                {"x": 366, "z": 35.25 },
+                {"x": 366, "z": 55.5 },
+                {"x": 366, "z": 75.75 },
+                {"x": 366, "z": 96 },
+                {"x": 366, "z": 116.25 },
+                {"x": 366, "z": 136.5 },
+                {"x": 366, "z": 156.75 },
+                
+                {"x": 196, "z": 15 },
+                {"x": 196, "z": 35.25 },
+                {"x": 196, "z": 55.5 },
+                {"x": 196, "z": 75.75 },
+                {"x": 196, "z": 96 },
+                {"x": 196, "z": 116.25 },
+                {"x": 196, "z": 136.5 },
+                {"x": 196, "z": 156.75 },
+                
+                {"x": 46, "z": 15 },
+                {"x": 46, "z": 35.25 },
+                {"x": 46, "z": 55.5 },
+                {"x": 46, "z": 75.75 },
+                {"x": 46, "z": 96 },
+                {"x": 46, "z": 116.25 },
+                {"x": 46, "z": 136.5 },
+                {"x": 46, "z": 156.75 }
+            ]
+        }
+    },
+    "Rear": {},
+    "External": {}
+  },
+  "ProLiant XL420 Gen10": {
+    "Front": {
+      "24LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/front/24LFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Front_Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Front_Disk_LFF_LED.png"],
+        "box_capacity": [24],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 37, "z": 6 },
+          {"x": 37, "z": 45 },
+          {"x": 37, "z": 84 },
+          
+          {"x": 197, "z": 6 },
+          {"x": 197, "z": 45 },
+          {"x": 197, "z": 84 },
+          
+          {"x": 357, "z": 6 },
+          {"x": 357, "z": 45 },
+          {"x": 357, "z": 84 },
+          
+          {"x": 517, "z": 6 },
+          {"x": 517, "z": 45 },
+          {"x": 517, "z": 84 },
+          
+          {"x": 37, "z": 136 },
+          {"x": 37, "z": 1345 },
+          {"x": 37, "z": 1384 },
+          
+          {"x": 197, "z": 136 },
+          {"x": 197, "z": 1345 },
+          {"x": 197, "z": 1384 },
+          
+          {"x": 357, "z": 136 },
+          {"x": 357, "z": 1345 },
+          {"x": 357, "z": 1384 },
+          
+          {"x": 517, "z": 136 },
+          {"x": 517, "z": 1345 },
+          {"x": 517, "z": 1384 }
+        ]
+      },
+  
+      "48SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/front/48SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Disk_SFF_LED.png"],
+        "box_capacity": [48],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 42, "z": 8 },
+          {"x": 65, "z": 8 },
+          {"x": 88, "z": 8 },
+          {"x": 111, "z": 8 },
+          {"x": 134, "z": 8 },
+          {"x": 159, "z": 8 },
+          
+          {"x": 188, "z": 8 },
+          {"x": 211, "z": 8 },
+          {"x": 234, "z": 8 },
+          {"x": 257, "z": 8 },
+          {"x": 280, "z": 8 },
+          {"x": 305, "z": 8 },
+          
+          {"x": 374, "z": 8 },
+          {"x": 397, "z": 8 },
+          {"x": 420, "z": 8 },
+          {"x": 443, "z": 8 },
+          {"x": 466, "z": 8 },
+          {"x": 491, "z": 8 },
+          
+          {"x": 522, "z": 8 },
+          {"x": 545, "z": 8 },
+          {"x": 568, "z": 8 },
+          {"x": 591, "z": 8 },
+          {"x": 614, "z": 8 },
+          {"x": 639, "z": 8 },
+          
+          {"x": 42, "z": 133 },
+          {"x": 65, "z": 133 },
+          {"x": 88, "z": 133 },
+          {"x": 111, "z": 133 },
+          {"x": 134, "z": 133 },
+          {"x": 159, "z": 133 },
+          
+          {"x": 188, "z": 133 },
+          {"x": 211, "z": 133 },
+          {"x": 234, "z": 133 },
+          {"x": 257, "z": 133 },
+          {"x": 280, "z": 133 },
+          {"x": 305, "z": 133 },
+          
+          {"x": 374, "z": 133 },
+          {"x": 397, "z": 133 },
+          {"x": 420, "z": 133 },
+          {"x": 443, "z": 133 },
+          {"x": 466, "z": 133 },
+          {"x": 491, "z": 133 },
+          
+          {"x": 522, "z": 133 },
+          {"x": 545, "z": 133 },
+          {"x": 568, "z": 133 },
+          {"x": 591, "z": 133 },
+          {"x": 614, "z": 133 },
+          {"x": 639, "z": 133 }
+        ]
+      }
+    },
+    "Rear": {
+      "6SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/rear/rear.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [6],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 125, "z": 6 },
+          {"x": 125, "z": 34 },
+          {"x": 125, "z": 62 },
+          {"x": 293, "z": 6 },
+          {"x": 293, "z": 34 },
+          {"x": 293, "z": 62 }
+        ]
+      },
+
+      "4LFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/rear/rear.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Rear_Disk_LFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Rear_Disk_LFF_LED.png"],
+        "box_capacity": [4],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 125, "z": 6 },
+          {"x": 125, "z": 49 },
+          {"x": 293, "z": 6 },
+          {"x": 293, "z": 49 }
+        ]
+      },
+  
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/rear/rear.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF_LED.png"],
+        "box_capacity": [2],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 125, "z": 6 },
+          {"x": 125, "z": 34 }
+        ]
+      }
+    },
+    "External": {}
+  },
+  "Synergy 480 Gen10": {
+    "Front": {
+      "2SFF": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/Synergy_480_Gen10/front/2SFF.png",
+        "disk_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF.png"],
+        "disk_led_imgs": ["https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/Disk_SFF_LED.png"],
+        "box_capacity": [2],
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 39, "z": 11 },
+          {"x": 39, "z": 102 }
+        ]
+      }
+    },
+    "Rear": {},
+    "External": {
+      "D3940": {
+        "chasis_img": "https://raw.githubusercontent.com/bruleeliu/wac-testing/main/assets/images/Synergy_480_Gen10/external/D3940.png",
+        "disk_imgs": [],
+        "disk_led_imgs": [],
+        "box_capacity": [40],
+        "disk_size": { "x": 117, "z": 25 },
+        "coordinate": [
+          {"x": 0, "z": 0 },
+          
+          {"x": 46, "z": 40 },
+          {"x": 46, "z": 67 },
+          {"x": 46, "z": 94 },
+          {"x": 46, "z": 121 },
+          {"x": 46, "z": 175 },
+          {"x": 46, "z": 202 },
+          {"x": 46, "z": 229 },
+          {"x": 46, "z": 256 },
+          
+          {"x": 167, "z": 40 },
+          {"x": 167, "z": 67 },
+          {"x": 167, "z": 94 },
+          {"x": 167, "z": 121 },
+          {"x": 167, "z": 175 },
+          {"x": 167, "z": 202 },
+          {"x": 167, "z": 229 },
+          {"x": 167, "z": 256 },
+          
+          {"x": 288, "z": 40 },
+          {"x": 288, "z": 67 },
+          {"x": 288, "z": 94 },
+          {"x": 288, "z": 121 },
+          {"x": 288, "z": 175 },
+          {"x": 288, "z": 202 },
+          {"x": 288, "z": 229 },
+          {"x": 288, "z": 256 },
+          
+          {"x": 409, "z": 40 },
+          {"x": 409, "z": 67 },
+          {"x": 409, "z": 94 },
+          {"x": 409, "z": 121 },
+          {"x": 409, "z": 175 },
+          {"x": 409, "z": 202 },
+          {"x": 409, "z": 229 },
+          {"x": 409, "z": 256 },
+          
+          {"x": 530, "z": 40 },
+          {"x": 530, "z": 67 },
+          {"x": 530, "z": 94 },
+          {"x": 530, "z": 121 },
+          {"x": 530, "z": 175 },
+          {"x": 530, "z": 202 },
+          {"x": 530, "z": 229 },
+          {"x": 530, "z": 256 }
+        ]
+      }
+    }
+  }
+}
