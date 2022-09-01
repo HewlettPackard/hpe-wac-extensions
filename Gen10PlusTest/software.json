@@ -1,4 +1,5 @@
 {
+  "version": "SPP2022090000",
   "ams": {
     "Microsoft Windows Server 2016": {
       "Agentless Management Service for Microsoft Windows x64": "2.51.2.0"
