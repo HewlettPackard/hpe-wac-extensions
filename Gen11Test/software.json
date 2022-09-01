@@ -1,4 +1,5 @@
 {
+  "version": "SPP2022110000",
   "ams": {
     "Microsoft Windows Server 2019": {
       "HPE Gen11 Agentless Management Service for Microsoft Windows x64   ": "3.10.0.0"
