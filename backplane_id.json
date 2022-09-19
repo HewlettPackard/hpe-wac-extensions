@@ -1,0 +1,298 @@
+{
+    "ProLiant DL180 Gen10": {
+        "Front_SFF2_1x2": [
+            221
+        ],
+        "Front_SFF2_2x1": [
+            213
+        ],
+        "Front_SFF8": [
+            164,
+            220,
+            213,
+            230
+        ],
+        "Front_LFF": [
+            171,
+            173
+        ],
+        "Rear_SFF2_1x2": [
+            221
+        ]
+    },
+    "ProLiant DL325 Gen10 Plus v2": {
+        "Front_LFF": [
+            272
+        ],
+        "Front_SFF": [
+            292,
+            297,
+            300,
+            302,
+            303,
+            352,
+            354
+        ]
+    },
+    "ProLiant DL325 Gen10 Plus": {
+        "Front_LFF": [
+            272
+        ],
+        "Front_SFF": [
+            170,
+            258,
+            270,
+            276,
+            278,
+            307
+        ]
+    },
+    "ProLiant DL325 Gen10": {
+        "Front_LFF": [
+            222
+        ],
+        "Front_SFF": [
+            221,
+            245
+        ]
+    },
+    "ProLiant DL360 Gen10 Plus": {
+        "Front_LFF": [
+            272
+        ],
+        "Front_SFF8": [
+            292,
+            295,
+            300,
+            303,
+            326,
+            348,
+            350,
+            352
+        ],
+        "Front_SFF2": [
+            291,
+            297,
+            302,
+            327,
+            354
+        ],
+        "Front_SFF10": [
+            271
+        ],
+        "Rear_SFF1": [
+            306
+        ]
+    },
+    "ProLiant DL360 Gen10": {
+        "Front_SFF8": [
+            215
+        ],
+        "Front_SFF2": [
+            214,
+            218,
+            221
+        ],
+        "Front_SFF10": [
+            235
+        ],
+        "Rear_SFF1": [
+            217
+        ]
+    },
+    "ProLiant DL380 Gen10 Plus": {
+        "Front_LFF": [
+            211
+        ],
+        "Front_SFF2_2x1": [
+            258,
+            291,
+            355
+        ],
+        "Front_SFF_others": [
+            256,
+            257,
+            289,
+            293,
+            296,
+            301,
+            322,
+            325,
+            349,
+            351,
+            353
+        ],
+        "Rear_LFF": [
+            274
+        ],
+        "Rear_SFF": [
+            269,
+            290,
+            297,
+            299,
+            324
+        ]
+    },
+    "ProLiant DL380 Gen10": {
+        "Front_LFF": [
+            211
+        ],
+        "Front_SFF2_2x1": [
+            213,
+            221,
+            258,
+            291
+        ],
+        "Front_SFF_others": [
+            164,
+            220,
+            230,
+            256,
+            257,
+            289,
+            293,
+            296,
+            301,
+            322,
+            325
+        ],
+        "Rear_LFF": [
+            212,
+            274
+        ],
+        "Rear_SFF": [
+            213,
+            269,
+            290,
+            297,
+            299,
+            324
+        ]
+    },
+    "ProLiant DL385 Gen10 Plus v2": {
+        "Front_LFF": [
+            211
+        ],
+        "Front_SFF2_2x1": [
+            355
+        ],
+        "Front_SFF_others": [
+            164,
+            289,
+            296,
+            349,
+            351,
+            353
+        ],
+        "Rear_LFF": [
+            274
+        ],
+        "Rear_SFF": [
+            269,
+            290,
+            297,
+            299,
+            324
+        ]
+    },
+    "ProLiant DL385 Gen10 Plus": {
+        "Front_LFF": [
+            211
+        ],
+        "Front_SFF2_2x1": [
+            258,
+            269
+        ],
+        "Front_SFF_others": [
+            164,
+            256,
+            257,
+            268,
+            277
+        ],
+        "Rear_LFF": [
+            274
+        ],
+        "Rear_SFF": [
+            269,
+            290,
+            297,
+            299,
+            324
+        ]
+    },
+    "ProLiant DL385 Gen10": {
+        "Front_LFF": [
+            211
+        ],
+        "Front_SFF2_2x1": [
+            213
+        ],
+        "Front_SFF_others": [
+            220,
+            230
+        ],
+        "Rear_LFF": [
+            212,
+            274
+        ],
+        "Rear_SFF": [
+            213,
+            269,
+            290,
+            297,
+            299,
+            324
+        ]
+    },
+    "ProLiant ML350 Gen10": {
+        "Front_LFF": [
+            227
+        ],
+        "Front_SFF": [
+            178,
+            230
+        ]
+    },
+    "ProLiant XL420 Gen10": {
+        "Front_SFF": [
+            199,
+            200,
+            280,
+            281,
+            282,
+            283,
+            308,
+            338
+        ],
+        "Front_LFF": [
+            197,
+            198,
+            284,
+            285,
+            332,
+            333
+        ],
+        "Rear_SFF_NVME": [
+            248,
+            339,
+            342
+        ],
+        "Rear_SFF": [
+            249,
+            288
+        ],
+        "Rear_LFF": [
+            185,
+            311
+        ]
+    },
+    "Synergy 480 Gen10": {
+        "Front_SFF": [
+            174,
+            175,
+            228,
+            230
+        ]
+    }
+}
