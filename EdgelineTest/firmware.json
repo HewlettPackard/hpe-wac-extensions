@@ -49,6 +49,7 @@
       "SSDPEL1K375GA": "E2010600",
       "Intel E810-CQDA2 Ethernet 100Gb 2-port QSFP28 Adapter for HPE": "3.00",
       "Server Platform Services (SPS) Firmware": "04.01.04.601",
+      "Server Platform Services (SPS) Descriptor": "",
       "HPE Ethernet 100Gb 2-Port QSFP56 MCX623106AS-CDAT Adapter": "22.29.1016",
       "Mellanox MCX623105AS-VDAT Ethernet 200Gb 1-port QSFP56 Adapter for HPE": "22.29.1016",
       "KXG50ZNV256G": "AAGA4103",
@@ -131,6 +132,7 @@
       "SSDPEL1K375GA": "E2010600",
       "Intel E810-CQDA2 Ethernet 100Gb 2-port QSFP28 Adapter for HPE": "3.00",
       "Server Platform Services (SPS) Firmware": "04.01.04.601",
+      "Server Platform Services (SPS) Descriptor": "",
       "HPE Ethernet 100Gb 2-Port QSFP56 MCX623106AS-CDAT Adapter": "22.29.1016",
       "Mellanox MCX623105AS-VDAT Ethernet 200Gb 1-port QSFP56 Adapter for HPE": "22.29.1016",
       "KXG50ZNV256G": "AAGA4103",
@@ -221,6 +223,7 @@
       "HPE Smart Array P408e-m SR Gen10 Controller": "4.11",
       "iLO 5": "2.60",
       "Server Platform Services (SPS) Firmware": "04.01.04.601",
+      "Server Platform Services (SPS) Descriptor": "",
       "MZ1L21T9HCLS-00A07": "GDC7202Q",
       "MZ1L23T8HBLA-00A07": "GDC7202Q",
       "MZ1L2960HCJR-00A07": "GDC7202Q",
@@ -243,6 +246,7 @@
       "HPE Smart Array P408e-m SR Gen10 Controller": "4.11",
       "iLO 5": "2.60",
       "Server Platform Services (SPS) Firmware": "04.01.04.601",
+      "Server Platform Services (SPS) Descriptor": "",
       "Innovation Engine (IE) Fimware": "1.0.0.22"
     },
     "Microsoft Windows 7 (64-bit) - All Editions": {
@@ -274,6 +278,7 @@
     "Microsoft Windows Server 2012 R2": {
       "iLO 5": "2.60",
       "Server Platform Services (SPS) Firmware": "04.01.04.601",
+      "Server Platform Services (SPS) Descriptor": "",
       "HPE Ethernet 100Gb 2-Port QSFP56 MCX623106AS-CDAT Adapter": "22.29.1016",
       "Mellanox MCX623105AS-VDAT Ethernet 200Gb 1-port QSFP56 Adapter for HPE": "22.29.1016",
       "MZ1L21T9HCLS-00A07": "GDC7202Q",

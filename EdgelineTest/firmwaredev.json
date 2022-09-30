@@ -24,7 +24,8 @@
                                                                                      "MZ1L21T9HCLS-00A07":  "GDC7202Q",
                                                                                      "MZ1L23T8HBLA-00A07":  "GDC7202Q",
                                                                                      "MZ1L2960HCJR-00A07":  "GDC7202Q",
-                                                                                     "Server Platform Services (SPS) Firmware":  "04.01.04.601"
+                                                                                     "Server Platform Services (SPS) Firmware":  "04.01.04.601",
+                                                                                     "Server Platform Services (SPS) Descriptor": ""
                                                                                  },
                      "Microsoft Windows 10 (64bit, version 1809 \u0026 later)":  {
                                                                                      "HPE Smart Array E208e-p SR Gen10 Controller":  "4.11",
@@ -43,7 +44,8 @@
                                                                                      "HPE Smart Array P816i-a SR Gen10 Controller":  "4.11",
                                                                                      "iLO 5":  "2.60",
                                                                                      "Innovation Engine (IE) Fimware":  "1.0.0.22",
-                                                                                     "Server Platform Services (SPS) Firmware":  "04.01.04.601"
+                                                                                     "Server Platform Services (SPS) Firmware":  "04.01.04.601",
+                                                                                     "Server Platform Services (SPS) Descriptor": ""
                                                                                  },
                      "Microsoft Windows 7 (64-bit) - All Editions":  {
                                                                          "iLO 5":  "2.60"
@@ -94,7 +96,8 @@
                                                               "MZ1L21T9HCLS-00A07":  "GDC7202Q",
                                                               "MZ1L23T8HBLA-00A07":  "GDC7202Q",
                                                               "MZ1L2960HCJR-00A07":  "GDC7202Q",
-                                                              "Server Platform Services (SPS) Firmware":  "04.01.04.601"
+                                                              "Server Platform Services (SPS) Firmware":  "04.01.04.601",
+                                                              "Server Platform Services (SPS) Descriptor": ""
                                                           },
                      "Microsoft Windows Server 2022":  {
                                                            "HPE ConnectX-6 Lx 10GbE dual-port Mezz":  "26.31.1014",
@@ -223,6 +226,7 @@
                                                            "Pensando DSC-25 OCP Management Port":  "1.28.0-E-96",
                                                            "PMCI PLDM FW Update for NS204i-p/d/r/t":  "1.0.14.1060",
                                                            "Server Platform Services (SPS) Firmware":  "04.01.04.601",
+                                                           "Server Platform Services (SPS) Descriptor": "",
                                                            "SSDPEL1K375GA":  "E2010600",
                                                            "System ROM - H08":  "v1.90 (10/27/2021)",
                                                            "System ROM - H10":  "v1.52 (10/07/2021)"
@@ -305,6 +309,7 @@
                                                            "Pensando DSC-25 OCP Management Port":  "1.28.0-E-96",
                                                            "PMCI PLDM FW Update for NS204i-p/d/r/t":  "1.0.14.1060",
                                                            "Server Platform Services (SPS) Firmware":  "04.01.04.601",
+                                                           "Server Platform Services (SPS) Descriptor": "",
                                                            "SSDPEL1K375GA":  "E2010600",
                                                            "System ROM - H08":  "v1.90 (10/27/2021)",
                                                            "System ROM - H10":  "v1.52 (10/07/2021)"

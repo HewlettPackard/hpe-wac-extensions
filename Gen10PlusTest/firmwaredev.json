@@ -22,7 +22,8 @@
                                                                                      "HPE StoreFabric CN1100R Dual Port Converged Network Adapter":  "7.19.14",
                                                                                      "iLO 5":  "2.72",
                                                                                      "Innovation Engine (IE) Fimware":  "1.0.0.22",
-                                                                                     "Server Platform Services (SPS) Firmware":  "04.04.04.202"
+                                                                                     "Server Platform Services (SPS) Firmware":  "04.04.04.202",
+                                                                                     "Server Platform Services (SPS) Descriptor": ""
                                                                                  },
                      "Microsoft Windows 10 (64bit, version 1809 \u0026 later)":  {
                                                                                      "Gen10 Plus Power Management Controller Firmware":  "1.0.8",
@@ -42,6 +43,7 @@
                                                                                      "HPE StoreFabric CN1100R Dual Port Converged Network Adapter":  "7.19.14",
                                                                                      "iLO 5":  "2.72",
                                                                                      "Innovation Engine (IE) Fimware":  "1.0.0.22",
+                                                                                     "Server Platform Services (SPS) Descriptor": "",
                                                                                      "Server Platform Services (SPS) Firmware":  "04.04.04.202"
                                                                                  },
                      "Microsoft Windows 7 (64-bit) - All Editions":  {
@@ -110,6 +112,7 @@
                                                               "MLX MCX6314 10/25GbE 2p SFP28 OCP3 Adptr":  "26.33.1048",
                                                               "Server Platform Services (SPS) Firmware":  "04.04.04.202",
                                                               "Server Platform Services (SPS) Firmware for Intel C242 and C...":  "05.01.04.600",
+                                                              "Server Platform Services (SPS) Descriptor": "",
                                                               "Server Platform Services Manageability Engine Firmware for M...":  "06.00.03.200",
                                                               "Server Platform Services Manageability Engine Firmware for t...":  "06.00.03.200",
                                                               "System ROM - A40":  "v2.58 (06/16/2022)",
@@ -615,6 +618,7 @@
                                                            "PMCI PLDM FW Update for NS204i-p/d/r/t":  "1.0.14.1063",
                                                            "Server Platform Services (SPS) Firmware":  "04.04.04.202",
                                                            "Server Platform Services (SPS) Firmware for Intel C242 and C...":  "05.01.04.600",
+                                                           "Server Platform Services (SPS) Descriptor": "",
                                                            "Server Platform Services Manageability Engine Firmware":  "06.00.03.200",
                                                            "Server Platform Services Manageability Engine Firmware for M...":  "06.00.03.200",
                                                            "Server Platform Services Manageability Engine Firmware for t...":  "06.00.03.200",
@@ -1371,6 +1375,7 @@
                                                            "PMCI PLDM FW Update for NS204i-p/d/r/t":  "1.0.14.1063",
                                                            "Server Platform Services (SPS) Firmware":  "04.04.04.202",
                                                            "Server Platform Services (SPS) Firmware for Intel C242 and C...":  "05.01.04.600",
+                                                           "Server Platform Services (SPS) Descriptor": "",
                                                            "Server Platform Services Manageability Engine Firmware":  "06.00.03.200",
                                                            "Server Platform Services Manageability Engine Firmware for M...":  "06.00.03.200",
                                                            "Server Platform Services Manageability Engine Firmware for t...":  "06.00.03.200",
@@ -2128,6 +2133,7 @@
                                                            "PMCI PLDM FW Update for NS204i-p/d/r/t":  "1.0.14.1063",
                                                            "Server Platform Services (SPS) Firmware":  "04.04.04.202",
                                                            "Server Platform Services (SPS) Firmware for Intel C242 and C...":  "05.01.04.600",
+                                                           "Server Platform Services (SPS) Descriptor": "",
                                                            "Server Platform Services Manageability Engine Firmware":  "06.00.03.200",
                                                            "Server Platform Services Manageability Engine Firmware for M...":  "06.00.03.200",
                                                            "Server Platform Services Manageability Engine Firmware for t...":  "06.00.03.200",
