@@ -2,7 +2,7 @@
   "version": "SPEEL-20220800",
   "ams": {},
   "url": {
-    "SPPLink": "http://h17007.www1.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx",
+    "SPPLink": "https://support.hpe.com/hpesc/public/swd/detail?swItemId=MTX-fc206a4cbac44821ae3728af6b",
     "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets"
   },
   "driver": {
