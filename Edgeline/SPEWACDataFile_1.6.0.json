@@ -1,11 +1,11 @@
 {
     "AMSLink":  "https://www.hpe.com/global/swpublishing/MTX-2f03ad49b4434371b644c9d98a",
     "SysRomLink":  "https://support.hpe.com/hpesc/public/swd/detail?swItemId=MTX-fc206a4cbac44821ae3728af6b",
-    "SysRomVersion":  "1.86",
+    "SysRomVersion":  "1.52",
     "AMSVersion":  "2.51.0.0",
     "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
     "iLOFWLink":  "https://support.hpe.com/hpesc/public/swd/detail?swItemId=MTX-fc206a4cbac44821ae3728af6b",
-    "iLOFWVersion":  "2.65",
+    "iLOFWVersion":  "2.60",
     "SysInfoVersion":  "1.5.0.3",
     "NVDIMMLink":  "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
     "NVDIMMVersion":  "2.3.0.0",
