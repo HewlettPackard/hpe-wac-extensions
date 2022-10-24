@@ -353,6 +353,14 @@
                                         {
                                             "Name":  "System BIOS - U61",
                                             "Version":  "v1.54 (01/13/2022)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A55",
+                                            "Version":  "v1.10 (07/06/2022)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - A56",
+                                            "Version":  "v1.10 (07/06/2022)"
                                         }
                                     ]
                    },
