@@ -111,5 +111,15 @@
 
                                     ]
                    }
-               ]
+               ],
+    "BIOSList": [
+                {
+                    "Name":  "System BIOS - H08",
+                    "Version":  "v1.90 (10/27/2021)"
+                },
+                {
+                    "Name":  "System BIOS - H10",
+                    "Version":  "v1.52 (10/07/2021)"
+                }
+            ]
 }
