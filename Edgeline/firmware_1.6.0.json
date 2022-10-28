@@ -1,10 +1,10 @@
-{
-    "version": "SPEEL-20220800",
+﻿{
+    "version": "EL-2022.08.00",
     "url":  {
                 "SPPLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_237dbbddb4bd448ea0eb8ebc9c"
             },
     "firmware":  {
-                     "Microsoft Windows 10 (64bit, version 1803 \u0026 older)":  {
+                     "Microsoft Windows 10 (64bit, version 1803 & older)":  {
                                                                                      "HPE Smart Array E208e-p SR Gen10 Controller":  "4.11",
                                                                                      "HPE Smart Array E208i-a SR Gen10 Controller":  "4.11",
                                                                                      "HPE Smart Array E208i-c SR Gen10 Controller":  "4.11",
@@ -27,7 +27,7 @@
                                                                                      "Server Platform Services (SPS) Firmware":  "04.01.04.601",
                                                                                      "Server Platform Services (SPS) Descriptor": ""
                                                                                  },
-                     "Microsoft Windows 10 (64bit, version 1809 \u0026 later)":  {
+                     "Microsoft Windows 10 (64bit, version 1809 & later)":  {
                                                                                      "HPE Smart Array E208e-p SR Gen10 Controller":  "4.11",
                                                                                      "HPE Smart Array E208i-a SR Gen10 Controller":  "4.11",
                                                                                      "HPE Smart Array E208i-c SR Gen10 Controller":  "4.11",
