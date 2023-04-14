@@ -1,0 +1,131 @@
+{
+    "AMSLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_430accff1026437584d4525d25&tab=Compatibility",
+    "SysRomLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_237dbbddb4bd448ea0eb8ebc9c",
+    "SysRomVersion":  null,
+    "AMSVersion":  "2.51.2.0",
+    "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
+    "iLOFWLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_237dbbddb4bd448ea0eb8ebc9c",
+    "iLOFWVersion":  "2.60",
+    "SysInfoVersion":  "1.5.0.4",
+    "NVDIMMLink":  "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
+    "NVDIMMVersion":  "2.3.0.0",
+    "OSList":  [
+                   {
+                       "OS":  "Microsoft Windows 10 (64-bit)",
+                       "BIOSList":  [
+                                        {
+                                            "Name":  "System BIOS - H08",
+                                            "Version":  "v1.90 (10/27/2021)"
+                                        }
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows 10 (64bit, version 1803 & older)",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows 10 (64bit, version 1809 & later)",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows 7 (64-bit) - All Editions",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows 8.1 (32-bit)",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows 8.1 (64-bit)",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012 Essentials",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012 Foundation",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2012 R2",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2016",
+                       "BIOSList":  [
+                                        {
+                                            "Name":  "System BIOS - H08",
+                                            "Version":  "v1.90 (10/27/2021)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - H10",
+                                            "Version":  "v1.52 (10/07/2021)"
+                                        }
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2019",
+                       "BIOSList":  [
+                                        {
+                                            "Name":  "System BIOS - H08",
+                                            "Version":  "v1.90 (10/27/2021)"
+                                        },
+                                        {
+                                            "Name":  "System BIOS - H10",
+                                            "Version":  "v1.52 (10/07/2021)"
+                                        }
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Server 2022",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Storage Server 2012",
+                       "BIOSList":  [
+
+                                    ]
+                   },
+                   {
+                       "OS":  "Microsoft Windows Storage Server 2012 R2",
+                       "BIOSList":  [
+
+                                    ]
+                   }
+               ],
+    "BIOSList":  [
+                {
+                    "Name":  "System BIOS - H08",
+                    "Version":  "v1.90 (10/27/2021)"
+                },
+                {
+                    "Name":  "System BIOS - H10",
+                    "Version":  "v1.52 (10/07/2021)"
+                }
+            ]
+}
