@@ -12,6 +12,7 @@
 	  { "model_name": "HPE ProLiant DL325 Gen10 Plus v2", "catalog": true },
 	  { "model_name": "HPE ProLiant DL385 Gen10 Plus v2", "catalog": true },
 	  { "model_name": "HPE ProLiant DL360 Gen11", "catalog": true },
+	  { "model_name": "HPE ProLiant DL365 Gen11", "catalog": true },
 	  { "model_name": "HPE ProLiant DL380 Gen11", "catalog": true },
 	  { "model_name": "HPE ProLiant DL385 Gen11", "catalog": true },
       { "model_name": "HPE Apollo 4200 Gen10 (XL420)", "catalog": true },
