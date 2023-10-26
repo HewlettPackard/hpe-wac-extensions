@@ -1,0 +1,4620 @@
+[
+    {
+        "platform_name_keywords": [
+            "XL420 Gen10"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "24LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "3x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    24
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/front/24LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Front_Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Front_Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 37,
+                                "z": 6
+                            },
+                            {
+                                "x": 37,
+                                "z": 45
+                            },
+                            {
+                                "x": 37,
+                                "z": 84
+                            },
+                            {
+                                "x": 197,
+                                "z": 6
+                            },
+                            {
+                                "x": 197,
+                                "z": 45
+                            },
+                            {
+                                "x": 197,
+                                "z": 84
+                            },
+                            {
+                                "x": 357,
+                                "z": 6
+                            },
+                            {
+                                "x": 357,
+                                "z": 45
+                            },
+                            {
+                                "x": 357,
+                                "z": 84
+                            },
+                            {
+                                "x": 517,
+                                "z": 6
+                            },
+                            {
+                                "x": 517,
+                                "z": 45
+                            },
+                            {
+                                "x": 517,
+                                "z": 84
+                            },
+                            {
+                                "x": 37,
+                                "z": 136
+                            },
+                            {
+                                "x": 37,
+                                "z": 1345
+                            },
+                            {
+                                "x": 37,
+                                "z": 1384
+                            },
+                            {
+                                "x": 197,
+                                "z": 136
+                            },
+                            {
+                                "x": 197,
+                                "z": 1345
+                            },
+                            {
+                                "x": 197,
+                                "z": 1384
+                            },
+                            {
+                                "x": 357,
+                                "z": 136
+                            },
+                            {
+                                "x": 357,
+                                "z": 1345
+                            },
+                            {
+                                "x": 357,
+                                "z": 1384
+                            },
+                            {
+                                "x": 517,
+                                "z": 136
+                            },
+                            {
+                                "x": 517,
+                                "z": 1345
+                            },
+                            {
+                                "x": 517,
+                                "z": 1384
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "48SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x24"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    48
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/front/48SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 42,
+                                "z": 8
+                            },
+                            {
+                                "x": 65,
+                                "z": 8
+                            },
+                            {
+                                "x": 88,
+                                "z": 8
+                            },
+                            {
+                                "x": 111,
+                                "z": 8
+                            },
+                            {
+                                "x": 134,
+                                "z": 8
+                            },
+                            {
+                                "x": 159,
+                                "z": 8
+                            },
+                            {
+                                "x": 188,
+                                "z": 8
+                            },
+                            {
+                                "x": 211,
+                                "z": 8
+                            },
+                            {
+                                "x": 234,
+                                "z": 8
+                            },
+                            {
+                                "x": 257,
+                                "z": 8
+                            },
+                            {
+                                "x": 280,
+                                "z": 8
+                            },
+                            {
+                                "x": 305,
+                                "z": 8
+                            },
+                            {
+                                "x": 374,
+                                "z": 8
+                            },
+                            {
+                                "x": 397,
+                                "z": 8
+                            },
+                            {
+                                "x": 420,
+                                "z": 8
+                            },
+                            {
+                                "x": 443,
+                                "z": 8
+                            },
+                            {
+                                "x": 466,
+                                "z": 8
+                            },
+                            {
+                                "x": 491,
+                                "z": 8
+                            },
+                            {
+                                "x": 522,
+                                "z": 8
+                            },
+                            {
+                                "x": 545,
+                                "z": 8
+                            },
+                            {
+                                "x": 568,
+                                "z": 8
+                            },
+                            {
+                                "x": 591,
+                                "z": 8
+                            },
+                            {
+                                "x": 614,
+                                "z": 8
+                            },
+                            {
+                                "x": 639,
+                                "z": 8
+                            },
+                            {
+                                "x": 42,
+                                "z": 133
+                            },
+                            {
+                                "x": 65,
+                                "z": 133
+                            },
+                            {
+                                "x": 88,
+                                "z": 133
+                            },
+                            {
+                                "x": 111,
+                                "z": 133
+                            },
+                            {
+                                "x": 134,
+                                "z": 133
+                            },
+                            {
+                                "x": 159,
+                                "z": 133
+                            },
+                            {
+                                "x": 188,
+                                "z": 133
+                            },
+                            {
+                                "x": 211,
+                                "z": 133
+                            },
+                            {
+                                "x": 234,
+                                "z": 133
+                            },
+                            {
+                                "x": 257,
+                                "z": 133
+                            },
+                            {
+                                "x": 280,
+                                "z": 133
+                            },
+                            {
+                                "x": 305,
+                                "z": 133
+                            },
+                            {
+                                "x": 374,
+                                "z": 133
+                            },
+                            {
+                                "x": 397,
+                                "z": 133
+                            },
+                            {
+                                "x": 420,
+                                "z": 133
+                            },
+                            {
+                                "x": 443,
+                                "z": 133
+                            },
+                            {
+                                "x": 466,
+                                "z": 133
+                            },
+                            {
+                                "x": 491,
+                                "z": 133
+                            },
+                            {
+                                "x": 522,
+                                "z": 133
+                            },
+                            {
+                                "x": 545,
+                                "z": 133
+                            },
+                            {
+                                "x": 568,
+                                "z": 133
+                            },
+                            {
+                                "x": 591,
+                                "z": 133
+                            },
+                            {
+                                "x": 614,
+                                "z": 133
+                            },
+                            {
+                                "x": 639,
+                                "z": 133
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "6SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "3x2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    6
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/rear/rear.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "4": [
+                            {
+                                "x": 125,
+                                "z": 6
+                            },
+                            {
+                                "x": 125,
+                                "z": 34
+                            },
+                            {
+                                "x": 125,
+                                "z": 62
+                            }
+                        ],
+                        "5": [
+                            {
+                                "x": 293,
+                                "z": 6
+                            },
+                            {
+                                "x": 293,
+                                "z": 34
+                            },
+                            {
+                                "x": 293,
+                                "z": 62
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "4LFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "2x2"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/rear/rear.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Rear_Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Rear_Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 125,
+                                "z": 6
+                            },
+                            {
+                                "x": 125,
+                                "z": 49
+                            },
+                            {
+                                "x": 293,
+                                "z": 6
+                            },
+                            {
+                                "x": 293,
+                                "z": 49
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/rear/rear.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_XL420_Gen10/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "4": [
+                            {
+                                "x": 125,
+                                "z": 6
+                            },
+                            {
+                                "x": 125,
+                                "z": 34
+                            }
+                        ],
+                        "5": [
+                            {
+                                "x": 293,
+                                "z": 6
+                            },
+                            {
+                                "x": 293,
+                                "z": 34
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL180 Gen10"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "8LFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL180_Gen10/front/8LFF_2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [
+                        1,
+                        0,
+                        0
+                    ],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 38,
+                                "z": 11
+                            },
+                            {
+                                "x": 111,
+                                "z": 11
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "12LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL180_Gen10/front/12LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 29,
+                                "z": 3
+                            },
+                            {
+                                "x": 128,
+                                "z": 3
+                            },
+                            {
+                                "x": 227,
+                                "z": 3
+                            },
+                            {
+                                "x": 326,
+                                "z": 3
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "24SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL180_Gen10/front/24SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 6
+                            },
+                            {
+                                "x": 45.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 61,
+                                "z": 6
+                            },
+                            {
+                                "x": 76.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 92,
+                                "z": 6
+                            },
+                            {
+                                "x": 107.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 123,
+                                "z": 6
+                            },
+                            {
+                                "x": 138.5,
+                                "z": 6
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 187,
+                                "z": 6
+                            },
+                            {
+                                "x": 202.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 218,
+                                "z": 6
+                            },
+                            {
+                                "x": 233.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 249,
+                                "z": 6
+                            },
+                            {
+                                "x": 264.5,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 278,
+                                "z": 6
+                            },
+                            {
+                                "x": 293.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 309,
+                                "z": 6
+                            },
+                            {
+                                "x": 324.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 340,
+                                "z": 6
+                            },
+                            {
+                                "x": 355.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386.5,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "16SFF_2NVME",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL180_Gen10/front/16SFF_2NVMe.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [
+                        1,
+                        0,
+                        0
+                    ],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 55,
+                                "z": 40
+                            },
+                            {
+                                "x": 55,
+                                "z": 55
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 187,
+                                "z": 6
+                            },
+                            {
+                                "x": 202.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 218,
+                                "z": 6
+                            },
+                            {
+                                "x": 233.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 249,
+                                "z": 6
+                            },
+                            {
+                                "x": 264.5,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 278,
+                                "z": 6
+                            },
+                            {
+                                "x": 293.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 309,
+                                "z": 6
+                            },
+                            {
+                                "x": 324.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 340,
+                                "z": 6
+                            },
+                            {
+                                "x": 355.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386.5,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL180_Gen10/rear/2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "4": [
+                            {
+                                "x": 262,
+                                "z": 20
+                            },
+                            {
+                                "x": 337,
+                                "z": 20
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL325 Gen10"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "4LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen10/front/4LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen10/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen10/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 42,
+                                "z": 22
+                            },
+                            {
+                                "x": 184,
+                                "z": 22
+                            },
+                            {
+                                "x": 326,
+                                "z": 22
+                            },
+                            {
+                                "x": 468,
+                                "z": 22
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "8SFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x2",
+                        "2x3+2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen10/front/8SFF_2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen10/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 44,
+                                "z": 11
+                            },
+                            {
+                                "x": 44,
+                                "z": 35
+                            },
+                            {
+                                "x": 150,
+                                "z": 11
+                            },
+                            {
+                                "x": 150,
+                                "z": 35
+                            },
+                            {
+                                "x": 256,
+                                "z": 11
+                            },
+                            {
+                                "x": 256,
+                                "z": 35
+                            },
+                            {
+                                "x": 362,
+                                "z": 35
+                            },
+                            {
+                                "x": 468,
+                                "z": 35
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 362,
+                                "z": 11
+                            },
+                            {
+                                "x": 468,
+                                "z": 11
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    },
+                    "5": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL360 Gen10"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "4LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/front/4LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 14
+                            },
+                            {
+                                "x": 129,
+                                "z": 14
+                            },
+                            {
+                                "x": 228,
+                                "z": 14
+                            },
+                            {
+                                "x": 327,
+                                "z": 14
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "8SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x3+2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/front/8.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 32,
+                                "z": 7
+                            },
+                            {
+                                "x": 32,
+                                "z": 24
+                            },
+                            {
+                                "x": 107,
+                                "z": 7
+                            },
+                            {
+                                "x": 107,
+                                "z": 24
+                            },
+                            {
+                                "x": 182,
+                                "z": 7
+                            },
+                            {
+                                "x": 182,
+                                "z": 24
+                            },
+                            {
+                                "x": 257,
+                                "z": 24
+                            },
+                            {
+                                "x": 332,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "8SFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x3+2",
+                        "1x2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/front/8+2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 32,
+                                "z": 7
+                            },
+                            {
+                                "x": 32,
+                                "z": 24
+                            },
+                            {
+                                "x": 107,
+                                "z": 7
+                            },
+                            {
+                                "x": 107,
+                                "z": 24
+                            },
+                            {
+                                "x": 182,
+                                "z": 7
+                            },
+                            {
+                                "x": 182,
+                                "z": 24
+                            },
+                            {
+                                "x": 257,
+                                "z": 24
+                            },
+                            {
+                                "x": 332,
+                                "z": 24
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 257,
+                                "z": 7
+                            },
+                            {
+                                "x": 332,
+                                "z": 7
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "10SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x5"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    10
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/front/10SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/NVMe.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/NVMe_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 32,
+                                "z": 7
+                            },
+                            {
+                                "x": 32,
+                                "z": 24
+                            },
+                            {
+                                "x": 107,
+                                "z": 7
+                            },
+                            {
+                                "x": 107,
+                                "z": 24
+                            },
+                            {
+                                "x": 182,
+                                "z": 7
+                            },
+                            {
+                                "x": 182,
+                                "z": 24
+                            },
+                            {
+                                "x": 257,
+                                "z": 7
+                            },
+                            {
+                                "x": 257,
+                                "z": 24
+                            },
+                            {
+                                "x": 332,
+                                "z": 7
+                            },
+                            {
+                                "x": 332,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "1SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    1
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/rear/1SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS_rear.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS_rear_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "2": [
+                            {
+                                "x": 18,
+                                "z": 3
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 18,
+                                "z": 3
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "3": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL360 Gen11"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "4LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/front/4LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 14
+                            },
+                            {
+                                "x": 129,
+                                "z": 14
+                            },
+                            {
+                                "x": 228,
+                                "z": 14
+                            },
+                            {
+                                "x": 327,
+                                "z": 14
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "8SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x3+2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/front/8.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 32,
+                                "z": 7
+                            },
+                            {
+                                "x": 32,
+                                "z": 24
+                            },
+                            {
+                                "x": 107,
+                                "z": 7
+                            },
+                            {
+                                "x": 107,
+                                "z": 24
+                            },
+                            {
+                                "x": 182,
+                                "z": 7
+                            },
+                            {
+                                "x": 182,
+                                "z": 24
+                            },
+                            {
+                                "x": 257,
+                                "z": 24
+                            },
+                            {
+                                "x": 332,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "8SFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x3+2",
+                        "1x2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/front/8+2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL360_Gen10/SAS_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 32,
+                                "z": 7
+                            },
+                            {
+                                "x": 32,
+                                "z": 24
+                            },
+                            {
+                                "x": 107,
+                                "z": 7
+                            },
+                            {
+                                "x": 107,
+                                "z": 24
+                            },
+                            {
+                                "x": 182,
+                                "z": 7
+                            },
+                            {
+                                "x": 182,
+                                "z": 24
+                            },
+                            {
+                                "x": 257,
+                                "z": 24
+                            },
+                            {
+                                "x": 332,
+                                "z": 24
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 257,
+                                "z": 7
+                            },
+                            {
+                                "x": 332,
+                                "z": 7
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "20EDSFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    20
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/ProLiant_DL360_Gen11/front/20EDSFF.png",
+                    "disk_imgs": [
+                        "assets/images/ProLiant_DL360_Gen11/EDSFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "assets/images/ProLiant_DL360_Gen11/EDSFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 34,
+                                "z": 5
+                            },
+                            {
+                                "x": 34,
+                                "z": 16
+                            },
+                            {
+                                "x": 34,
+                                "z": 27
+                            },
+                            {
+                                "x": 34,
+                                "z": 38
+                            },
+                            {
+                                "x": 137,
+                                "z": 5
+                            },
+                            {
+                                "x": 137,
+                                "z": 16
+                            },
+                            {
+                                "x": 137,
+                                "z": 27
+                            },
+                            {
+                                "x": 137,
+                                "z": 38
+                            },
+                            {
+                                "x": 238,
+                                "z": 5
+                            },
+                            {
+                                "x": 238,
+                                "z": 16
+                            },
+                            {
+                                "x": 238,
+                                "z": 27
+                            },
+                            {
+                                "x": 238,
+                                "z": 38
+                            },
+                            {
+                                "x": 338,
+                                "z": 5
+                            },
+                            {
+                                "x": 338,
+                                "z": 16
+                            },
+                            {
+                                "x": 338,
+                                "z": 27
+                            },
+                            {
+                                "x": 338,
+                                "z": 38
+                            },
+                            {
+                                "x": 440,
+                                "z": 5
+                            },
+                            {
+                                "x": 440,
+                                "z": 16
+                            },
+                            {
+                                "x": 440,
+                                "z": 27
+                            },
+                            {
+                                "x": 440,
+                                "z": 38
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL385 Gen11"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "8LFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [
+                        "any",
+                        "1x2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/ProLiant_DL385_Gen11/front/8LFF_2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 36,
+                                "z": 11
+                            },
+                            {
+                                "x": 111,
+                                "z": 11
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "12LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/ProLiant_DL385_Gen11/front/12LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 29,
+                                "z": 3
+                            },
+                            {
+                                "x": 128,
+                                "z": 3
+                            },
+                            {
+                                "x": 227,
+                                "z": 3
+                            },
+                            {
+                                "x": 326,
+                                "z": 3
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "24SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/ProLiant_DL385_Gen11/front/24SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 6
+                            },
+                            {
+                                "x": 45.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 61,
+                                "z": 6
+                            },
+                            {
+                                "x": 76.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 92,
+                                "z": 6
+                            },
+                            {
+                                "x": 107.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 123,
+                                "z": 6
+                            },
+                            {
+                                "x": 138.5,
+                                "z": 6
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 187,
+                                "z": 6
+                            },
+                            {
+                                "x": 202.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 218,
+                                "z": 6
+                            },
+                            {
+                                "x": 233.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 249,
+                                "z": 6
+                            },
+                            {
+                                "x": 264.5,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 278,
+                                "z": 6
+                            },
+                            {
+                                "x": 293.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 309,
+                                "z": 6
+                            },
+                            {
+                                "x": 324.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 340,
+                                "z": 6
+                            },
+                            {
+                                "x": 355.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386.5,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "16SFF_2NVME",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/ProLiant_DL385_Gen11/front/16SFF_2NVMe.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [
+                        1,
+                        0,
+                        0
+                    ],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 55,
+                                "z": 40
+                            },
+                            {
+                                "x": 55,
+                                "z": 55
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 187,
+                                "z": 6
+                            },
+                            {
+                                "x": 202.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 218,
+                                "z": 6
+                            },
+                            {
+                                "x": 233.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 249,
+                                "z": 6
+                            },
+                            {
+                                "x": 264.5,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 278,
+                                "z": 6
+                            },
+                            {
+                                "x": 293.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 309,
+                                "z": 6
+                            },
+                            {
+                                "x": 324.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 340,
+                                "z": 6
+                            },
+                            {
+                                "x": 355.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386.5,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    0,
+                    0,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/ProLiant_DL385_Gen11/rear/2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "6": [
+                            {
+                                "x": 359,
+                                "z": 7
+                            },
+                            {
+                                "x": 359,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "4LFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/ProLiant_DL385_Gen11/rear/4LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "8": [
+                            {
+                                "x": 28,
+                                "z": 15
+                            },
+                            {
+                                "x": 127,
+                                "z": 15
+                            },
+                            {
+                                "x": 227,
+                                "z": 15
+                            },
+                            {
+                                "x": 327,
+                                "z": 15
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL380 Gen11"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "8LFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [
+                        "any",
+                        "1x2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/front/8LFF_2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 36,
+                                "z": 11
+                            },
+                            {
+                                "x": 111,
+                                "z": 11
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "12LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/front/12LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 29,
+                                "z": 3
+                            },
+                            {
+                                "x": 128,
+                                "z": 3
+                            },
+                            {
+                                "x": 227,
+                                "z": 3
+                            },
+                            {
+                                "x": 326,
+                                "z": 3
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "24SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/front/24SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 6
+                            },
+                            {
+                                "x": 45.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 61,
+                                "z": 6
+                            },
+                            {
+                                "x": 76.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 92,
+                                "z": 6
+                            },
+                            {
+                                "x": 107.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 123,
+                                "z": 6
+                            },
+                            {
+                                "x": 138.5,
+                                "z": 6
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 187,
+                                "z": 6
+                            },
+                            {
+                                "x": 202.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 218,
+                                "z": 6
+                            },
+                            {
+                                "x": 233.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 249,
+                                "z": 6
+                            },
+                            {
+                                "x": 264.5,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 278,
+                                "z": 6
+                            },
+                            {
+                                "x": 293.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 309,
+                                "z": 6
+                            },
+                            {
+                                "x": 324.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 340,
+                                "z": 6
+                            },
+                            {
+                                "x": 355.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386.5,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    0,
+                    0,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/rear/2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "6": [
+                            {
+                                "x": 359,
+                                "z": 7
+                            },
+                            {
+                                "x": 359,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL380 Gen10",
+            "DL385 Gen10"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "8LFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [
+                        "any",
+                        "1x2"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/front/8LFF_2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 36,
+                                "z": 11
+                            },
+                            {
+                                "x": 111,
+                                "z": 11
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "12LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/front/12LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 29,
+                                "z": 3
+                            },
+                            {
+                                "x": 128,
+                                "z": 3
+                            },
+                            {
+                                "x": 227,
+                                "z": 3
+                            },
+                            {
+                                "x": 326,
+                                "z": 3
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 29,
+                                "z": 29
+                            },
+                            {
+                                "x": 128,
+                                "z": 29
+                            },
+                            {
+                                "x": 227,
+                                "z": 29
+                            },
+                            {
+                                "x": 326,
+                                "z": 29
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 29,
+                                "z": 54
+                            },
+                            {
+                                "x": 128,
+                                "z": 54
+                            },
+                            {
+                                "x": 227,
+                                "z": 54
+                            },
+                            {
+                                "x": 326,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "24SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/front/24SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 6
+                            },
+                            {
+                                "x": 45.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 61,
+                                "z": 6
+                            },
+                            {
+                                "x": 76.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 92,
+                                "z": 6
+                            },
+                            {
+                                "x": 107.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 123,
+                                "z": 6
+                            },
+                            {
+                                "x": 138.5,
+                                "z": 6
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 187,
+                                "z": 6
+                            },
+                            {
+                                "x": 202.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 218,
+                                "z": 6
+                            },
+                            {
+                                "x": 233.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 249,
+                                "z": 6
+                            },
+                            {
+                                "x": 264.5,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 278,
+                                "z": 6
+                            },
+                            {
+                                "x": 293.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 309,
+                                "z": 6
+                            },
+                            {
+                                "x": 324.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 340,
+                                "z": 6
+                            },
+                            {
+                                "x": 355.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386.5,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "16SFF_2NVME",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/front/16SFF_2NVMe.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png",
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [
+                        1,
+                        0,
+                        0
+                    ],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 55,
+                                "z": 40
+                            },
+                            {
+                                "x": 55,
+                                "z": 55
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 187,
+                                "z": 6
+                            },
+                            {
+                                "x": 202.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 218,
+                                "z": 6
+                            },
+                            {
+                                "x": 233.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 249,
+                                "z": 6
+                            },
+                            {
+                                "x": 264.5,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 278,
+                                "z": 6
+                            },
+                            {
+                                "x": 293.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 309,
+                                "z": 6
+                            },
+                            {
+                                "x": 324.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 340,
+                                "z": 6
+                            },
+                            {
+                                "x": 355.5,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386.5,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF_3LFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "2x1+1"
+                    ],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    0,
+                    3
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/rear/2SFF_3LFF.png",
+                    "disk_imgs": [],
+                    "disk_led_imgs": [],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "4": [
+                            {
+                                "x": 36,
+                                "z": 8
+                            },
+                            {
+                                "x": 36,
+                                "z": 25
+                            }
+                        ],
+                        "6": [
+                            {
+                                "x": 166,
+                                "z": 9
+                            },
+                            {
+                                "x": 166,
+                                "z": 37
+                            },
+                            {
+                                "x": 291,
+                                "z": 9
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    0,
+                    0,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/rear/2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "6": [
+                            {
+                                "x": 359,
+                                "z": 7
+                            },
+                            {
+                                "x": 359,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "3LFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "2x1+1"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    0,
+                    0,
+                    3
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/rear/3LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "6": [
+                            {
+                                "x": 166,
+                                "z": 9
+                            },
+                            {
+                                "x": 166,
+                                "z": 37
+                            },
+                            {
+                                "x": 291,
+                                "z": 9
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "6SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2,
+                    2,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL380_Gen10/rear/6SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "4": [
+                            {
+                                "x": 37,
+                                "z": 9
+                            },
+                            {
+                                "x": 37,
+                                "z": 25
+                            }
+                        ],
+                        "5": [
+                            {
+                                "x": 179,
+                                "z": 9
+                            },
+                            {
+                                "x": 179,
+                                "z": 25
+                            }
+                        ],
+                        "6": [
+                            {
+                                "x": 359,
+                                "z": 7
+                            },
+                            {
+                                "x": 359,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "ML350 Gen10"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "12LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    4,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_ML350_Gen10/front/12LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_ML350_Gen10/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_ML350_Gen10/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 347,
+                                "z": 23
+                            },
+                            {
+                                "x": 347,
+                                "z": 64
+                            },
+                            {
+                                "x": 347,
+                                "z": 103
+                            },
+                            {
+                                "x": 347,
+                                "z": 145
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 177,
+                                "z": 23
+                            },
+                            {
+                                "x": 177,
+                                "z": 64
+                            },
+                            {
+                                "x": 177,
+                                "z": 103
+                            },
+                            {
+                                "x": 177,
+                                "z": 145
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 25,
+                                "z": 23
+                            },
+                            {
+                                "x": 25,
+                                "z": 64
+                            },
+                            {
+                                "x": 25,
+                                "z": 103
+                            },
+                            {
+                                "x": 25,
+                                "z": 145
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "24SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x8"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    8,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_ML350_Gen10/front/24SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_ML350_Gen10/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_ML350_Gen10/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 366,
+                                "z": 15
+                            },
+                            {
+                                "x": 366,
+                                "z": 35.25
+                            },
+                            {
+                                "x": 366,
+                                "z": 55.5
+                            },
+                            {
+                                "x": 366,
+                                "z": 75.75
+                            },
+                            {
+                                "x": 366,
+                                "z": 96
+                            },
+                            {
+                                "x": 366,
+                                "z": 116.25
+                            },
+                            {
+                                "x": 366,
+                                "z": 136.5
+                            },
+                            {
+                                "x": 366,
+                                "z": 156.75
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 196,
+                                "z": 15
+                            },
+                            {
+                                "x": 196,
+                                "z": 35.25
+                            },
+                            {
+                                "x": 196,
+                                "z": 55.5
+                            },
+                            {
+                                "x": 196,
+                                "z": 75.75
+                            },
+                            {
+                                "x": 196,
+                                "z": 96
+                            },
+                            {
+                                "x": 196,
+                                "z": 116.25
+                            },
+                            {
+                                "x": 196,
+                                "z": 136.5
+                            },
+                            {
+                                "x": 196,
+                                "z": 156.75
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 46,
+                                "z": 15
+                            },
+                            {
+                                "x": 46,
+                                "z": 35.25
+                            },
+                            {
+                                "x": 46,
+                                "z": 55.5
+                            },
+                            {
+                                "x": 46,
+                                "z": 75.75
+                            },
+                            {
+                                "x": 46,
+                                "z": 96
+                            },
+                            {
+                                "x": 46,
+                                "z": 116.25
+                            },
+                            {
+                                "x": 46,
+                                "z": 136.5
+                            },
+                            {
+                                "x": 46,
+                                "z": 156.75
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "Synergy 480 Gen10"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "2x1"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Synergy_480_Gen10/front/2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 39,
+                                "z": 11
+                            },
+                            {
+                                "x": 39,
+                                "z": 102
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "D3940": {
+                        "location": "external",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "D3940",
+                "form_factor_location": "external",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    40
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Synergy_480_Gen10/external/D3940.png",
+                    "disk_imgs": [],
+                    "disk_led_imgs": [],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 46,
+                                "z": 40
+                            },
+                            {
+                                "x": 46,
+                                "z": 67
+                            },
+                            {
+                                "x": 46,
+                                "z": 94
+                            },
+                            {
+                                "x": 46,
+                                "z": 121
+                            },
+                            {
+                                "x": 46,
+                                "z": 175
+                            },
+                            {
+                                "x": 46,
+                                "z": 202
+                            },
+                            {
+                                "x": 46,
+                                "z": 229
+                            },
+                            {
+                                "x": 46,
+                                "z": 256
+                            },
+                            {
+                                "x": 167,
+                                "z": 40
+                            },
+                            {
+                                "x": 167,
+                                "z": 67
+                            },
+                            {
+                                "x": 167,
+                                "z": 94
+                            },
+                            {
+                                "x": 167,
+                                "z": 121
+                            },
+                            {
+                                "x": 167,
+                                "z": 175
+                            },
+                            {
+                                "x": 167,
+                                "z": 202
+                            },
+                            {
+                                "x": 167,
+                                "z": 229
+                            },
+                            {
+                                "x": 167,
+                                "z": 256
+                            },
+                            {
+                                "x": 288,
+                                "z": 40
+                            },
+                            {
+                                "x": 288,
+                                "z": 67
+                            },
+                            {
+                                "x": 288,
+                                "z": 94
+                            },
+                            {
+                                "x": 288,
+                                "z": 121
+                            },
+                            {
+                                "x": 288,
+                                "z": 175
+                            },
+                            {
+                                "x": 288,
+                                "z": 202
+                            },
+                            {
+                                "x": 288,
+                                "z": 229
+                            },
+                            {
+                                "x": 288,
+                                "z": 256
+                            },
+                            {
+                                "x": 409,
+                                "z": 40
+                            },
+                            {
+                                "x": 409,
+                                "z": 67
+                            },
+                            {
+                                "x": 409,
+                                "z": 94
+                            },
+                            {
+                                "x": 409,
+                                "z": 121
+                            },
+                            {
+                                "x": 409,
+                                "z": 175
+                            },
+                            {
+                                "x": 409,
+                                "z": 202
+                            },
+                            {
+                                "x": 409,
+                                "z": 229
+                            },
+                            {
+                                "x": 409,
+                                "z": 256
+                            },
+                            {
+                                "x": 530,
+                                "z": 40
+                            },
+                            {
+                                "x": 530,
+                                "z": 67
+                            },
+                            {
+                                "x": 530,
+                                "z": 94
+                            },
+                            {
+                                "x": 530,
+                                "z": 121
+                            },
+                            {
+                                "x": 530,
+                                "z": 175
+                            },
+                            {
+                                "x": 530,
+                                "z": 202
+                            },
+                            {
+                                "x": 530,
+                                "z": 229
+                            },
+                            {
+                                "x": 530,
+                                "z": 256
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "D3940": {
+                        "location": "external",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
+            "Alletra 4110 Gen11"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "20EDSFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    20
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/Alletra_4110_Gen11/front/20EDSFF.png",
+                    "disk_imgs": [
+                        "assets/images/Alletra_4110_Gen11/EDSFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "assets/images/Alletra_4110_Gen11/EDSFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 34,
+                                "z": 5
+                            },
+                            {
+                                "x": 34,
+                                "z": 16
+                            },
+                            {
+                                "x": 34,
+                                "z": 27
+                            },
+                            {
+                                "x": 34,
+                                "z": 38
+                            },
+                            {
+                                "x": 137,
+                                "z": 5
+                            },
+                            {
+                                "x": 137,
+                                "z": 16
+                            },
+                            {
+                                "x": 137,
+                                "z": 27
+                            },
+                            {
+                                "x": 137,
+                                "z": 38
+                            },
+                            {
+                                "x": 238,
+                                "z": 5
+                            },
+                            {
+                                "x": 238,
+                                "z": 16
+                            },
+                            {
+                                "x": 238,
+                                "z": 27
+                            },
+                            {
+                                "x": 238,
+                                "z": 38
+                            },
+                            {
+                                "x": 338,
+                                "z": 5
+                            },
+                            {
+                                "x": 338,
+                                "z": 16
+                            },
+                            {
+                                "x": 338,
+                                "z": 27
+                            },
+                            {
+                                "x": 338,
+                                "z": 38
+                            },
+                            {
+                                "x": 440,
+                                "z": 5
+                            },
+                            {
+                                "x": 440,
+                                "z": 16
+                            },
+                            {
+                                "x": 440,
+                                "z": 27
+                            },
+                            {
+                                "x": 440,
+                                "z": 38
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "20SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any"
+                    ],
+                    "UFF": []
+                },
+                "box_capacity": [
+                    20
+                ],
+                "graphics_info": {
+                    "chasis_img": "assets/images/Alletra_4110_Gen11/front/20SFF.png",
+                    "disk_imgs": [
+                        "assets/images/Alletra_4110_Gen11/SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "assets/images/Alletra_4110_Gen11/SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 32,
+                                "z": 7
+                            },
+                            {
+                                "x": 32,
+                                "z": 24
+                            },
+                            {
+                                "x": 107,
+                                "z": 7
+                            },
+                            {
+                                "x": 107,
+                                "z": 24
+                            },
+                            {
+                                "x": 182,
+                                "z": 7
+                            },
+                            {
+                                "x": 182,
+                                "z": 24
+                            },
+                            {
+                                "x": 257,
+                                "z": 7
+                            },
+                            {
+                                "x": 257,
+                                "z": 24
+                            },
+                            {
+                                "x": 332,
+                                "z": 7
+                            },
+                            {
+                                "x": 332,
+                                "z": 24
+                            },
+                            {
+                                "x": 32,
+                                "z": 46
+                            },
+                            {
+                                "x": 32,
+                                "z": 63
+                            },
+                            {
+                                "x": 107,
+                                "z": 46
+                            },
+                            {
+                                "x": 107,
+                                "z": 63
+                            },
+                            {
+                                "x": 182,
+                                "z": 46
+                            },
+                            {
+                                "x": 182,
+                                "z": 63
+                            },
+                            {
+                                "x": 257,
+                                "z": 46
+                            },
+                            {
+                                "x": 257,
+                                "z": 63
+                            },
+                            {
+                                "x": 332,
+                                "z": 46
+                            },
+                            {
+                                "x": 332,
+                                "z": 63
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
+    }
+]

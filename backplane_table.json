@@ -1,0 +1,1517 @@
+[
+    {
+        "nvram_id": "0x0080",
+        "nvram_name": "GEN8 4X2 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "4x2",
+        "number_of_drives": 8
+    },
+    {
+        "nvram_id": "0x0081",
+        "nvram_name": "GEN8 2X4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    },
+    {
+        "nvram_id": "0x0082",
+        "nvram_name": "GEN8 8X1 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "8X1",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0083",
+        "nvram_name": "GEN8 6X1 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "6X1",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x0084",
+        "nvram_name": "GEN8 2x4 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0085",
+        "nvram_name": "GEN8 2x4 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0086",
+        "nvram_name": "GEN8 1x4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0087",
+        "nvram_name": "GEN8 1x2 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0088",
+        "nvram_name": "GEN8 1x2 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0089",
+        "nvram_name": "GEN8 2x2 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x008A",
+        "nvram_name": "GEN8 1X2 SFF BP3",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x008B",
+        "nvram_name": "GEN8 2X1 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x008C",
+        "nvram_name": "GEN8 1X2 SFF BP4",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x008D",
+        "nvram_name": "GEN8 1X2 SFF BP5",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x008E",
+        "nvram_name": "GEN8 1X2 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x008F",
+        "nvram_name": "GEN8 2X1 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0090",
+        "nvram_name": "GEN8 3X4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x0091",
+        "nvram_name": "GEN8 1X5 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x5",
+        "number_of_drives": 5
+    }, {
+        "nvram_id": "0x0092",
+        "nvram_name": "GEN8 4x1 LFF BP2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "4x1",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0093",
+        "nvram_name": "GEN8 8x1 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "8x1",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0094",
+        "nvram_name": "GEN8 1x4 LFF BP2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0095",
+        "nvram_name": "GEN8 2x4 SFF BP3",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0096",
+        "nvram_name": "GEN8 1x2 SFF BP6",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0097",
+        "nvram_name": "GEN8 1x5 SFF BP3",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x5",
+        "number_of_drives": 5
+    }, {
+        "nvram_id": "0x0098",
+        "nvram_name": "GEN8 1x2 SFF BP7",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x009A",
+        "nvram_name": "GEN8.5 2x5 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x5",
+        "number_of_drives": 10
+    }, {
+        "nvram_id": "0x009B",
+        "nvram_name": "GEN8.5 4x2 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "4x2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x009C",
+        "nvram_name": "GEN8 1x5 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x5",
+        "number_of_drives": 5
+    }, {
+        "nvram_id": "0x009D",
+        "nvram_name": "GEN8 1x5 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x5",
+        "number_of_drives": 5
+    }, {
+        "nvram_id": "0x009E",
+        "nvram_name": "GEN8.5 1x2 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x009F",
+        "nvram_name": "GEN8.5 2x3 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x00A0",
+        "nvram_name": "GEN8.5 3x4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00A1",
+        "nvram_name": "GEN8.5 1x24 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x00A3",
+        "nvram_name": "GEN9 1x6 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x6",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x00A4",
+        "nvram_name": "GEN9 1x8 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00A5",
+        "nvram_name": "GEN9 3x4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00A6",
+        "nvram_name": "GEN9 2x1 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00A8",
+        "nvram_name": "GEN9 2x1+1 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "2x1+1",
+        "number_of_drives": 3
+    }, {
+        "nvram_id": "0x00A9",
+        "nvram_name": "GEN9 2x4 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00AA",
+        "nvram_name": "GEN9 1x2 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00AB",
+        "nvram_name": "GEN9 1x4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00AC",
+        "nvram_name": "GEN9 1x2 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00AD",
+        "nvram_name": "GEN9 2x4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00AE",
+        "nvram_name": "GEN9 2x1 SFF MB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00AF",
+        "nvram_name": "GEN9 2x1 SFF CB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00B0",
+        "nvram_name": "GEN9 1x4 LFF BP2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00B1",
+        "nvram_name": "GEN9 1x4 LFF BP3",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00B2",
+        "nvram_name": "GEN9 1x8 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00B3",
+        "nvram_name": "GEN9 5x5 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "5x5",
+        "number_of_drives": 25
+    }, {
+        "nvram_id": "0x00B4",
+        "nvram_name": "GEN9 1x4 LFF BP4",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00B5",
+        "nvram_name": "GEN9 3x4 LFF BP2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00B6",
+        "nvram_name": "GEN9 1x4 LFF BP5",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00B7",
+        "nvram_name": "GEN9 2x2 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00B9",
+        "nvram_name": "GEN9 2x2 LFF SB1",
+        "location": ["rear"],
+        "form_factor": "LFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00BA",
+        "nvram_name": "GEN9 2x2 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00BB",
+        "nvram_name": "GEN9 4x1 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "4x1",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00BC",
+        "nvram_name": "GEN9 1x2 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00BD",
+        "nvram_name": "GEN9 2x1 SFF BP2",
+        "location": ["rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00BE",
+        "nvram_name": "GEN9 1x4 LFF SB1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00BF",
+        "nvram_name": "GEN9 2x4 SFF SB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00C0",
+        "nvram_name": "GEN9 2x2 SFF BP3",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00C1",
+        "nvram_name": "GEN9 1x2 SFF MB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00C2",
+        "nvram_name": "GEN9 1x2 SFF CB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00C3",
+        "nvram_name": "GEN9 2x3 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x00C4",
+        "nvram_name": "GEN9 1x2 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00C5",
+        "nvram_name": "GEN9 3x4 LFF SB2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00C6",
+        "nvram_name": "GEN9 3x4 LFF SB3",
+        "location": ["middle"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00C7",
+        "nvram_name": "GEN9 1x24 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x00C8",
+        "nvram_name": "GEN9 1x24 SFF BP2",
+        "location": ["middle"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x00C9",
+        "nvram_name": "GEN9 1x2 SFF SB2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00CA",
+        "nvram_name": "GEN9 1x8 SFF SB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00CB",
+        "nvram_name": "GEN9 2x1 SFF SB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00CC",
+        "nvram_name": "GEN9 2x1+1 LFF SB1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "2x1+1",
+        "number_of_drives": 3
+    }, {
+        "nvram_id": "0x00CD",
+        "nvram_name": "GEN9 3x4 LFF SB2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00CE",
+        "nvram_name": "GEN9.5 2x3+2 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00CF",
+        "nvram_name": "GEN9 2X1 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00D0",
+        "nvram_name": "GEN9.5 2x4 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00D1",
+        "nvram_name": "GEN9 3x2 SFF BP1",
+        "location": ["rear"],
+        "form_factor": "SFF",
+        "shape": "3x2",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x00D3",
+        "nvram_name": "GEN10 1x4 LFF BP1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00D4",
+        "nvram_name": "GEN10 2x1+1 LFF BP1",
+        "location": ["front", "rear"],
+        "form_factor": "LFF",
+        "shape": "2x1+1",
+        "number_of_drives": 3
+    }, {
+        "nvram_id": "0x00D5",
+        "nvram_name": "GEN10 2x1 SFF CB1",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00D6",
+        "nvram_name": "GEN10 1x2 SFF MB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00D7",
+        "nvram_name": "GEN10 2x3+2 SFF MB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00D8",
+        "nvram_name": "GEN10 2x6 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x6",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00D9",
+        "nvram_name": "GEN10 1x1 SFF CB1",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "1x1",
+        "number_of_drives": 1
+    }, {
+        "nvram_id": "0x00DA",
+        "nvram_name": "GEN10 1x2 SFF CB2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00DB",
+        "nvram_name": "GEN10 2x6 SFF CB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x6",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00DC",
+        "nvram_name": "GEN10 1X8 SFF CB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00DD",
+        "nvram_name": "GEN10 1x2 SFF EB1",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00DE",
+        "nvram_name": "GEN10 1x4 LFF SB1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00DF",
+        "nvram_name": "GEN10 3x4 LFF SB1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x00E0",
+        "nvram_name": "GEN10 5x5 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "5x5",
+        "number_of_drives": 25
+    }, {
+        "nvram_id": "0x00E1",
+        "nvram_name": "GEN10 5x5 SFF CB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "5x5",
+        "number_of_drives": 25
+    }, {
+        "nvram_id": "0x00E2",
+        "nvram_name": "GEN10 4x4 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "4x4",
+        "number_of_drives": 16
+    }, {
+        "nvram_id": "0x00E3",
+        "nvram_name": "GEN10 1x4 LFF SB2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00E4",
+        "nvram_name": "GEN10 2X1 SFF CB3",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00E5",
+        "nvram_name": "GEN10 2x1 SFF MB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00E6",
+        "nvram_name": "GEN10 1x8 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00E7",
+        "nvram_name": "GEN10 2x2 SFF MB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00E8",
+        "nvram_name": "GEN10 2x2 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00E9",
+        "nvram_name": "GEN10 1x2 SFF EB2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00EA",
+        "nvram_name": "GEN10 1x2 SFF MB2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00EB",
+        "nvram_name": "GEN10 2x5 SFF CB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x5",
+        "number_of_drives": 10
+    }, {
+        "nvram_id": "0x00EC",
+        "nvram_name": "GEN10 1x2 SFF CB3",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00EF",
+        "nvram_name": "GEN10 2x1 SFF MB2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00F5",
+        "nvram_name": "GEN10 2X4 SFF EB2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x00F6",
+        "nvram_name": "GEN10 1X2 LFF SB1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x00F7",
+        "nvram_name": "GEN10 1X3+1 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x3+1",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x00F8",
+        "nvram_name": "GEN10 3x2 SFF EB1",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "3x2",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x00F9",
+        "nvram_name": "GEN10 2x1 SFF MB3",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0100",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0101",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0102",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0106",
+        "nvram_name": "GEN10.5 1X6 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x6",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x0108",
+        "nvram_name": "6 SFF 24G x2NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x0109",
+        "nvram_name": "4 SFF 24G x2NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x010C",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front", "middle"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x010D",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x010E",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x010F",
+        "nvram_name": "GEN10.5 2X5 SFF CB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x5",
+        "number_of_drives": 10
+    }, {
+        "nvram_id": "0x0110",
+        "nvram_name": "4 LFF 12G x1SAS UBM2 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0111",
+        "nvram_name": "2 LFF 12G x1SAS UBM2 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0112",
+        "nvram_name": "3 LFF 12G x1SAS UBM2 LP BP",
+        "location": ["front", "rear"],
+        "form_factor": "LFF",
+        "shape": "2x1+1",
+        "number_of_drives": 3
+    }, {
+        "nvram_id": "0x0113",
+        "nvram_name": "4 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0114",
+        "nvram_name": "GEN10.5 2X4 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0115",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM1 SC BP",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0116",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0117",
+        "nvram_name": "1 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x1",
+        "number_of_drives": 1
+    }, {
+        "nvram_id": "0x0118",
+        "nvram_name": "GEN10.5 1x24 SFF BP1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x0119",
+        "nvram_name": "GEN10.5 1x24 SFF BP2",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x011A",
+        "nvram_name": "GEN10.5 1X24 SFF BP3",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x011B",
+        "nvram_name": "GEN10.5 1X24 SFF BP4",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x011C",
+        "nvram_name": "GEN10.5 3X4 LFF SB1",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x011D",
+        "nvram_name": "GEN10.5 3X4 LFF SB2",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x011E",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["middle"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x011F",
+        "nvram_name": "GEN10.5 1X4 LFF SB1",
+        "location": ["middle"],
+        "form_factor": "LFF",
+        "shape": "1x4",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0120",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0121",
+        "nvram_name": "8 SFF 12G x1SAS UBM2 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0122",
+        "nvram_name": "2 SFF 12G x2SAS UBM2 BC BP",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0123",
+        "nvram_name": "2 SFF 12G x1SAS UBM2 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0124",
+        "nvram_name": "8 SFF 12G x1SAS UBM2 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0125",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0126",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM3 BC BP",
+        "location": ["middle"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0127",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0128",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0129",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x012B",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x012C",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x012D",
+        "nvram_name": "8 SFF 16G x4NVMe UBM4 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x012E",
+        "nvram_name": "2 SFF 16G x4NVMe UBM4 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x012F",
+        "nvram_name": "8 SFF 16G x4NVMe UBM4 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0132",
+        "nvram_name": "1 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "1x1",
+        "number_of_drives": 1
+    }, {
+        "nvram_id": "0x0133",
+        "nvram_name": "GEN10.5 2X4 SFF EB1",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x4",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0134",
+        "nvram_name": "24 SFF 12G X1SAS UBM2 BC BP ",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x0137",
+        "nvram_name": "4 LFF 12G x1SAS UBM2 LP BP",
+        "location": ["rear"],
+        "form_factor": "LFF",
+        "shape": "2x2",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0140",
+        "nvram_name": "12 E3S 24G x4NVMe UBM5 BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x0141",
+        "nvram_name": "4 LFF 12G x1SAS UBM3 LP BP (Tower)",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0142",
+        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP (2U Front)",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0143",
+        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP (2U Mid)",
+        "location": ["middle"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0144",
+        "nvram_name": "2 SFF 32G x4NVMe/SAS UBM3 BC BP (Stacked)",
+        "location": ["front", "rear"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0145",
+        "nvram_name": "12 E3S 32G x4NVMe UBM5 EC BP (2U)",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x0146",
+        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP (1U Front)",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0147",
+        "nvram_name": "2 SFF 32G x4NVMe/SAS UBM3 BC BP (Side-by-side)",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0148",
+        "nvram_name": "20 E3S 32G x4NVMe UBM5 EC BP (1U)",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 20
+    }, {
+        "nvram_id": "0x0149",
+        "nvram_name": "10 SFF 32G24G x4NVMe UBM4 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 10
+    }, {
+        "nvram_id": "0x014A",
+        "nvram_name": "2 LFF 12G x1SAS UBM3 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x014B",
+        "nvram_name": "4 SFF 12G x1SAS UBM3 BC BP (1U Front)",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x014C",
+        "nvram_name": "12 LFF 24G x1SAS UBM3 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x014D",
+        "nvram_name": "12 E3S 32G x4NVMe UBM5 EC BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "3x4",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x014E",
+        "nvram_name": "4 SFF 24G x4NVMe/SAS UBM1 SC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x014F",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0150",
+        "nvram_name": "4 SFF 24G x2NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0151",
+        "nvram_name": "4 SFF 32G x4NVMe UBM4 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0152",
+        "nvram_name": "24 SFF 24G x1SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x24",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x0153",
+        "nvram_name": "6 SFF 32G24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["rear"],
+        "form_factor": "SFF",
+        "shape": "3x2",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x0154",
+        "nvram_name": "12 E3S 32G x4NVMe UBM5 EC BP (re-use of 014Dh)",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x0155",
+        "nvram_name": "8 E3S 32G x4NVMe UBM5 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0156",
+        "nvram_name": "6 SFF 32G24G x4NVMe UBM4 BC BP",
+        "location": ["rear"],
+        "form_factor": "SFF",
+        "shape": "3x2",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x0157",
+        "nvram_name": "35 LFF 24G x1SAS UBM3 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 35
+    }, {
+        "nvram_id": "0x0158",
+        "nvram_name": "13 LFF 24G x1SAS UBM3 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 13
+    }, {
+        "nvram_id": "0x0159",
+        "nvram_name": "1 E3S 32G x4NVMe UBM5 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 1
+    }, {
+        "nvram_id": "0x015A",
+        "nvram_name": "24 E3L 16G x2NVME UBM20 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 24
+    }, {
+        "nvram_id": "0x015B",
+        "nvram_name": "8 E3S 32G x4NVMe UBM5 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x015C",
+        "nvram_name": "8 SFF 12G x1SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x015D",
+        "nvram_name": "8 SFF 12G x1SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x015E",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM6 BC BP",
+        "location": ["rear"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x015F",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0160",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x3+2",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0161",
+        "nvram_name": "8 SFF 24G x1NVMe/SAS UBM6 BC",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "1x8",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0162",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM6 BC",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "1x2",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0163",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM6 BC BP(012Bh)",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "2x1",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0164",
+        "nvram_name": "6 SFF 12G x1SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 6
+    }, {
+        "nvram_id": "0x0165",
+        "nvram_name": "4 SFF 24G x2NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0166",
+        "nvram_name": "4 SFF 24G x4NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x0167",
+        "nvram_name": "8 SFF 16G x4NVMe UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0168",
+        "nvram_name": "8 SFF 16G x4NVMe UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0169",
+        "nvram_name": "4 LFF 12G x1SAS UBM6 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x016A",
+        "nvram_name": "2 SFF 16G x4NVMe UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x016B",
+        "nvram_name": "2 SFF 32G x4NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x016C",
+        "nvram_name": "4 SFF 32G x2NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x016D",
+        "nvram_name": "8 E3S 32G x4NVMe UBM7 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x016E",
+        "nvram_name": "4 SFF 16G x4NVMe UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 4
+    }, {
+        "nvram_id": "0x016F",
+        "nvram_name": "8 E3S 32G x4NVMe UBM7 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0170",
+        "nvram_name": "12 E3S 32G x4NVMe UBM7 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x0171",
+        "nvram_name": "20 E3S 32G x4NVMe UBM7 EC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 20
+    }, {
+        "nvram_id": "0x0172",
+        "nvram_name": "8 E3S 32G x4NVMe UBM7 EC BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0173",
+        "nvram_name": "12 LFF 24G x1SAS UBM6 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 12
+    }, {
+        "nvram_id": "0x0174",
+        "nvram_name": "30 LFF 12G x1 SAS UBM6 LP BP",
+        "location": ["front"],
+        "form_factor": "",
+        "shape": "",
+        "number_of_drives": 30
+    }, {
+        "nvram_id": "0x0175",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x0176",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x0177",
+        "nvram_name": "35 LFF 24G x1SAS UBM6 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 35
+    }, {
+        "nvram_id": "0x0178",
+        "nvram_name": "13 LFF 24G x1SAS UBM6 LP BP",
+        "location": ["front"],
+        "form_factor": "LFF",
+        "shape": "",
+        "number_of_drives": 13
+    }, {
+        "nvram_id": "0x0179",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 2
+    }, {
+        "nvram_id": "0x017A",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM3 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x017B",
+        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 8
+    }, {
+        "nvram_id": "0x017C",
+        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM6 BC BP",
+        "location": ["front"],
+        "form_factor": "SFF",
+        "shape": "",
+        "number_of_drives": 2
+    }
+]
