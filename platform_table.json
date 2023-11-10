@@ -1630,7 +1630,8 @@
     },
     {
         "platform_name_keywords": [
-            "DL360 Gen11"
+            "DL360 Gen11",
+            "DL365 Gen11"
         ],
         "platform_details": [
             {
