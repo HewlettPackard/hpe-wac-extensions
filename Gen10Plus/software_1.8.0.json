@@ -3297,7 +3297,7 @@
   "SysInfoLink": "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
   "iLOFWLink": "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx?version=gen10.2023.09.00.00",
   "iLOFWVersion": "2.96",
-  "SysInfoVersion": "1.5.0.4",
+  "SysInfoVersion": "1.6.0.0",
   "NVDIMMLink": "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
   "NVDIMMVersion": "2.3.0.0",
   "Application": [
