@@ -15,6 +15,7 @@
 	  { "model_name": "HPE ProLiant DL365 Gen11", "catalog": true },
 	  { "model_name": "HPE ProLiant DL380 Gen11", "catalog": true },
 	  { "model_name": "HPE ProLiant DL385 Gen11", "catalog": true },
+	  { "model_name": "Alletra 4110", "catalog": true },
       { "model_name": "HPE Apollo 4200 Gen10 (XL420)", "catalog": true },
 	  { "model_name": "HPE Apollo 4200 Gen10 Plus (XL420)", "catalog": true },
 	  { "model_name": "HPE Edgeline E8000 (e910)", "catalog": true },
