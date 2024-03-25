@@ -13,7 +13,8 @@
                         "3x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     24
@@ -152,7 +153,8 @@
                         "any",
                         "1x24"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     48
@@ -387,7 +389,8 @@
                         "any",
                         "3x2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     6
@@ -456,7 +459,8 @@
                         "2x2"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4
@@ -515,7 +519,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2
@@ -586,7 +591,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -685,7 +691,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4,
@@ -786,7 +793,8 @@
                         "any",
                         "1x8"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -936,7 +944,8 @@
                         "1x8",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -1067,7 +1076,8 @@
                         "any",
                         "1x2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2
@@ -1129,7 +1139,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4
@@ -1197,7 +1208,8 @@
                         "1x2",
                         "2x3+2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -1286,6 +1298,461 @@
     },
     {
         "platform_name_keywords": [
+            "DL325 Gen11"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "4LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any",
+                        "1x4"
+                    ],
+                    "SFF": [],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/front/4LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 42,
+                                "z": 22
+                            },
+                            {
+                                "x": 184,
+                                "z": 22
+                            },
+                            {
+                                "x": 326,
+                                "z": 22
+                            },
+                            {
+                                "x": 468,
+                                "z": 22
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "8SFF_2SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any",
+                        "1x2",
+                        "2x3+2"
+                    ],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    8,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/front/8SFF_2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 44,
+                                "z": 11
+                            },
+                            {
+                                "x": 44,
+                                "z": 35
+                            },
+                            {
+                                "x": 150,
+                                "z": 11
+                            },
+                            {
+                                "x": 150,
+                                "z": 35
+                            },
+                            {
+                                "x": 256,
+                                "z": 11
+                            },
+                            {
+                                "x": 256,
+                                "z": 35
+                            },
+                            {
+                                "x": 362,
+                                "z": 35
+                            },
+                            {
+                                "x": 362,
+                                "z": 35
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 362,
+                                "z": 11
+                            },
+                            {
+                                "x": 362,
+                                "z": 11
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    },
+                    "5": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    }
+                }
+            },
+            {
+                "form_factor": "20EDSFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [],
+                    "UFF": [],
+                    "EDSFF": [
+                        "any"
+                    ]
+                },
+                "box_capacity": [
+                    20
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/front/20EDSFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_EDSFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_EDSFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 34,
+                                "z": 5
+                            },
+                            {
+                                "x": 34,
+                                "z": 16
+                            },
+                            {
+                                "x": 34,
+                                "z": 27
+                            },
+                            {
+                                "x": 34,
+                                "z": 38
+                            },
+                            {
+                                "x": 137,
+                                "z": 5
+                            },
+                            {
+                                "x": 137,
+                                "z": 16
+                            },
+                            {
+                                "x": 137,
+                                "z": 27
+                            },
+                            {
+                                "x": 137,
+                                "z": 38
+                            },
+                            {
+                                "x": 238,
+                                "z": 5
+                            },
+                            {
+                                "x": 238,
+                                "z": 16
+                            },
+                            {
+                                "x": 238,
+                                "z": 27
+                            },
+                            {
+                                "x": 238,
+                                "z": 38
+                            },
+                            {
+                                "x": 338,
+                                "z": 5
+                            },
+                            {
+                                "x": 338,
+                                "z": 16
+                            },
+                            {
+                                "x": 338,
+                                "z": 27
+                            },
+                            {
+                                "x": 338,
+                                "z": 38
+                            },
+                            {
+                                "x": 440,
+                                "z": 5
+                            },
+                            {
+                                "x": 440,
+                                "z": 16
+                            },
+                            {
+                                "x": 440,
+                                "z": 27
+                            },
+                            {
+                                "x": 440,
+                                "z": 38
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    },
+                    "5": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    }
+                }
+            },
+            {
+                "form_factor": "4SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any"
+                    ],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    2,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/front/4SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 42,
+                                "z": 9
+                            },
+                            {
+                                "x": 149,
+                                "z": 9
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 42,
+                                "z": 33
+                            },
+                            {
+                                "x": 148,
+                                "z": 33
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    },
+                    "5": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    }
+                }
+            },
+            {
+                "form_factor": "8EDSFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [],
+                    "UFF": [],
+                    "EDSFF": [
+                        "any"
+                    ]
+                },
+                "box_capacity": [
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/front/8EDSFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_EDSFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL325_Gen11/Disk_horizontal_EDSFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 34,
+                                "z": 5
+                            },
+                            {
+                                "x": 34,
+                                "z": 16
+                            },
+                            {
+                                "x": 34,
+                                "z": 27
+                            },
+                            {
+                                "x": 34,
+                                "z": 38
+                            },
+                            {
+                                "x": 137,
+                                "z": 5
+                            },
+                            {
+                                "x": 137,
+                                "z": 16
+                            },
+                            {
+                                "x": 137,
+                                "z": 27
+                            },
+                            {
+                                "x": 137,
+                                "z": 38
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": 1
+                    },
+                    "4": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    },
+                    "5": {
+                        "location": "front",
+                        "virtual_box_id": 2
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "platform_name_keywords": [
             "DL360 Gen10"
         ],
         "platform_details": [
@@ -1298,7 +1765,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4
@@ -1353,7 +1821,8 @@
                         "any",
                         "2x3+2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8
@@ -1425,7 +1894,8 @@
                         "2x3+2",
                         "1x2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -1511,7 +1981,8 @@
                         "any",
                         "2x5"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     10
@@ -1590,7 +2061,8 @@
                         "any",
                         "1x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     1
@@ -1643,7 +2115,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4
@@ -1694,7 +2167,8 @@
                         "any",
                         "2x3+2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8
@@ -1766,7 +2240,8 @@
                         "2x3+2",
                         "1x2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -1847,7 +2322,8 @@
                     "SFF": [
                         "any"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     20
@@ -1972,7 +2448,8 @@
                         "any",
                         "1x2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -2077,7 +2554,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4,
@@ -2190,7 +2668,8 @@
                         "any",
                         "1x8"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -2352,7 +2831,8 @@
                         "1x8",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -2495,7 +2975,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     0,
@@ -2563,7 +3044,8 @@
                         "any"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4
@@ -2648,7 +3130,8 @@
                         "any",
                         "1x2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -2749,7 +3232,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4,
@@ -2858,7 +3342,8 @@
                         "any",
                         "1x8"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -3015,7 +3500,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     0,
@@ -3091,7 +3577,8 @@
                         "any",
                         "1x2"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -3192,7 +3679,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4,
@@ -3301,7 +3789,8 @@
                         "any",
                         "1x8"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -3459,7 +3948,8 @@
                         "1x8",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -3601,7 +4091,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -3676,7 +4167,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     0,
@@ -3741,7 +4233,8 @@
                         "2x1+1"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     0,
@@ -3810,7 +4303,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2,
@@ -3902,7 +4396,8 @@
                         "1x4"
                     ],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     4,
@@ -3999,7 +4494,8 @@
                         "any",
                         "1x8"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     8,
@@ -4151,7 +4647,8 @@
                         "any",
                         "2x1"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     2
@@ -4195,7 +4692,8 @@
                 "backplane_supported_shape": {
                     "LFF": [],
                     "SFF": [],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     40
@@ -4396,7 +4894,8 @@
                     "SFF": [
                         "any"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     20
@@ -4510,7 +5009,8 @@
                     "SFF": [
                         "any"
                     ],
-                    "UFF": []
+                    "UFF": [],
+                    "EDSFF": []
                 },
                 "box_capacity": [
                     20
