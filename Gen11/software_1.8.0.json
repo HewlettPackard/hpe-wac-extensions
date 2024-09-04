@@ -5,10 +5,10 @@
 	}, 
 	"ams":  {
                 "Microsoft Windows Server 2019":  {
-                                                      "HPE Gen11 Agentless Management Service for Microsoft Windows x64   ":  "3.40.0.1"
+                                                      "Agentless Management Service for Microsoft Windows x64":  "3.40.0.1"
                                                   },
                 "Microsoft Windows Server 2022":  {
-                                                      "HPE Gen11 Agentless Management Service for Microsoft Windows x64   ":  "3.40.0.1"
+                                                      "Agentless Management Service for Microsoft Windows x64":  "3.40.0.1"
                                                   }
             },
     "url":  {
