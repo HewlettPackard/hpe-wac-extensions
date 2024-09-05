@@ -1,8 +1,8 @@
 ﻿{
 	"version": "SPP2024040000",
-    "SPPVersion": {
-		"version": "2024.04.00.00"
-	},
+    "SPPVersion":  {
+                       "SPPVersion":  "2024.04.00.00"
+                   },
     "ams":  {
                 "Microsoft Windows Server 2016":  {
                                                       "Agentless Management Service for Microsoft Windows x64":  "2.51.4.2"
@@ -1659,22 +1659,22 @@
                                                                  "nicfwupg_intel.win64_Gen9_Gen10":  "5.3.6.0",
                                                                  "ixs.w2k22":  "4.1.252.0"
                                                              },
-                   "Intel&reg; 82599 Virtual Function":  {
+                   "Intel® 82599 Virtual Function":  {
                                                                   "vxn.w2k19":  "2.1.249.0"
                                                               },
-                   "IntelÂ® 82599 Virtual Function for 560FLR-SFP+ VMware":  {
+                   "Intel® 82599 Virtual Function for 560FLR-SFP+ VMware":  {
                                                                                  "vxn.w2k19":  "2.1.249.0"
                                                                              },
-                   "Intel&reg; 82599 Virtual Function for 560SFP+ VMware":  {
+                   "Intel® 82599 Virtual Function for 560SFP+ VMware":  {
                                                                                      "vxn.w2k19":  "2.1.249.0"
                                                                                  },
-                   "Intel&reg; X540 Virtual Function":  {
+                   "Intel® X540 Virtual Function":  {
                                                                  "vxn.w2k19":  "2.1.249.0"
                                                              },
-                   "Intel&reg; X540 Virtual Function for 561FLR-T VMware":  {
+                   "Intel® X540 Virtual Function for 561FLR-T VMware":  {
                                                                                      "vxn.w2k19":  "2.1.249.0"
                                                                                  },
-                   "IntelÂ® X540 Virtual Function for 561T VMware":  {
+                   "Intel® X540 Virtual Function for 561T VMware":  {
                                                                          "vxn.w2k19":  "2.1.249.0"
                                                                      },
                    "MM1000GFJTE":  {
@@ -3173,7 +3173,7 @@
                                          "VK000960JWSSQ_VK001920JWSSR_VK003840JWSST_x64":  "HPD8(F)"
                                      }
                },
-    "AMSLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&collectionId=MTX-e9a54d5b255e4c18",
+    "AMSLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&collectionId=MTX-ada99fb833d94a8b",
     "SysRomLink":  "https://techlibrary.hpe.com/us/en/enterprise/servers/products/service_pack/spp/index.aspx?version=gen10.2024.04.00.00",
     "SysRomVersion":  null,
     "AMSVersion":  "2.51.4.2",

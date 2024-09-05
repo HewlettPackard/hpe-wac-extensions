@@ -1,9 +1,9 @@
 ﻿{
 	"version": "SPP2024040000",
-    "SPPVersion": {
+	"SPPVersion": {
 		"version": "2024.04.00.00"
-	}, 
-	"ams":  {
+	},
+    "ams":  {
                 "Microsoft Windows Server 2019":  {
                                                       "Agentless Management Service for Microsoft Windows x64":  "3.40.0.1"
                                                   },
