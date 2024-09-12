@@ -3176,12 +3176,12 @@
                                                                                                                     "nvmenmifix.gen10.win":  "1.1.0.0(E)"
                                                                                                                 }
                },
-    "AMSLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US\u0026softwareId=MTX_237dbbddb4bd448ea0eb8ebc9c",
-    "SysRomLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US\u0026softwareId=MTX_237dbbddb4bd448ea0eb8ebc9c",
+    "AMSLink":  "https://www.hpe.com/global/swpublishing/MTX-28aefcf2e04d4d839479a2d17c",
+    "SysRomLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_87b1b54bc5754779b064e18dbc",
     "SysRomVersion":  null,
     "AMSVersion":  "2.51.4.2",
     "SysInfoLink":  "https://www.powershellgallery.com/packages/HPESysInfoCmdlets",
-    "iLOFWLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US\u0026softwareId=MTX_237dbbddb4bd448ea0eb8ebc9c",
+    "iLOFWLink":  "https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_237dbbddb4bd448ea0eb8ebc9c",
     "iLOFWVersion":  "2.42",
     "SysInfoVersion":  "1.6.0.1",
     "NVDIMMLink":  "https://www.powershellgallery.com/packages/HPENVDIMMCmdlets/",
