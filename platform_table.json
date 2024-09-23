@@ -5117,5 +5117,581 @@
                 }
             }
         ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL345 Gen11"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "12LFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any"
+                    ],
+                    "SFF": [],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    4,
+                    4,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL345_Gen11/front/12LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 3
+                            },
+                            {
+                                "x": 129,
+                                "z": 3
+                            },
+                            {
+                                "x": 228,
+                                "z": 3
+                            },
+                            {
+                                "x": 327,
+                                "z": 3
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 30,
+                                "z": 30
+                            },
+                            {
+                                "x": 129,
+                                "z": 30
+                            },
+                            {
+                                "x": 228,
+                                "z": 30
+                            },
+                            {
+                                "x": 327,
+                                "z": 30
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 30,
+                                "z": 55
+                            },
+                            {
+                                "x": 129,
+                                "z": 55
+                            },
+                            {
+                                "x": 228,
+                                "z": 55
+                            },
+                            {
+                                "x": 327,
+                                "z": 55
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "24SFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any"
+                    ],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    8,
+                    8,
+                    8
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL345_Gen11/front/24SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_SFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 30,
+                                "z": 6
+                            },
+                            {
+                                "x": 46,
+                                "z": 6
+                            },
+                            {
+                                "x": 61,
+                                "z": 6
+                            },
+                            {
+                                "x": 75,
+                                "z": 6
+                            },
+                            {
+                                "x": 90,
+                                "z": 6
+                            },
+                            {
+                                "x": 105,
+                                "z": 6
+                            },
+                            {
+                                "x": 120,
+                                "z": 6
+                            },
+                            {
+                                "x": 135,
+                                "z": 6
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 156,
+                                "z": 6
+                            },
+                            {
+                                "x": 171,
+                                "z": 6
+                            },
+                            {
+                                "x": 186,
+                                "z": 6
+                            },
+                            {
+                                "x": 201,
+                                "z": 6
+                            },
+                            {
+                                "x": 216,
+                                "z": 6
+                            },
+                            {
+                                "x": 231,
+                                "z": 6
+                            },
+                            {
+                                "x": 246,
+                                "z": 6
+                            },
+                            {
+                                "x": 261,
+                                "z": 6
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 281,
+                                "z": 6
+                            },
+                            {
+                                "x": 296,
+                                "z": 6
+                            },
+                            {
+                                "x": 311,
+                                "z": 6
+                            },
+                            {
+                                "x": 326,
+                                "z": 6
+                            },
+                            {
+                                "x": 341,
+                                "z": 6
+                            },
+                            {
+                                "x": 356,
+                                "z": 6
+                            },
+                            {
+                                "x": 371,
+                                "z": 6
+                            },
+                            {
+                                "x": 386,
+                                "z": 6
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "36EDSFF",
+                "form_factor_location": "front",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [],
+                    "UFF": [],
+                    "EDSFF": [
+                        "any"
+                    ]
+                },
+                "box_capacity": [
+                    12,
+                    12,
+                    12
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL345_Gen11/front/36EDSFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_EDSFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_EDSFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 33,
+                                "z": 2
+                            },
+                            {
+                                "x": 42,
+                                "z": 2
+                            },
+                            {
+                                "x": 51,
+                                "z": 2
+                            },
+                            {
+                                "x": 60,
+                                "z": 2
+                            },
+                            {
+                                "x": 69,
+                                "z": 2
+                            },
+                            {
+                                "x": 78,
+                                "z": 2
+                            },
+                            {
+                                "x": 87,
+                                "z": 2
+                            },
+                            {
+                                "x": 96,
+                                "z": 2
+                            },
+                            {
+                                "x": 105,
+                                "z": 2
+                            },
+                            {
+                                "x": 114,
+                                "z": 2
+                            },
+                            {
+                                "x": 123,
+                                "z": 2
+                            },
+                            {
+                                "x": 132,
+                                "z": 2
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 161,
+                                "z": 2
+                            },
+                            {
+                                "x": 170,
+                                "z": 2
+                            },
+                            {
+                                "x": 179,
+                                "z": 2
+                            },
+                            {
+                                "x": 188,
+                                "z": 2
+                            },
+                            {
+                                "x": 197,
+                                "z": 2
+                            },
+                            {
+                                "x": 206,
+                                "z": 2
+                            },
+                            {
+                                "x": 215,
+                                "z": 2
+                            },
+                            {
+                                "x": 224,
+                                "z": 2
+                            },
+                            {
+                                "x": 233,
+                                "z": 2
+                            },
+                            {
+                                "x": 242,
+                                "z": 2
+                            },
+                            {
+                                "x": 251,
+                                "z": 2
+                            },
+                            {
+                                "x": 260,
+                                "z": 2
+                            }
+                        ],
+                        "3": [
+                            {
+                                "x": 288,
+                                "z": 2
+                            },
+                            {
+                                "x": 297,
+                                "z": 2
+                            },
+                            {
+                                "x": 306,
+                                "z": 2
+                            },
+                            {
+                                "x": 315,
+                                "z": 2
+                            },
+                            {
+                                "x": 324,
+                                "z": 2
+                            },
+                            {
+                                "x": 333,
+                                "z": 2
+                            },
+                            {
+                                "x": 342,
+                                "z": 2
+                            },
+                            {
+                                "x": 351,
+                                "z": 2
+                            },
+                            {
+                                "x": 360,
+                                "z": 2
+                            },
+                            {
+                                "x": 369,
+                                "z": 2
+                            },
+                            {
+                                "x": 378,
+                                "z": 2
+                            },
+                            {
+                                "x": 387,
+                                "z": 2
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "3": {
+                        "location": "front",
+                        "virtual_box_id": -1
+                    },
+                    "4": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "5": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "6": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "4LFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [
+                        "any"
+                    ],
+                    "SFF": [],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    0,
+                    0,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL345_Gen11/rear/4LFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_LFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_LFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "8": [
+                            {
+                                "x": 28,
+                                "z": 15
+                            },
+                            {
+                                "x": 127,
+                                "z": 15
+                            },
+                            {
+                                "x": 227,
+                                "z": 15
+                            },
+                            {
+                                "x": 327,
+                                "z": 15
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any"
+                    ],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    0,
+                    0,
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL345_Gen11/rear/2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_horizontal_SFF.pngg"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "8": [
+                            {
+                                "x": 316,
+                                "z": 7
+                            },
+                            {
+                                "x": 316,
+                                "z": 24
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "8": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
     }
 ]
