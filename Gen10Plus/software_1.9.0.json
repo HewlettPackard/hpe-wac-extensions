@@ -4697,7 +4697,12 @@
                                                                      "w2k22",
                                                                      "w2k22_rt",
                                                                      "win2022"
-                                                                 ]
+                                                                 ],
+								"Microsoft Windows Server 2025": [
+																	"w2k25",
+																	"w2k25_rt",
+																	"win2025"
+																 ]
                            },
     "cmdlet":  {
                    "sysinfo":  "1.6.0.1",
