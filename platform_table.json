@@ -5694,5 +5694,121 @@
                 }
             }
         ]
+    },
+    {
+        "platform_name_keywords": [
+            "DL145 Gen11"
+        ],
+        "platform_details": [
+            {
+                "form_factor": "6EDSFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [],
+                    "UFF": [],
+                    "EDSFF": [
+                        "any"
+                    ]
+                },
+                "box_capacity": [
+                    2,
+                    4
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL145_Gen11/rear/6EDSFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_horizontal_EDSFF.png"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_horizontal_EDSFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 86,
+                                "z": 7
+                            },
+                            {
+                                "x": 86,
+                                "z": 18
+                            }
+                        ],
+                        "2": [
+                            {
+                                "x": 86,
+                                "z": 26
+                            },
+                            {
+                                "x": 86,
+                                "z": 35
+                            },
+                            {
+                                "x": 86,
+                                "z": 44
+                            },
+                            {
+                                "x": 86,
+                                "z": 54
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    },
+                    "2": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            },
+            {
+                "form_factor": "2SFF",
+                "form_factor_location": "rear",
+                "backplane_supported_shape": {
+                    "LFF": [],
+                    "SFF": [
+                        "any"
+                    ],
+                    "UFF": [],
+                    "EDSFF": []
+                },
+                "box_capacity": [
+                    2
+                ],
+                "graphics_info": {
+                    "chasis_img": "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/ProLiant_DL145_Gen11/rear/2SFF.png",
+                    "disk_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_horizontal_SFF.pngg"
+                    ],
+                    "disk_led_imgs": [
+                        "https://raw.githubusercontent.com/HewlettPackard/hpe-wac-extensions/master/assets/images/Disk_horizontal_SFF_LED.png"
+                    ],
+                    "box_disk_img": [],
+                    "coordinate": {
+                        "1": [
+                            {
+                                "x": 86,
+                                "z": 31
+                            },
+                            {
+                                "x": 86,
+                                "z": 49
+                            }
+                        ]
+                    }
+                },
+                "box_location": {
+                    "1": {
+                        "location": "rear",
+                        "virtual_box_id": -1
+                    }
+                }
+            }
+        ]
     }
 ]
