@@ -1531,7 +1531,7 @@
     },
     {
         "nvram_id": "0x0134",
-        "nvram_name": "24 SFF 12G X1SAS UBM2 BC BP ",
+        "nvram_name": "24 SFF 12G X1SAS UBM2 BC BP",
         "location": [
             "front"
         ],
@@ -1561,7 +1561,7 @@
     },
     {
         "nvram_id": "0x0141",
-        "nvram_name": "4 LFF 12G x1SAS UBM3 LP BP (Tower)",
+        "nvram_name": "4 LFF 12G x1SAS UBM3 LP BP",
         "location": [
             "front"
         ],
@@ -1571,7 +1571,7 @@
     },
     {
         "nvram_id": "0x0142",
-        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP (2U Front)",
+        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP",
         "location": [
             "front"
         ],
@@ -1581,7 +1581,7 @@
     },
     {
         "nvram_id": "0x0143",
-        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP (2U Mid)",
+        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP",
         "location": [
             "middle"
         ],
@@ -1591,7 +1591,7 @@
     },
     {
         "nvram_id": "0x0144",
-        "nvram_name": "2 SFF 32G x4NVMe/SAS UBM3 BC BP (Stacked)",
+        "nvram_name": "2 SFF 32G x4NVMe/SAS UBM3 BC BP",
         "location": [
             "front"
         ],
@@ -1601,7 +1601,7 @@
     },
     {
         "nvram_id": "0x0145",
-        "nvram_name": "12 E3S 32G x4NVMe UBM5 EC BP (2U)",
+        "nvram_name": "12 E3S 32G x4NVMe UBM5 EC BP",
         "location": [
             "front"
         ],
@@ -1611,7 +1611,7 @@
     },
     {
         "nvram_id": "0x0146",
-        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP (1U Front)",
+        "nvram_name": "8 SFF 32G x4NVMe/SAS UBM3 BC BP",
         "location": [
             "front"
         ],
@@ -1621,7 +1621,7 @@
     },
     {
         "nvram_id": "0x0147",
-        "nvram_name": "2 SFF 32G x4NVMe/SAS UBM3 BC BP (Side-by-side)",
+        "nvram_name": "2 SFF 32G x4NVMe/SAS UBM3 BC BP",
         "location": [
             "front"
         ],
@@ -1631,7 +1631,7 @@
     },
     {
         "nvram_id": "0x0148",
-        "nvram_name": "20 E3S 32G x4NVMe UBM5 EC BP (1U)",
+        "nvram_name": "20 E3S 32G x4NVMe UBM5 EC BP",
         "location": [
             "front"
         ],
@@ -1641,7 +1641,7 @@
     },
     {
         "nvram_id": "0x0149",
-        "nvram_name": "10 SFF 32G24G x4NVMe UBM4 BC BP",
+        "nvram_name": "10 SFF 24G x4NVMe UBM4 BC BP",
         "location": [
             "front"
         ],
@@ -1661,7 +1661,7 @@
     },
     {
         "nvram_id": "0x014B",
-        "nvram_name": "4 SFF 12G x1SAS UBM3 BC BP (1U Front)",
+        "nvram_name": "4 SFF 12G x1SAS UBM3 BC BP",
         "location": [
             "front"
         ],
@@ -1741,23 +1741,13 @@
     },
     {
         "nvram_id": "0x0153",
-        "nvram_name": "6 SFF 32G24G x4NVMe/SAS UBM3 BC BP",
+        "nvram_name": "6 SFF 24G x4NVMe/SAS UBM3 BC BP",
         "location": [
             "rear"
         ],
         "form_factor": "SFF",
         "shape": "",
         "number_of_drives": 6
-    },
-    {
-        "nvram_id": "0x0154",
-        "nvram_name": "12 E3S 32G x4NVMe UBM5 EC BP (re-use of 014Dh)",
-        "location": [
-            "rear"
-        ],
-        "form_factor": "EDSFF",
-        "shape": "",
-        "number_of_drives": 12
     },
     {
         "nvram_id": "0x0155",
@@ -1771,7 +1761,7 @@
     },
     {
         "nvram_id": "0x0156",
-        "nvram_name": "6 SFF 32G24G x4NVMe UBM4 BC BP",
+        "nvram_name": "6 SFF 24G x4NVMe UBM4 BC BP",
         "location": [
             "rear"
         ],
@@ -2079,26 +2069,6 @@
         "form_factor": "LFF",
         "shape": "",
         "number_of_drives": 30
-    },
-    {
-        "nvram_id": "0x0175",
-        "nvram_name": "8 SFF 24G x4NVMe/SAS UBM6 BC BP",
-        "location": [
-            "middle"
-        ],
-        "form_factor": "SFF",
-        "shape": "",
-        "number_of_drives": 8
-    },
-    {
-        "nvram_id": "0x0176",
-        "nvram_name": "2 SFF 24G x4NVMe/SAS UBM6 BC BP",
-        "location": [
-            "rear"
-        ],
-        "form_factor": "SFF",
-        "shape": "",
-        "number_of_drives": 2
     },
     {
         "nvram_id": "0x0177",
