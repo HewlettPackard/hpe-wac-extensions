@@ -1349,21 +1349,9 @@
                 "box_location": {
                     "1": {
                         "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "2": {
-                        "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "3": {
-                        "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "4": {
-                        "location": "front",
                         "virtual_box_id": -1
                     },
-                    "5": {
+                    "2": {
                         "location": "front",
                         "virtual_box_id": -1
                     }
@@ -1445,23 +1433,11 @@
                 "box_location": {
                     "1": {
                         "location": "front",
-                        "virtual_box_id": 1
+                        "virtual_box_id": -1
                     },
                     "2": {
                         "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "3": {
-                        "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "4": {
-                        "location": "front",
-                        "virtual_box_id": 2
-                    },
-                    "5": {
-                        "location": "front",
-                        "virtual_box_id": 2
+                        "virtual_box_id": -1
                     }
                 }
             },
@@ -1576,23 +1552,11 @@
                 "box_location": {
                     "1": {
                         "location": "front",
-                        "virtual_box_id": 1
+                        "virtual_box_id": -1
                     },
                     "2": {
                         "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "3": {
-                        "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "4": {
-                        "location": "front",
-                        "virtual_box_id": 2
-                    },
-                    "5": {
-                        "location": "front",
-                        "virtual_box_id": 2
+                        "virtual_box_id": -1
                     }
                 }
             },
@@ -1646,23 +1610,11 @@
                 "box_location": {
                     "1": {
                         "location": "front",
-                        "virtual_box_id": 1
+                        "virtual_box_id": -1
                     },
                     "2": {
                         "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "3": {
-                        "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "4": {
-                        "location": "front",
-                        "virtual_box_id": 2
-                    },
-                    "5": {
-                        "location": "front",
-                        "virtual_box_id": 2
+                        "virtual_box_id": -1
                     }
                 }
             },
@@ -1729,23 +1681,11 @@
                 "box_location": {
                     "1": {
                         "location": "front",
-                        "virtual_box_id": 1
+                        "virtual_box_id": -1
                     },
                     "2": {
                         "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "3": {
-                        "location": "front",
-                        "virtual_box_id": 1
-                    },
-                    "4": {
-                        "location": "front",
-                        "virtual_box_id": 2
-                    },
-                    "5": {
-                        "location": "front",
-                        "virtual_box_id": 2
+                        "virtual_box_id": -1
                     }
                 }
             }
